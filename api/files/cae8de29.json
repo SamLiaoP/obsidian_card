@@ -1,0 +1,8 @@
+{
+  "file_id": "cae8de29",
+  "name": "4.1d2b 策略模式.md",
+  "path": "4. 軟體開發/4.1 物件導向設計/4.1d 設計模式/4.1d2 行為型模式/4.1d2b 策略模式.md",
+  "content": "#物件導向設計 #軟體開發\n策略模式 (Single Responsibility Principle, SRP)\n## 內容：\n### 觀點\n定義一系列的演算法，並且把這些算法，  \n用介面封裝到有公共介面的策略類中，使他們可以互相替換。\n\n- Context 策略的使用者\n- Strategy Interface 定義一組算法的共同接口\n- Strategy 實現策略接口的具體算法\n\n由 Context 來決定 Strategy Interface 實際上要做哪一個 Strategy\n![[Pasted image 20240816151045.png]]\n### 案例\n![[截圖 2024-08-16 下午3.11.04.png]]\n![[截圖 2024-08-16 下午3.11.15.png]]\n![[截圖 2024-08-16 下午3.11.45.png]]\n![[截圖 2024-08-16 下午3.11.57.png]]\n\n\n### 總結\n\n\n\n## 參考來源：",
+  "size": 443,
+  "lines": 25
+}

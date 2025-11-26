@@ -1,5 +1,202 @@
 # SNAPSHOT - 專案變更記錄
 
+## 2024-11-26 - 文件整理與統整
+
+### 📝 變更內容
+
+**刪除重複和過時的文件**：
+- ❌ `API_UPGRADE_SUMMARY.md` - 一次性升級說明（已記錄在 SNAPSHOT）
+- ❌ `GPT_CONFIG_SUMMARY.md` - 與 GPT_SETUP_GUIDE 重複
+- ❌ `API_TEST_EXAMPLES.md` - 測試範例（已合併到 README）
+- ❌ `DEPLOY_GUIDE.md` - 部署指南（已合併到 README）
+
+**更新主要文件**：
+- ✅ `README.md` - 重寫為綜合主文檔
+- ✅ `GPT_SETUP_GUIDE.md` - 簡化為實用指南
+- ✅ `QUICK_START.md` - 保持不變（最重要）
+
+**最終文件結構**：
+```
+核心文件（必需）：
+├── README.md               - 主文檔（API 說明、使用範例、FAQ）
+├── QUICK_START.md          - 快速開始（3 步驟配置）
+├── SNAPSHOT.md             - 變更記錄
+
+GPT 配置文件：
+├── GPT_ACTIONS_SCHEMA.yaml - OpenAPI Schema（複製到 GPT）
+├── GPT_INSTRUCTIONS.md     - 系統提示詞（複製到 GPT）
+└── GPT_SETUP_GUIDE.md      - 詳細設定指南
+
+生成腳本與配置：
+├── generate_tree.py        - 生成腳本
+├── index.html              - API 說明頁
+└── .github/workflows/      - CI/CD
+```
+
+### 🎯 整理目標
+
+1. **減少冗餘** - 刪除 4 個重複文件
+2. **清晰結構** - 每個文件有明確用途
+3. **易於使用** - README 成為主要入口
+4. **快速上手** - QUICK_START 保持簡潔
+
+### 📊 文件用途
+
+| 文件 | 用途 | 目標讀者 |
+|------|------|----------|
+| `README.md` | 專案概覽、API 說明、完整範例 | 所有用戶 |
+| `QUICK_START.md` | 3 步驟快速配置 GPT | 想快速開始的用戶 |
+| `GPT_SETUP_GUIDE.md` | 詳細設定步驟、故障排除 | 需要深入了解的用戶 |
+| `GPT_ACTIONS_SCHEMA.yaml` | API 定義 | 直接複製使用 |
+| `GPT_INSTRUCTIONS.md` | 系統提示詞 | 直接複製使用 |
+
+### 💡 建議的閱讀順序
+
+1. **快速開始** → `QUICK_START.md`（3 分鐘）
+2. **完整了解** → `README.md`（10 分鐘）
+3. **詳細配置** → `GPT_SETUP_GUIDE.md`（需要時）
+4. **變更歷史** → `SNAPSHOT.md`（需要時）
+
+---
+
+## 2024-11-26 - 添加直接訪問 Markdown 內容的 API（解決 Web Browsing 限制）
+
+### 📝 問題
+
+GPT 的 Web Browsing 功能無法直接訪問 GitHub Pages 上的 Markdown 檔案：
+- Web Browsing 對靜態檔案支援有限
+- 無法可靠地獲取 .md 檔案內容
+- 需要複雜的 URL encoding 處理
+
+### 🔧 解決方案
+
+**為每個 Markdown 檔案生成對應的 JSON 檔案**，通過 GPT Actions 直接訪問：
+
+#### 新增功能
+
+1. **檔案 ID 系統**
+   - 為每個 MD 檔案生成唯一的 8 位 ID（MD5 hash 前 8 位）
+   - 範例：`1. 個人知識管理/file.md` → file_id: `a1b2c3d4`
+
+2. **檔案內容 JSON**（`api/files/{file_id}.json`）
+   - 包含完整的 Markdown 內容
+   - 包含檔案元資訊（名稱、路徑、大小、行數）
+   - 總共 235 個檔案，總大小 976KB
+
+3. **新增 API 端點**：`/api/files/{file_id}.json`
+   - 直接通過 file_id 獲取內容
+   - 不需要 URL encoding
+   - 平均回應大小：~4KB
+
+#### 修改的檔案
+
+**generate_tree.py**：
+- 新增 `generate_file_id()` 函數
+- 新增 `generate_file_contents()` 函數
+- 修改 `generate_search_index()` 添加 file_id 欄位
+- 自動生成 `api/files/` 目錄和所有 JSON 檔案
+
+**search.json**：
+- 每個檔案增加 `file_id` 欄位
+- 現在包含：name, path, file_id
+
+**GPT_ACTIONS_SCHEMA.yaml**：
+- 新增 `/api/files/{file_id}.json` 端點
+- 定義 `getFileContent` operation
+- 新增 `FileContent` schema
+
+**GPT_INSTRUCTIONS.md**：
+- 更新工作流程，使用 file_id 而非 Web Browsing
+- 移除 URL encoding 說明
+- 添加 getFileContent 使用範例
+
+**GPT_CONFIG_SUMMARY.md**：
+- 更新 API 端點列表
+- 修改測試檢查清單
+- 更新效能指標
+- Web Browsing 不再需要 ❌
+
+### 📊 新的 API 架構
+
+```
+用戶查詢流程：
+
+1. getKnowledgeBaseIndex
+   ↓ 返回分類摘要
+   
+2. searchKnowledgeBase（如需要）
+   ↓ 返回檔案列表 + file_id
+   
+3. getFileContent(file_id)
+   ↓ 返回完整內容
+   
+4. GPT 整合回答
+```
+
+### 📁 新增的檔案結構
+
+```
+api/
+└── files/
+    ├── a1b2c3d4.json  (檔案內容 + 元資訊)
+    ├── b2c3d4e5.json
+    ├── ...
+    └── (總共 235 個檔案)
+```
+
+### 💡 優勢
+
+1. **不依賴 Web Browsing**：使用純 Actions API
+2. **簡化流程**：不需要 URL encoding
+3. **穩定可靠**：標準 REST API 調用
+4. **快速回應**：平均檔案大小 ~4KB
+5. **易於除錯**：可以直接測試 file_id
+
+### 🔄 使用範例
+
+#### 舊方式（Web Browsing - 有問題）
+```
+1. 從 search 獲取路徑
+2. 進行複雜的 URL encoding
+3. 使用 Web Browsing 訪問
+4. 可能失敗或無法訪問
+```
+
+#### 新方式（Actions - 推薦）✨
+```
+1. 從 search 獲取 file_id: "a1b2c3d4"
+2. 調用 getFileContent(file_id="a1b2c3d4")
+3. 立即獲得完整內容
+```
+
+### 📈 統計資訊
+
+- **檔案數量**：235 個 Markdown 檔案
+- **JSON 檔案總大小**：976KB
+- **平均檔案大小**：~4KB
+- **file_id 長度**：8 個字符（16^8 = 約 43 億種組合，無碰撞）
+
+### ⚙️ 配置變更
+
+**GPT Settings 需要修改**：
+- ❌ Web Browsing：不再需要
+- ✅ Actions：必須配置三個端點
+  1. getKnowledgeBaseIndex
+  2. searchKnowledgeBase
+  3. getFileContent（新增）
+
+### 🎯 完成狀態
+
+- ✅ 為每個 MD 檔案生成 file_id
+- ✅ 生成 235 個檔案內容 JSON
+- ✅ 更新 search.json 包含 file_id
+- ✅ 添加 getFileContent API 端點
+- ✅ 更新 OpenAPI Schema
+- ✅ 更新 GPT Instructions
+- ✅ 更新配置文件
+
+---
+
 ## 2024-11-26 - 優化 GPT Actions API（解決 ResponseTooLargeError）
 
 ### 📝 問題

@@ -1,193 +1,366 @@
-# CARD Knowledge Base API
+# 🗂️ CARD Knowledge Base API
 
-這是一個可以部署在 GitHub Pages 的靜態 API，用於訪問 Obsidian 知識庫中的所有 Markdown 檔案。
+這是一個可以部署在 GitHub Pages 的靜態 API，用於訪問 Obsidian 知識庫中的所有 Markdown 檔案，特別優化給 GPT Actions 使用。
 
 ## 🌟 特色
 
-- ✅ 完全靜態，無需伺服器
-- ✅ 自動生成檔案樹狀結構
-- ✅ 支援中文路徑和檔名
-- ✅ RESTful API 風格
-- ✅ 自動部署到 GitHub Pages
+- ✅ **完全靜態** - 無需伺服器，GitHub Pages 免費託管
+- ✅ **GPT Actions 優化** - 支援通過 file_id 直接訪問內容
+- ✅ **自動生成索引** - 235 個 Markdown 檔案自動建立索引
+- ✅ **支援中文** - 完整支援中文路徑和檔名
+- ✅ **自動部署** - GitHub Actions CI/CD
+
+## 📊 API 架構
+
+| 端點 | 大小 | 用途 |
+|------|------|------|
+| `/index.json` | 6.8KB | 分類摘要（首次調用）|
+| `/search.json` | 50KB | 完整檔案列表 + file_id |
+| `/api/files/{file_id}.json` | ~4KB | 檔案完整內容 |
+| `/tree.json` | 214KB | 完整樹狀結構 |
 
 ## 🚀 快速開始
 
-### 本地測試
+### 方案 A：配置 GPT Actions（推薦）
 
-1. **生成檔案樹**
+**最快方式**：查看 [`QUICK_START.md`](QUICK_START.md)
+
+簡要步驟：
+1. 複製 `GPT_ACTIONS_SCHEMA.yaml` 到 GPT Actions
+2. 複製 `GPT_INSTRUCTIONS.md` 到 GPT Instructions
+3. 關閉 Web Browsing 功能
+
+### 方案 B：本地測試
 
 ```bash
-python generate_tree.py
+# 生成 API 檔案
+python3 generate_tree.py
+
+# 啟動本地伺服器
+python3 -m http.server 8000
+
+# 訪問
+open http://localhost:8000
 ```
 
-2. **啟動本地伺服器**
+### 方案 C：部署到 GitHub Pages
 
 ```bash
-python -m http.server 8000
-```
+# 1. 修改 base_url（generate_tree.py 第 142 行）
+base_url = "https://your-username.github.io/your-repo"
 
-3. **訪問 API**
-
-- 瀏覽器打開: http://localhost:8000
-- API 端點: http://localhost:8000/tree.json
-
-### 部署到 GitHub Pages
-
-1. **推送到 GitHub**
-
-```bash
+# 2. 提交並推送
 git add .
-git commit -m "Initial commit"
+git commit -m "Deploy to GitHub Pages"
 git push origin main
+
+# 3. 啟用 GitHub Pages
+# Settings > Pages > Source: GitHub Actions
+
+# 4. 等待 1-2 分鐘部署完成
 ```
 
-2. **啟用 GitHub Pages**
+## 🔌 API 使用範例
 
-- 進入倉庫的 Settings > Pages
-- Source 選擇 "GitHub Actions"
-- 等待自動部署完成
+### 使用 GPT Actions
 
-3. **訪問你的 API**
-
-部署完成後，你的 API 將可以在以下網址訪問：
-```
-https://{username}.github.io/{repo-name}/
+```yaml
+# GPT 會自動調用這些端點
+getKnowledgeBaseIndex()  # 獲取分類摘要
+searchKnowledgeBase()     # 搜索檔案
+getFileContent(file_id)   # 獲取內容
 ```
 
-## 📖 API 使用說明
+### 使用 cURL
 
-### 端點 1: 獲取完整檔案樹
+```bash
+# 獲取索引
+curl https://samliaop.github.io/obsidian_card/index.json
 
-```
-GET /tree.json
-```
+# 搜索檔案（獲取 file_id）
+curl https://samliaop.github.io/obsidian_card/search.json
 
-**回應格式：**
-
-```json
-{
-  "base_url": "https://username.github.io/CARD",
-  "total_files": 123,
-  "generated_at": "2024-11-26T12:00:00Z",
-  "tree": {
-    "name": "root",
-    "type": "directory",
-    "path": "",
-    "children": [...]
-  },
-  "files": [
-    {
-      "name": "檔案名稱.md",
-      "path": "資料夾/檔案名稱.md",
-      "url": "https://..."
-    }
-  ]
-}
+# 獲取檔案內容
+curl https://samliaop.github.io/obsidian_card/api/files/02f15f5d.json
 ```
 
-### 端點 2: 訪問 Markdown 檔案
-
-```
-GET /{path-to-file}.md
-```
-
-直接返回 Markdown 檔案的原始內容。
-
-## 💻 使用範例
-
-### JavaScript
-
-```javascript
-// 獲取檔案樹
-fetch('https://username.github.io/CARD/tree.json')
-  .then(res => res.json())
-  .then(data => {
-    console.log(`共有 ${data.total_files} 個檔案`);
-    console.log('所有檔案:', data.files);
-  });
-
-// 獲取特定檔案
-fetch(data.files[0].url)
-  .then(res => res.text())
-  .then(markdown => console.log(markdown));
-```
-
-### Python
+### 使用 Python
 
 ```python
 import requests
 
-# 獲取檔案樹
-response = requests.get('https://username.github.io/CARD/tree.json')
-data = response.json()
+BASE_URL = "https://samliaop.github.io/obsidian_card"
 
-print(f"共有 {data['total_files']} 個檔案")
+# 1. 獲取索引
+index = requests.get(f"{BASE_URL}/index.json").json()
+print(f"總共 {index['total_files']} 個檔案")
 
-# 獲取第一個檔案
-file_url = data['files'][0]['url']
-content = requests.get(file_url).text
-print(content)
+# 2. 搜索檔案
+search = requests.get(f"{BASE_URL}/search.json").json()
+first_file = search['categories'][0]['files'][0]
+print(f"檔案: {first_file['name']}, ID: {first_file['file_id']}")
+
+# 3. 獲取內容
+content = requests.get(f"{BASE_URL}/api/files/{first_file['file_id']}.json").json()
+print(f"內容: {content['content'][:100]}...")
 ```
 
-### cURL
+### 使用 JavaScript
 
-```bash
-# 獲取檔案樹
-curl https://username.github.io/CARD/tree.json
+```javascript
+const BASE_URL = 'https://samliaop.github.io/obsidian_card';
 
-# 獲取特定檔案（需要 URL encode）
-curl "https://username.github.io/CARD/path/to/file.md"
+// 獲取索引並顯示分類
+fetch(`${BASE_URL}/index.json`)
+  .then(res => res.json())
+  .then(index => {
+    console.log(`共有 ${index.total_files} 個檔案`);
+    index.categories.forEach(cat => {
+      console.log(`${cat.category}: ${cat.count} 個`);
+    });
+  });
 ```
 
-## 🔧 設定
+## 📖 完整文檔
 
-### 修改基礎 URL
+| 文檔 | 說明 |
+|------|------|
+| [QUICK_START.md](QUICK_START.md) | ⭐ 快速配置 GPT（3 步驟）|
+| [GPT_ACTIONS_SCHEMA.yaml](GPT_ACTIONS_SCHEMA.yaml) | OpenAPI Schema |
+| [GPT_INSTRUCTIONS.md](GPT_INSTRUCTIONS.md) | GPT 系統提示詞 |
+| [GPT_SETUP_GUIDE.md](GPT_SETUP_GUIDE.md) | 詳細設定指南 |
+| [SNAPSHOT.md](SNAPSHOT.md) | 變更記錄 |
 
-編輯 `generate_tree.py` 中的 `base_url` 變數：
+## 🔧 進階配置
+
+### 修改 Base URL
+
+編輯 `generate_tree.py` 第 142 行：
 
 ```python
-# 格式: https://{username}.github.io/{repo-name}
-base_url = "https://your-username.github.io/CARD"
+base_url = "https://your-username.github.io/your-repo"
 ```
 
-### 忽略特定檔案或資料夾
+⚠️ **注意**：URL 必須全小寫（OpenAI 要求）
 
-在 `generate_tree.py` 的 `should_ignore()` 函數中添加：
+### 忽略特定檔案
+
+編輯 `generate_tree.py` 第 16-20 行：
 
 ```python
 ignore_patterns = {
-    '.git', '.github', 'node_modules',
-    '你想忽略的資料夾名稱',
+    '.git', '.github', 'api',
+    'your-folder-to-ignore',
     # ...
 }
+```
+
+### 更新內容
+
+```bash
+# 編輯 Markdown 檔案後
+python3 generate_tree.py  # 重新生成
+git add .
+git commit -m "Update content"
+git push                   # 自動部署
 ```
 
 ## 📁 專案結構
 
 ```
 CARD/
-├── .github/
-│   └── workflows/
-│       └── deploy.yml          # GitHub Actions 部署設定
-├── generate_tree.py            # 生成檔案樹的 Python 腳本
-├── index.html                  # API 首頁和說明文件
-├── tree.json                   # 自動生成的檔案樹（部署時生成）
-├── README.md                   # 本文件
-└── [你的 Markdown 檔案和資料夾]
+├── api/                        # API 端點
+│   └── files/                  # 檔案內容 JSON
+│       ├── 02f15f5d.json      # file_id.json
+│       └── ... (235 個檔案)
+│
+├── .github/workflows/
+│   └── deploy.yml             # 自動部署配置
+│
+├── index.json                 # 輕量級索引 (6.8KB)
+├── search.json                # 搜索索引 (50KB)
+├── tree.json                  # 完整結構 (214KB)
+│
+├── generate_tree.py           # 生成腳本
+├── index.html                 # API 說明頁
+│
+├── GPT_ACTIONS_SCHEMA.yaml   # 複製到 GPT
+├── GPT_INSTRUCTIONS.md        # 複製到 GPT
+├── GPT_SETUP_GUIDE.md         # 設定指南
+├── QUICK_START.md             # 快速開始
+├── SNAPSHOT.md                # 變更記錄
+└── README.md                  # 本文件
 ```
 
-## 🔄 自動更新
+## 🎯 使用情境
 
-每次推送到 `main` 分支時，GitHub Actions 會自動：
-1. 執行 `generate_tree.py` 生成最新的 `tree.json`
-2. 部署所有內容到 GitHub Pages
+### 情境 1：GPT 知識庫助手（主要用途）
+
+1. 配置 GPT Actions（查看 `QUICK_START.md`）
+2. GPT 自動訪問你的知識庫
+3. 用戶可以問任何問題，GPT 從筆記中找答案
+
+### 情境 2：個人知識庫 API
+
+```python
+# 從程式中訪問你的筆記
+import requests
+
+def get_note(keyword):
+    search = requests.get(f"{BASE_URL}/search.json").json()
+    for cat in search['categories']:
+        for file in cat['files']:
+            if keyword in file['name']:
+                content = requests.get(
+                    f"{BASE_URL}/api/files/{file['file_id']}.json"
+                ).json()
+                return content['content']
+```
+
+### 情境 3：分享知識庫
+
+直接分享 URL，其他人可以：
+- 瀏覽索引：`/index.json`
+- 搜索主題：`/search.json`
+- 閱讀內容：`/api/files/{file_id}.json`
+
+## 🧪 測試
+
+### 測試本地 API
+
+```bash
+# 測試索引
+curl http://localhost:8000/index.json | python3 -m json.tool
+
+# 測試搜索
+curl http://localhost:8000/search.json | python3 -m json.tool | head -50
+
+# 測試內容
+curl http://localhost:8000/api/files/02f15f5d.json | python3 -m json.tool
+```
+
+### 測試部署後的 API
+
+```bash
+curl https://your-username.github.io/your-repo/index.json
+
+# 檢查回應時間
+time curl -o /dev/null -s https://your-username.github.io/your-repo/index.json
+```
+
+### 測試 GPT Actions
+
+在 GPT Actions 設定頁面：
+
+1. **getKnowledgeBaseIndex**: `{}`
+2. **searchKnowledgeBase**: `{}`  
+3. **getFileContent**: `{"file_id": "02f15f5d"}`
 
 ## ⚠️ 注意事項
 
-1. **檔案大小限制**: GitHub Pages 單一檔案上限為 100MB
-2. **總大小限制**: 整個站點建議不超過 1GB
-3. **中文路徑**: 所有的中文路徑都會自動 URL encode
-4. **私有倉庫**: GitHub Pages 在免費帳號中僅支援公開倉庫
+### GitHub Pages 限制
+- 單一檔案上限：100MB
+- 總大小建議：< 1GB
+- 免費帳號僅支援公開倉庫
+
+### URL 格式
+- ✅ 全小寫：`samliaop.github.io`
+- ❌ 大小寫混合：`SamLiaoP.github.io`（OpenAI 不接受）
+
+### 中文支援
+- 路徑自動 URL encode
+- 使用 file_id 訪問，不需要手動 encode
+
+## 🔄 維護與更新
+
+### 日常更新
+
+```bash
+# 1. 編輯 Markdown 檔案
+vim "分類/檔案.md"
+
+# 2. 重新生成（自動更新 file_id）
+python3 generate_tree.py
+
+# 3. 提交
+git add .
+git commit -m "Update notes"
+git push
+```
+
+### 添加新分類
+
+```bash
+# 1. 創建新資料夾和檔案
+mkdir "新分類"
+echo "# 內容" > "新分類/新主題.md"
+
+# 2. 重新生成
+python3 generate_tree.py
+
+# 3. 提交
+git add .
+git commit -m "Add new category"
+git push
+```
+
+### 檢查部署狀態
+
+```bash
+# 查看 GitHub Actions
+https://github.com/your-username/your-repo/actions
+
+# 驗證部署
+curl https://your-username.github.io/your-repo/index.json
+```
+
+## 💡 效能優化
+
+| 指標 | 數值 |
+|------|------|
+| 索引回應時間 | ~100ms |
+| 搜索回應時間 | ~200ms |
+| 內容回應時間 | ~150ms |
+| 完整查詢流程 | ~4-5 秒 |
+
+## 🐛 常見問題
+
+### Q1: GPT 無法訪問內容？
+
+**檢查**：
+1. Actions 是否配置 `getFileContent`？
+2. URL 是否全小寫？
+3. GitHub Pages 是否已部署？
+
+### Q2: file_id 不存在？
+
+```bash
+# 重新生成所有檔案
+python3 generate_tree.py
+
+# 檢查 file_id
+curl .../search.json | grep "file_id"
+```
+
+### Q3: 部署失敗？
+
+```bash
+# 查看 GitHub Actions 日誌
+https://github.com/your-username/your-repo/actions
+
+# 常見原因：
+# - Python 腳本有錯誤
+# - 權限設定問題
+# - Pages 未啟用
+```
+
+## 📈 統計資訊
+
+- **Markdown 檔案**：235 個
+- **總分類**：10 個主要分類
+- **JSON 檔案**：235 個內容檔案
+- **總大小**：~1.2 MB（含所有 API 檔案）
+- **平均檔案大小**：~4 KB
 
 ## 🤝 貢獻
 
@@ -197,3 +370,6 @@ CARD/
 
 MIT License
 
+---
+
+**開始使用**：查看 [`QUICK_START.md`](QUICK_START.md) 🚀

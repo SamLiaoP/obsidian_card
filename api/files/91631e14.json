@@ -1,0 +1,8 @@
+{
+  "file_id": "91631e14",
+  "name": "4.2f4 StatefulSet.md",
+  "path": "4. 軟體開發/4.2 k8s/4.2f Controller/4.2f4 StatefulSet.md",
+  "content": "- **用途**：\n\t- StatefulSet 是為了管理有狀態的應用程序而設計的 Controller，特別適合那些需要持久性數據存儲、具備唯一身份標識的 Pod。與 Deployment 不同，StatefulSet 保證 Pod 的順序啟動、關閉和更新，並分配固定的網絡標識和存儲。\n- **功能**：\n\t- 有狀態 Pod：每個 Pod 有固定的身份標識和存儲卷，適合需要有狀態的應用，如數據庫。\n\t- 保證 Pod 的啟動順序和擴展順序。",
+  "size": 225,
+  "lines": 5
+}

@@ -1,0 +1,8 @@
+{
+  "file_id": "c955d6a2",
+  "name": "4.1e1c1 微服務架構.md",
+  "path": "4. 軟體開發/4.1 物件導向設計/4.1e DDD/4.1e1c EDEP案例/4.1e1c1 微服務架構.md",
+  "content": "#EDEP #DDD #物件導向設計 #軟體開發\n## 內容：\n### 觀點\n切成三個主要的微服務\n- edep-report-to-mission-controller\n\t- 任務派發\n\t- 資料傳遞\n\t- 流程控制\n\t- input/output\n- edep-stable-fetch-agent\n\t- 對外API請求\n- edep-data-transformer\n\t- 負責 from table to table 的資料轉換\n\n### 案例\n![[Pasted image 20240816154126.png]]\n### 總結\n\n\n\n## 參考來源：",
+  "size": 282,
+  "lines": 21
+}

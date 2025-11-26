@@ -1,0 +1,8 @@
+{
+  "file_id": "5d4a7ae3",
+  "name": "4.1e1c3 mission與job層級.md",
+  "path": "4. 軟體開發/4.1 物件導向設計/4.1e DDD/4.1e1c EDEP案例/4.1e1c3 mission與job層級.md",
+  "content": "#EDEP #DDD #物件導向設計 #軟體開發\n## 內容：\n### 觀點\n切成兩個層級\n- Mission \n\t- 定義每一個大的任務，例如搜集 seon_fraud 的資料\n- Job\n\t- 每一個大的任務會有多個Job，由Mission Controller 來做派發\n\n### 案例\n![[截圖 2024-08-16 下午3.43.48.png]]\n\n### 總結\n\n\n\n## 參考來源：",
+  "size": 199,
+  "lines": 17
+}

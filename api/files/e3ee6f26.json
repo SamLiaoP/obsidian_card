@@ -1,0 +1,8 @@
+{
+  "file_id": "e3ee6f26",
+  "name": "4.1e1b5 Infrastructure.md",
+  "path": "4. 軟體開發/4.1 物件導向設計/4.1e DDD/4.1e1b 戰術設計/4.1e1b5 Infrastructure.md",
+  "content": "#DDD #物件導向設計 #軟體開發\n## 內容：\n### 觀點\n- 銀行的基礎設施。\n\t- 管理外部資源的連接與操作。\n- Connection\n\t- 處理資料庫或佇列等底層資源的連接。\n- Repository\n\t- 對 Domain 層的窗口，處理對資料庫的操作，並將 Entity 實例化後傳給 Domain 層。\n### 案例\n### 總結\n![[截圖 2024-08-16 下午4.17.30.png]]\n\n\n## 參考來源：",
+  "size": 219,
+  "lines": 15
+}

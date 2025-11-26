@@ -1,0 +1,8 @@
+{
+  "file_id": "af94c2fc",
+  "name": "8.3 身為一個工程師，沒有考慮成本的 AI Agent 架構是沒有意義的。.md",
+  "path": "8. 人工智能/8.3 身為一個工程師，沒有考慮成本的 AI Agent 架構是沒有意義的。.md",
+  "content": "反覆呼叫 LLM 並進行多數投票，可以在 GSM-8K、MATH、Chess 和 MMLU 等基準測試中，顯著提高準確性。(編按: 例如前一陣子的論文 More Agents Is All You Need 或 Mixture-of-Agents 這兩篇的作法)，我們應該要同時最佳化準確性和成本，找到最佳平衡點。\n\n作者用簡單的基本策略 Retry, Warming, Escalation，就可以打臉一些複雜的代理架構，不但更準還更便宜。Retry 就是錯了重試一次，Warming 也是重試但溫度加 0.5、Escalation 則是錯了就換一個更厲害的模型。  \n\n作者建議之後發明新 Agent 架構的人，應該要包括這些基本策略當作 baseline 基準。附圖就是評測 HumanEval，發現基本策略效果就跟複雜的 LATS, LDB, Reflexion 一樣好，但是成本更便宜\n\n另一個案例是: 使用 RAG 或是用模型長上下文來做 QA，也是最近常見的討論。例如 NovelQA 是個專門 benchmark 模型在超過 200k tokens 的 QA 能力，而作者用 RAG 的方式做，準確率其實跟用模型長上下文差不多，但是成本只有一半。\n\n開發模型的上游科學家，當然主要在乎模型本身的評測表現。但是作為下游使用模型的工程師，我更在乎的系統組合出來後的準確性與成本的平衡。\n\n\nhttps://www.aisnakeoil.com/p/ai-leaderboards-are-no-longer-useful\n\nhttps://ihower.tw/blog/archives/12422\n\nhttps://arxiv.org/abs/2407.01502",
+  "size": 739,
+  "lines": 16
+}

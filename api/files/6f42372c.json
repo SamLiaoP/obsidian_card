@@ -1,0 +1,8 @@
+{
+  "file_id": "6f42372c",
+  "name": "測試對外IP位置的方法.md",
+  "path": "4. 軟體開發/python/測試對外IP位置的方法.md",
+  "content": "\nhttpbin:\n```\nimport requests \nresponse = requests.get('https://httpbin.org/ip') \nip = response.json()['origin'] \nprint('My public IP address is:', ip) \n```\n\nipify:\n```\nimport requests \nresponse = requests.get('https://api.ipify.org?format=json') \nip = response.json()['ip'] \nprint('My public IP address is ipify:', ip)\n```",
+  "size": 323,
+  "lines": 16
+}

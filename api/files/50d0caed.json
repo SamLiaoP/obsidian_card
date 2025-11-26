@@ -1,0 +1,8 @@
+{
+  "file_id": "50d0caed",
+  "name": "8.1c Guardrails 護欄.md",
+  "path": "8. 人工智能/8.1 AI服務的組件/8.1c Guardrails 護欄.md",
+  "content": "\n## 內容：\n### 觀點\n\n![[8-guardrails.png]]\n### 案例\n1. Input Guardrails\n\t1. Input 內容檢測\n\t\t1. 使用內容檢測工具偵測是否有機敏資料\n\t\t2. 偵測到有機敏訊息時，可以用佔位符號來代替。模型回傳時，如果有一樣的佔位符號，例如[PHONE NUMBER]，再替換回來，即可做到可以處理機敏資訊，但不透過API打出去給模型。\n\t2. Model Jailbreaking\n\t\t1. 控制模型的權限\n\t\t2. 防止模型回答特定主題的內容\n\t\t\t1. 關鍵字篩選\n\t\t\t2. 用模型分類主題，再做篩選\n2. Output Guardrails\n\t1. 簡易規則有辦法處理：\n\t\t1. Empty\n\t\t2. 格式錯誤\n\t2. 仰賴內容檢測工具\n\t\t1. 有害內容\n\t\t2. 敏感信息\n\t\t3. 品牌風險（可以用關鍵字監控）\n\t3. 需有專門的評分器\n\t\t1. Bad Quality(爛文章品質)(可以訓練一個模型來做評分)\n\t4. 無法辨別\n\t\t1. 幻覺（可以考慮增強上下文、或用prompt來減少，但無法根治）\n3. 故障管理\n\t1. 簡單重試\n\t\t1. 增加延遲\n\t2. 同步發查並評分\n\t\t1. 增加成本，降低延遲\n\t3. 交由人工\n### 總結\n\n\n\n## 參考來源：\nhttps://huyenchip.com/2024/07/25/genai-platform.html#ai_pipeline_orchestration",
+  "size": 650,
+  "lines": 39
+}

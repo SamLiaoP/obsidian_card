@@ -1,0 +1,8 @@
+{
+  "file_id": "149605d4",
+  "name": "8.1f Logic and Actions 複雜邏輯操作.md",
+  "path": "8. 人工智能/8.1 AI服務的組件/8.1f Logic and Actions 複雜邏輯操作.md",
+  "content": "1. 模型的輸出作為下一個模型的輸入，直到任務完成。\n2. 寫入操作，但也許你不該允許實習生有刪除資料庫的權力。\n\n## 參考來源：\nhttps://huyenchip.com/2024/07/25/genai-platform.html#ai_pipeline_orchestration",
+  "size": 145,
+  "lines": 5
+}

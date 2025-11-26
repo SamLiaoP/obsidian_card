@@ -1,0 +1,8 @@
+{
+  "file_id": "bfc7d23b",
+  "name": "4.1e1b4 Domain.md",
+  "path": "4. 軟體開發/4.1 物件導向設計/4.1e DDD/4.1e1b 戰術設計/4.1e1b4 Domain.md",
+  "content": "#DDD #物件導向設計 #軟體開發\n## 內容：\n### 觀點\n- 銀行的各部門。\n\t- 負責各個特定服務的業務“邏輯”和“規則”。\n- Entity\n\t- 領域中的主要元素，例如用戶、訂單等，它們有唯一 Key 值。\n- Domain Service\n\t- Domain 層對 Application 層的窗口，主要包含特定服務的業務邏輯，也就是Entity的動作。\n### 案例\n### 總結\n\n![[截圖 2024-08-16 下午4.16.15.png]]\n\n## 參考來源：",
+  "size": 243,
+  "lines": 15
+}

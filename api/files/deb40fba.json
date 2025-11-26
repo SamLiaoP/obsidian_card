@@ -1,0 +1,8 @@
+{
+  "file_id": "deb40fba",
+  "name": "8.4c1 非同步的Tool Calling.md",
+  "path": "8. 人工智能/8.4 Agentic System/8.4c1 非同步的Tool Calling.md",
+  "content": "\n## 1.1 非同步 Tool 裝飾器\n```python\nimport asyncio\n\n@tool\nasync def get_taiwan_weather_async(city: str) -> str:\n\"\"\"非同步查詢台灣特定城市的天氣狀況。\"\"\"\nawait asyncio.sleep(1) # 模擬 API 調用\n\nweather_data = {\n\"台北\": \"晴天，溫度28°C\",\n\"台中\": \"多雲，溫度26°C\",\n\"高雄\": \"陰天，溫度30°C\"\n}\n\nreturn f\"{city}的天氣：{weather_data.get(city, '暫無資料')}\"\n\nresult = await get_taiwan_weather_async.ainvoke({\"city\": \"高雄\"})\n\nprint(result)\n```\n\n\n## 2.1",
+  "size": 388,
+  "lines": 25
+}

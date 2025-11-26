@@ -1,0 +1,8 @@
+{
+  "file_id": "480a0c16",
+  "name": "4.2h4 Service LoadBalancer.md",
+  "path": "4. 軟體開發/4.2 k8s/4.2h Network/4.2h4 Service LoadBalancer.md",
+  "content": "- **用途**：\n\t- 適用於在公有雲平台（如 GCP、AWS、Azure）上，通過外部負載均衡器將 Kubernetes 服務暴露給外部客戶端。Kubernetes 會創建一個 Load Balancer，並將流量分配到服務對應的 Pod。\n\n- **功能**：\n\t- 自動與雲平台的外部負載均衡集成。\n\t- 為應用提供公有 IP，讓外部流量通過負載均衡器進入 Kubernetes 集群。",
+  "size": 197,
+  "lines": 6
+}

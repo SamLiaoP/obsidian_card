@@ -1,0 +1,8 @@
+{
+  "file_id": "8d300cb4",
+  "name": "8.4a ReAct 架構 反應與行為.md",
+  "path": "8. 人工智能/8.4 Agentic System/8.4a ReAct 架構 反應與行為.md",
+  "content": "Agent 通常需要\n1. 思考分析\n2. 規劃\n3. 工具運用\n4. 資訊保存\n\nReAct 架構\n1. 反應(Reaction)：首先 Agent 收到任務後，先對任務進行一番審視。\n2. 行爲(Action)：接者開始對任務逐一展開動作。這裡可以直接回答會是調用工具。\n3. 結束後觀察結果是否完成目標，不夠再回到步驟 A。\n\n![[ReAct架構.png]]",
+  "size": 183,
+  "lines": 12
+}

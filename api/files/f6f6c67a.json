@@ -1,0 +1,8 @@
+{
+  "file_id": "f6f6c67a",
+  "name": "4.2g3 Taints.md",
+  "path": "4. 軟體開發/4.2 k8s/4.2g Pod 調度/4.2g3 Taints.md",
+  "content": "- **用途**：\n\t- Taints 用來標記 Node，使得特定 Pod 除非具有對應的 **Toleration**，否則不會被調度到該 Node 上。Taints 能夠防止不合適的 Pod 被調度到某些 Node，從而保護特殊用途的 Node（例如僅用於後端計算）。\n\n- **功能**：\n\t- Taints 是針對 Node 的屬性，可以指定哪些 Pod 允許運行，哪些不允許。\n\t- 通常用於防止將一般工作負載調度到專用的 Node，例如專門的計算節點或測試節點。",
+  "size": 238,
+  "lines": 6
+}

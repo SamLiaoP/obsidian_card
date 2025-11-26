@@ -1,0 +1,8 @@
+{
+  "file_id": "0f74e0c4",
+  "name": "8.2a1j Context Precision with LLM with Reference 上下文精確性.md",
+  "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1j Context Precision with LLM with Reference 上下文精確性.md",
+  "content": "## LLM as a judge  \n\n## Required\n- User Input\n- Retrieved Contexts\n- Reference Context\n\n## 描述\n**上下文精確性**衡量檢索到的上下文片段中有多大比例與用戶查詢相關。此分數基於每個檢索片段的 **Precision@k**，計算回應中相關片段的平均比例。**Context Precision** 可通過多種方法計算，分為 LLM 基於模型的上下文精確性評估和非 LLM 基於模型的傳統方法。\n\n### 計算方法\n上下文精確性計算過程如下：\n1. **計算 Precision@k**：每個片段在檢索結果中的排名 \\( k \\) 下，相關片段數量占總片段數的比例。\n2. **上下文精確性**：對所有片段的 Precision@k 取平均，以獲得上下文精確性分數。\n\n### LLM 基於模型的上下文精確性\n- **LLMContextPrecisionWithoutReference**：適用於有檢索上下文但無參考答案的情況，透過 LLM 將檢索片段與生成回應比對。\n- **LLMContextPrecisionWithReference**：適用於有檢索上下文和參考答案的情況，透過 LLM 比較檢索片段和參考答案。\n\n\n## 程式碼\n### 1. LLMContextPrecisionWithReference\n```python\nfrom ragas import SingleTurnSample\nfrom ragas.metrics import LLMContextPrecisionWithReference\n\n# 初始化上下文精確性計分器\ncontext_precision = LLMContextPrecisionWithReference()\n\nsample = SingleTurnSample(\n    user_input=\"Where is the Eiffel Tower located?\",\n    reference=\"The Eiffel Tower is located in Paris.\",\n    retrieved_contexts=[\"The Eiffel Tower is located in Paris.\"]\n)\n\n# 計算上下文精確性分數\nawait context_precision.single_turn_ascore(sample)\n```\n\n## 參考資料：\nhttps://docs.ragas.io/en/stable/concepts/metrics/available_metrics/context_precision/?h=context",
+  "size": 1160,
+  "lines": 41
+}

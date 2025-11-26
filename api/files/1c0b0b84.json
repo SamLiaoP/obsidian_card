@@ -1,0 +1,8 @@
+{
+  "file_id": "1c0b0b84",
+  "name": "8.7 Speculative Decoding LLM加速服務.md",
+  "path": "8. 人工智能/8.7 Speculative Decoding LLM加速服務.md",
+  "content": "\n## 內容：\n用資源來加速LLM的運算\n無需Fine-Tune，而是讓另一個小模型，或是non-autoregressive model，先預測模型的下一個token，和下下一個token，接著根據模型產出的結果，來判斷是否要使用它的預測。\n假設預言家模型預測A的下一個token為B下下個為C，我們就讓模型同時跑A B C 三次的預測。\n如果產出的結果 A 的下一個真的是B 那就採用，如果預測結果A下一個不是B，則拋棄 B 和 C。\n簡單來說，我會用預言家生出模型可能產出的各種結果，多個多元宇宙。因此我可以讓模型一次預測多次，和一次預測未來的未來。讓產出Token的速度可以變快\n\n\n\n## 參考來源：\nhttps://hackmd.io/@shaoeChen/rJESTVr40\nhttps://www.youtube.com/watch?v=MAbGgsWKrg8&list=PLJV_el3uVTsPz6CTopeRp2L2t4aL_KgiI&index=20",
+  "size": 437,
+  "lines": 13
+}

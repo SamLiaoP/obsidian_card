@@ -1,0 +1,8 @@
+{
+  "file_id": "6a8a9227",
+  "name": "4.2g4 Tolerations.md",
+  "path": "4. 軟體開發/4.2 k8s/4.2g Pod 調度/4.2g4 Tolerations.md",
+  "content": "- **用途**：\n\t- Tolerations 允許 Pod 調度到具有相應 Taint 的 Node 上。通過 Tolerations，Pod 可以被允許調度到帶有特定 Taint 的 Node，即使這些 Node 通常會阻止其他 Pod 被調度到它們上面。\n\n- **功能**：\n\t- Tolerations 不會強制將 Pod 調度到帶有 Taint 的 Node 上，而是允許這樣的調度發生。\n\t- 這通常用來允許一些特殊的 Pod 被調度到專用的或有特定用途的 Node 上。",
+  "size": 244,
+  "lines": 6
+}

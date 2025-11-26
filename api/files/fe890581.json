@@ -1,0 +1,8 @@
+{
+  "file_id": "fe890581",
+  "name": "4.2h2 Service ClusterIP（預設類型）.md",
+  "path": "4. 軟體開發/4.2 k8s/4.2h Network/4.2h2 Service ClusterIP（預設類型）.md",
+  "content": "- **用途**：\n\n- 將應用服務暴露給集群內部的其他 Pod 和服務。Service 會為應用分配一個虛擬 IP（Cluster IP），並且只能從 Kubernetes 集群內部訪問。\n\n- **功能**：\n\n- 自動進行服務發現：集群內的其他 Pod 可以通過 Cluster IP 或者 DNS 名稱訪問這個服務。\n- 負載均衡：通過內部負載均衡，將流量分配到多個 Pod 上。",
+  "size": 194,
+  "lines": 8
+}

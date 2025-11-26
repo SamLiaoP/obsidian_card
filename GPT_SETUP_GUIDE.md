@@ -1,45 +1,77 @@
-# 🤖 GPT Actions 設定指南
+# 🤖 GPT Actions 完整設定指南
 
-## 快速設定步驟
+## 📋 設定清單
 
-### 1️⃣ 創建 GPT
+- [ ] 複製 OpenAPI Schema
+- [ ] 複製 Instructions  
+- [ ] 配置 Capabilities
+- [ ] 測試 Actions
+- [ ] 測試對話
 
-前往 ChatGPT > Explore GPTs > Create
+## 1️⃣ 配置 Actions
 
-### 2️⃣ 基本資訊
+### 步驟 1: 創建或編輯 GPT
 
-**名稱**：
+前往：ChatGPT > Explore GPTs > Create（或編輯現有 GPT）
+
+### 步驟 2: 複製 Schema
+
+1. 打開 `GPT_ACTIONS_SCHEMA.yaml`
+2. 複製**全部內容**（176 行）
+3. 前往 Configure > Actions
+4. 點擊 "Create new action"
+5. 貼到 Schema 欄位
+6. Authentication: **None**
+7. Save
+
+### 步驟 3: 測試 Actions
+
+點擊每個 Action 旁的 "Test"：
+
+**Test 1: getKnowledgeBaseIndex**
+```json
+{}
 ```
-CARD 知識庫助手
+預期：返回 10 個分類摘要（~6.8KB）
+
+**Test 2: searchKnowledgeBase**
+```json
+{}
 ```
+預期：返回所有檔案列表（~50KB）
 
-**描述**：
+**Test 3: getFileContent**
+```json
+{
+  "file_id": "02f15f5d"
+}
 ```
-專門訪問 Sam 的個人知識庫（236 個筆記），涵蓋卡片盒筆記、軟體開發、AI、投資等主題。能根據問題找到相關筆記並提供詳細回答。
-```
+預期：返回檔案完整內容
 
-### 3️⃣ Instructions
+## 2️⃣ 配置 Instructions
 
-**方式 A：從檔案複製**
-- 打開 `GPT_INSTRUCTIONS.md`
-- 複製全部內容
-- 貼到 Instructions 欄位
+### 完整版（推薦）
 
-**方式 B：精簡版（如果字數限制）**
+1. 打開 `GPT_INSTRUCTIONS.md`
+2. 複製全部內容（290 行）
+3. 貼到 Configure > Instructions
+
+### 精簡版（如果字數限制）
+
 ```markdown
-你是 CARD 知識庫助手，協助訪問 236 個 Markdown 筆記（10 大分類）。
+你是 CARD 知識庫助手，管理 235 個筆記（10 大分類）。
 
-## 工作流程
-1. 首次調用 getKnowledgeBaseIndex 獲取概覽
-2. 根據問題定位相關分類
-3. 需要時調用 searchKnowledgeBase 搜索
-4. 使用 Web Browsing 訪問檔案（路徑需 URL encode）
-5. 整合內容回答，標註來源
+工作流程：
+1. 首次調用 getKnowledgeBaseIndex 獲取分類概覽
+2. 定位相關分類
+3. 需要時調用 searchKnowledgeBase 獲取 file_id
+4. 調用 getFileContent(file_id) 獲取內容
+5. 繁體中文回答，標註來源
 
-## 主要分類
-1. 個人知識管理 (11)
-2. 海外工作計畫 (15)
-3. 人生的價值觀 (28)
+分類：
+1. 個人知識管理 (11) - 卡片盒筆記
+2. 海外工作計畫 (15) - 簽證、履歷
+3. 人生的價值觀 (28) - 價值觀、認知
 4. 軟體開發 (69) - OOP, K8s, DDD
 5. 科普新知 (17)
 6. 意識與大腦 (21)
@@ -48,258 +80,263 @@ CARD 知識庫助手
 9. 專案管理 (4)
 10. 投資 (4)
 
-## URL 構建
-```python
-from urllib.parse import quote
-base = "https://samliaop.github.io/obsidian_card"
-path = "分類/子分類/檔案.md"
-url = base + "/" + "/".join(quote(p, safe='') for p in path.split('/'))
+範例流程：
+用戶問「什麼是卡片盒筆記？」
+→ getKnowledgeBaseIndex（定位分類）
+→ searchKnowledgeBase（找到 file_id）
+→ getFileContent(file_id)（獲取內容）
+→ 整合回答並引用來源
+
+回答格式：
+## [主題]
+[內容]
+
+📚 來源：
+- 📝 [筆記名稱]（[分類]）
+
+🔗 相關主題：[列出相關筆記]
 ```
 
-## 回答格式
-- 繁體中文
-- 引用來源筆記
-- 標註分類
-- 提供相關主題
+## 3️⃣ 配置設定
+
+### 基本資訊
+
+**Name**: CARD 知識庫助手
+
+**Description**: 
+```
+訪問 Sam 的 235 個筆記（卡片盒、軟體開發、AI、投資等），
+根據問題找到相關筆記並提供詳細回答。
 ```
 
-### 4️⃣ 配置 Actions
+### Capabilities
 
-#### 步驟 1: 創建 Action
+- ❌ **Web Browsing**: 關閉（不需要）
+- ❌ **Code Interpreter**: 關閉
+- ❌ **DALL·E**: 關閉
 
-點擊 "Create new action"
-
-#### 步驟 2: 導入 Schema
-
-**方式 A：導入檔案**
-- 如果支援，直接導入 `GPT_ACTIONS_SCHEMA.yaml`
-
-**方式 B：手動貼上**
-- 打開 `GPT_ACTIONS_SCHEMA.yaml`
-- 複製全部內容
-- 貼到 Schema 欄位
-
-#### 步驟 3: 設定 Authentication
-
-選擇：**None**（公開 API，無需驗證）
-
-#### 步驟 4: 測試 Actions
-
-點擊 "Test" 按鈕測試：
-
-**測試 1: getKnowledgeBaseIndex**
-```json
-{}
-```
-預期結果：返回分類摘要（6.7KB）
-
-**測試 2: searchKnowledgeBase**
-```json
-{}
-```
-預期結果：返回完整檔案列表（42KB）
-
-### 5️⃣ 配置 Capabilities
-
-- ✅ **Web Browsing**（必須！用於訪問 Markdown 檔案）
-- ⚠️ **Code Interpreter**（可選，用於 URL encoding）
-- ❌ **DALL·E**（不需要）
-
-### 6️⃣ Conversation Starters
-
-添加以下建議問題：
+### Conversation Starters
 
 ```
-1. 知識庫裡有哪些主題？給我一個概覽
-2. 什麼是卡片盒筆記法？我該如何開始？
-3. 如何優化 RAG 系統的效能？
-4. 告訴我關於 DDD 領域驅動設計的內容
-5. 有哪些關於海外工作的建議？
+知識庫裡有哪些主題？
+什麼是卡片盒筆記法？
+如何優化 RAG 系統？
+告訴我 DDD 的內容
+有關海外工作的建議
 ```
 
-### 7️⃣ 儲存並測試
+## 4️⃣ 測試 GPT
 
-點擊右上角 **Save** 或 **Update**
+### 測試 1: 基本功能
+```
+Q: "知識庫裡有哪些主題？"
+```
+**預期**：
+- 調用 getKnowledgeBaseIndex
+- 列出 10 個分類和數量
 
-## 🧪 測試你的 GPT
+### 測試 2: 內容訪問
+```
+Q: "什麼是卡片盒筆記？請引用具體內容"
+```
+**預期**：
+- 定位到「個人知識管理」分類
+- 調用 searchKnowledgeBase
+- 調用 getFileContent
+- 引用筆記內容回答
 
-### 測試 1: 基本查詢
+### 測試 3: 搜索功能
 ```
-Q: 知識庫裡有哪些主題？
-預期: GPT 調用 getKnowledgeBaseIndex，列出 10 大分類和統計
+Q: "有哪些關於 RAG 優化的筆記？"
 ```
+**預期**：
+- 在「人工智能」分類搜索
+- 列出相關檔案
 
-### 測試 2: 概念查詢
+### 測試 4: 深度查詢
 ```
-Q: 什麼是卡片盒筆記？
-預期: GPT 找到相關筆記，訪問內容，提供答案並引用來源
+Q: "詳細解釋 DDD 的聚合根概念"
 ```
+**預期**：
+- 找到 DDD 相關筆記
+- 獲取多個檔案內容
+- 整合回答
 
-### 測試 3: 技術查詢
-```
-Q: 如何優化 RAG？
-預期: GPT 在「8. 人工智能」分類找到相關筆記，整合回答
-```
-
-### 測試 4: 搜索功能
-```
-Q: 有哪些關於 K8s 的筆記？
-預期: GPT 使用 searchKnowledgeBase 搜索，列出相關檔案
-```
-
-## ⚠️ 常見問題排查
+## 🐛 常見問題排查
 
 ### 問題 1: ResponseTooLargeError
 
-**原因**：使用了錯誤的端點（tree.json 太大）
+**原因**：可能在測試時使用了錯誤的端點
 
-**解決**：確保 Actions 使用的是 `/index.json`，不是 `/tree.json`
+**解決**：
+- 確保使用 `/index.json` 而非 `/tree.json`
+- 檢查 Schema 中的端點路徑
 
 ### 問題 2: 404 Not Found
 
-**可能原因 A**：URL 格式錯誤
+**檢查項目**：
+1. URL 是否全小寫？
+   ```yaml
+   ✅ url: https://samliaop.github.io/obsidian_card
+   ❌ url: https://SamLiaoP.github.io/obsidian_card
+   ```
 
-**檢查**：
-```
-❌ https://SamLiaoP.github.io/... (大小寫錯誤)
-✅ https://samliaop.github.io/... (全小寫)
-```
+2. GitHub Pages 是否已部署？
+   ```bash
+   curl https://samliaop.github.io/obsidian_card/index.json
+   ```
 
-**可能原因 B**：路徑未 URL encode
+3. file_id 是否正確？
+   ```bash
+   # 檢查有效的 file_id
+   curl .../search.json | grep "file_id"
+   ```
 
-**檢查**：GPT 是否正確 encode 了中文路徑
+### 問題 3: GPT 不調用 Actions
 
-### 問題 3: 找不到檔案
+**可能原因**：
+- Instructions 不夠明確
+- 沒有強調「首次必調用 getKnowledgeBaseIndex」
 
-**原因**：GPT 沒有正確使用 URL encoding
-
-**解決**：在 Instructions 中強調使用 Python 的 `urllib.parse.quote`
-
-### 問題 4: GPT 不調用 Actions
-
-**原因**：Instructions 不夠明確
-
-**解決**：在 Instructions 開頭明確說明「首次必須調用 getKnowledgeBaseIndex」
-
-### 問題 5: Web Browsing 失敗
-
-**原因**：Capabilities 中未啟用 Web Browsing
-
-**解決**：在 GPT 設定中啟用 Web Browsing
-
-## 📊 效能優化建議
-
-### 1. 分層查詢策略
-
-```
-用戶問概覽性問題
-  → 只調用 getKnowledgeBaseIndex (6.7KB)
-  
-用戶問特定分類的詳細內容
-  → 調用 searchKnowledgeBase (42KB)
-  
-用戶問具體筆記內容
-  → Web Browsing 訪問 .md 檔案
+**解決**：
+在 Instructions 開頭加強說明：
+```markdown
+重要：每次對話開始時，必須先調用 getKnowledgeBaseIndex
+了解知識庫結構。
 ```
 
-### 2. 快取策略
+### 問題 4: GPT 找不到內容
 
-在 Instructions 中建議 GPT：
-- 首次調用後記住分類結構
-- 同一對話中不需重複調用 index
+**檢查流程**：
+1. GPT 是否調用了 searchKnowledgeBase？
+2. 是否正確獲取了 file_id？
+3. 是否調用了 getFileContent？
 
-### 3. 批次訪問
+**除錯**：
+在對話中查看 GPT 的 Actions 調用記錄
 
-如果需要多個筆記：
-- 先列出相關筆記
-- 詢問用戶想深入了解哪些
-- 再批次訪問具體內容
+## 📊 優化建議
 
-## 🔄 更新流程
+### 1. 加速回應
 
-當知識庫內容更新後：
+在 Instructions 中添加：
+```markdown
+優化策略：
+- 首次調用後記住分類結構，同一對話中不需重複調用 index
+- 如果用戶問題明確，直接調用 search 和 getFileContent
+- 批次獲取相關檔案，一次性整合回答
+```
 
-1. **本地重新生成**
+### 2. 改善準確度
+
+```markdown
+搜索技巧：
+- 檔案名稱包含主題關鍵字
+- 數字編號表示層級關係
+- Why? / How? / What? 表示筆記類型
+```
+
+### 3. 更好的回答
+
+```markdown
+回答原則：
+1. 只根據筆記內容，不要編造
+2. 明確引用來源（筆記名稱 + 分類）
+3. 如果筆記內容不完整，誠實告知
+4. 提供相關但未詳細讀取的筆記
+```
+
+## 🔄 維護與更新
+
+### 更新 Instructions
+
+根據使用經驗：
+1. 觀察 GPT 常見的錯誤模式
+2. 在 Instructions 中加強相關說明
+3. 更新範例和格式
+
+### 更新知識庫後
+
 ```bash
-cd /Users/user/Desktop/Projects/Obsidian/CARD
+# 1. 修改 Markdown 檔案
+vim "分類/檔案.md"
+
+# 2. 重新生成
 python3 generate_tree.py
-```
 
-2. **推送到 GitHub**
-```bash
+# 3. 提交並推送
 git add .
-git commit -m "Update knowledge base"
+git commit -m "Update content"
 git push
+
+# 4. 等待 GitHub Actions 部署（1-2 分鐘）
+
+# 5. GPT 自動獲取最新內容（無需修改設定）
 ```
 
-3. **等待部署**
-- 前往 GitHub Actions
-- 等待 "Deploy to GitHub Pages" 完成（1-2 分鐘）
+### 添加新分類
 
-4. **驗證更新**
-```bash
-curl https://samliaop.github.io/obsidian_card/index.json
+1. 創建新資料夾和檔案
+2. 重新生成（自動分配 file_id）
+3. 在 `GPT_INSTRUCTIONS.md` 中更新分類列表
+4. 更新 GPT Instructions
+
+## 📈 效能監控
+
+### 回應時間
+
+- getKnowledgeBaseIndex: ~100ms
+- searchKnowledgeBase: ~200ms  
+- getFileContent: ~150ms
+- 完整流程: ~4-5 秒
+
+### 成功率
+
+監控指標：
+- Actions 調用成功率
+- 檔案內容獲取成功率
+- 用戶滿意度
+
+## 🎯 進階功能
+
+### 1. 添加搜索提示
+
+在知識庫中創建索引檔案：
+```markdown
+# 主題索引.md
+
+## RAG 相關筆記
+- 8.2a Chunking 切分策略
+- 8.2b Embedding 選擇
+...
 ```
 
-5. **GPT 自動同步**
-- 無需修改 GPT 設定
-- GPT 下次調用時會獲取最新資料
+### 2. 創建常見問題
 
-## 📝 進階配置
-
-### 添加自訂域名
-
-1. 在倉庫根目錄創建 `CNAME` 檔案
-```
-api.yourdomain.com
+在 Instructions 中添加：
+```markdown
+常見問題快速索引：
+- 卡片盒筆記 → 1. 個人知識管理
+- RAG 優化 → 8.2 如何優化RAG服務
+- DDD → 4.1e DDD
 ```
 
-2. 在 DNS 設定中添加 CNAME 記錄
-```
-CNAME  api  samliaop.github.io
-```
+### 3. 添加標籤系統
 
-3. 更新 `generate_tree.py` 中的 `base_url`
+修改 `generate_tree.py` 來提取標籤：
 ```python
-base_url = "https://api.yourdomain.com"
+# 從檔案內容中提取 #標籤
+# 在 search.json 中添加 tags 欄位
 ```
 
-### 添加訪問統計
+## 📚 相關資源
 
-在 `index.html` 中添加 Google Analytics：
-```html
-<!-- Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=GA_MEASUREMENT_ID"></script>
-```
-
-### 添加 CORS 設定
-
-創建 `_headers` 檔案：
-```
-/index.json
-  Access-Control-Allow-Origin: *
-  
-/search.json
-  Access-Control-Allow-Origin: *
-```
-
-## 🎓 最佳實踐
-
-1. **定期測試**：每次更新知識庫後測試 GPT
-2. **監控日誌**：在 ChatGPT 對話中觀察 API 調用
-3. **收集反饋**：記錄 GPT 回答不準確的情況
-4. **優化 Instructions**：根據使用經驗調整提示詞
-5. **更新範例**：在 Conversation Starters 中添加新主題
-
-## 📚 相關文件
-
-- `GPT_INSTRUCTIONS.md` - 完整的系統提示詞
-- `GPT_ACTIONS_SCHEMA.yaml` - OpenAPI Schema 定義
-- `DEPLOY_GUIDE.md` - GitHub Pages 部署指南
-- `README.md` - 專案總覽
-- `SNAPSHOT.md` - 變更記錄
+- [QUICK_START.md](QUICK_START.md) - 快速開始
+- [GPT_ACTIONS_SCHEMA.yaml](GPT_ACTIONS_SCHEMA.yaml) - OpenAPI Schema
+- [GPT_INSTRUCTIONS.md](GPT_INSTRUCTIONS.md) - 完整提示詞
+- [README.md](README.md) - 專案說明
+- [SNAPSHOT.md](SNAPSHOT.md) - 變更記錄
 
 ---
 
-設定完成後，你就擁有了一個專屬的知識庫 AI 助手！🎉
-
+**完成設定後，開始使用你的知識庫助手！** 🎉

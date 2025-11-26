@@ -1,0 +1,8 @@
+{
+  "file_id": "3b25aa09",
+  "name": "4.2g2 Affinity Rules.md",
+  "path": "4. 軟體開發/4.2 k8s/4.2g Pod 調度/4.2g2 Affinity Rules.md",
+  "content": "\n- **用途**：\n\t- Affinity 規則用來控制 Pod 調度的行為，通過定義親和性和反親和性規則，可以指定某些 Pod 應該（或不應該）在特定的 Node 上運行，或者 Pod 之間應該彼此靠近或遠離。用Affinity rules可以做到API_A 跟 API_A 不要放在同一個Node，或是 API_A跟SQL 要放在同一個Node，來避免擴展後的溝通問題，或是兩個同樣服務放在一個Node底下的風險。\n\n- **功能**：\n\t- **Node Affinity**：指定 Pod 應該調度到具有特定 Label 的 Node 上。例如，讓應用只在具備 SSD 存儲的 Node 上運行。\n\t- **Pod Affinity**：指定 Pod 應該和其他特定 Label 的 Pod 一起調度到同一 Node。\n\t- **Pod Anti-Affinity**：指定 Pod 應該和特定 Label 的 Pod 分開調度到不同的 Node，這樣可以增加應用的高可用性。",
+  "size": 443,
+  "lines": 8
+}

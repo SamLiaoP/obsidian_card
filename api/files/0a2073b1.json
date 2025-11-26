@@ -1,0 +1,8 @@
+{
+  "file_id": "0a2073b1",
+  "name": "4.2f6 DaemonSet.md",
+  "path": "4. 軟體開發/4.2 k8s/4.2f Controller/4.2f6 DaemonSet.md",
+  "content": "\n- **用途**：\n\t- DaemonSet 確保每個 Node 上都運行一個 Pod，這在需要對每個 Node 執行同一操作的場景中特別有用。例如，你可能希望在每個 Node 上運行一個日誌收集器或監控代理。\n- **功能**：\n\t- 每個 Node 上啟動一個 Pod。\n\t- 自動將 Pod 分配到新加入集群的 Node 上。",
+  "size": 167,
+  "lines": 6
+}

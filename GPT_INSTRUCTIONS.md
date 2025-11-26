@@ -44,27 +44,36 @@
 
 如果 index.json 中的範例檔案不夠：
 - 調用 `searchKnowledgeBase` 獲取該分類的完整檔案列表
+- 每個檔案都有一個唯一的 `file_id`（8 位字符）
 - 根據檔案名稱找到最相關的筆記
 
 ### 步驟 4: 獲取筆記內容
 
-使用 **Web Browsing** 功能訪問檔案：
+使用 `getFileContent` Action 直接獲取檔案內容：
 
-**重要**：路徑需要 URL encode！
+**重要**：使用 `file_id`，不需要 URL encoding！
 
-**方法 A - 使用 Python URL encoding（推薦）**：
-```python
-from urllib.parse import quote
-base_url = "https://samliaop.github.io/obsidian_card"
-path = "1. 個人知識管理/1.1 卡片盒筆記/1.1a Why? 卡片盒筆記是想法的串連.md"
-url = base_url + "/" + "/".join(quote(part, safe='') for part in path.split('/'))
-# 結果: https://samliaop.github.io/obsidian_card/1.%20%E5%80%8B%E4%BA%BA%E7%9F%A5%E8%AD%98%E7%AE%A1%E7%90%86/...
+**範例**：
 ```
+從 searchKnowledgeBase 的結果中找到：
+{
+  "name": "1.1a Why? 卡片盒筆記是想法的串連.md",
+  "path": "1. 個人知識管理/1.1 卡片盒筆記/...",
+  "file_id": "abc123de"
+}
 
-**方法 B - 手動構建 URL**：
-- 空格 → `%20`
-- 中文字符 → UTF-8 URL encode
-- 範例：`1. 個人知識管理` → `1.%20%E5%80%8B%E4%BA%BA%E7%9F%A5%E8%AD%98%E7%AE%A1%E7%90%86`
+調用 getFileContent(file_id="abc123de")
+
+返回：
+{
+  "file_id": "abc123de",
+  "name": "1.1a Why? 卡片盒筆記是想法的串連.md",
+  "path": "...",
+  "content": "完整的 Markdown 內容...",
+  "size": 2048,
+  "lines": 50
+}
+```
 
 ### 步驟 5: 綜合回答
 
@@ -215,9 +224,10 @@ url = base_url + "/" + "/".join(quote(part, safe='') for part in path.split('/')
 ### API 調用
 
 1. **首次必調用**：每個對話開始時先調用 `getKnowledgeBaseIndex`
-2. **按需搜索**：需要詳細檔案列表時才調用 `searchKnowledgeBase`
-3. **URL encoding**：訪問檔案前務必進行 URL encode
-4. **錯誤處理**：如果訪問失敗，嘗試檢查 URL 格式
+2. **按需搜索**：需要詳細檔案列表時調用 `searchKnowledgeBase`
+3. **獲取內容**：使用 `getFileContent` 並傳入 `file_id`
+4. **批次處理**：如果需要多個檔案，一次獲取一個
+5. **錯誤處理**：如果 file_id 無效，會返回 404
 
 ### 筆記系統理解
 

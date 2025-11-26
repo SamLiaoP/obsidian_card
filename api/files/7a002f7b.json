@@ -1,0 +1,8 @@
+{
+  "file_id": "7a002f7b",
+  "name": "4.1e1b2 Interface.md",
+  "path": "4. 軟體開發/4.1 物件導向設計/4.1e DDD/4.1e1b 戰術設計/4.1e1b2 Interface.md",
+  "content": "#DDD #物件導向設計 #軟體開發\n## 內容：\n### 觀點\n- 銀行的門面。\n\t- 處理第一步與使用者的互動。\n\t- 接受輸入訊息，並拋向 Application 層。\n\t- 將 Application 層的輸出處理成使用者要的格式。\n### 案例\n### 總結\n\n\n\n## 參考來源：\n![[截圖 2024-08-16 下午4.13.07.png]]",
+  "size": 179,
+  "lines": 14
+}

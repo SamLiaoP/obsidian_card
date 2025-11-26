@@ -1,6 +1,6 @@
 {
   "base_url": "https://samliaop.github.io/obsidian_card",
-  "total_files": 237,
+  "total_files": 235,
   "categories": [
     {
       "category": "1. 個人知識管理",
@@ -179,20 +179,6 @@
         {
           "name": "9.2 溝通型簡報和表演型簡報.md",
           "path": "9. 專案管理/9.2 溝通型簡報和表演型簡報.md"
-        }
-      ]
-    },
-    {
-      "category": "根目錄",
-      "count": 2,
-      "sample_files": [
-        {
-          "name": "GPT_INSTRUCTIONS.md",
-          "path": "GPT_INSTRUCTIONS.md"
-        },
-        {
-          "name": "GPT_SETUP_GUIDE.md",
-          "path": "GPT_SETUP_GUIDE.md"
         }
       ]
     }

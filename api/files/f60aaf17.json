@@ -1,0 +1,8 @@
+{
+  "file_id": "f60aaf17",
+  "name": "sapper 上行電文.md",
+  "path": "4. 軟體開發/數據處理微服務/sapper 上行電文.md",
+  "content": "sapper 會需要一張 temp 表\n\n  \n\n做客製化select\n\n{\n\n  \"order_data\": {\n\n    \"select_conditions\": [\"JOB_ID = '{previous_job_id}'\"]\n\n  },\n\n  \"mission_name\": \"seon_test\",\n\n  \"mission_id\": \"mission_test_1206\",\n\n  \"job_name\": \"customize_select\",\n\n  \"job_id\": \"cus_select_test\",\n\n  \"previous_job_id\": \"755ab57c-b55f-45cf-8a32-073001e0c463\",\n\n  \"job_sequence\": 2,\n\n  \"job_report_path\": \"repot_liaison\",\n\n  \"source_table_path\": \"SAM_LAB.RAW_SEON_test_1215\",\n\n  \"destination_table_path\": \"SAM_LAB.SAPPER_GENERAL_TMP_TABLE_test_1215\",\n\n  \"job_status\": \"start\",\n\n  \"use_general_tmp_table\": true\n\n}\n\n  \n\n做json攤平\n\n{\n\n  \"order_data\": {\n\n    \"columns\": \"RAW_DATA\"\n\n  },\n\n  \"mission_name\": \"seon_test\",\n\n  \"mission_id\": \"mission_test_1206\",\n\n  \"job_name\": \"flatten_json\",\n\n  \"job_id\": \"flat_json_test\",\n\n  \"previous_job_id\":\"cus_select_test\",\n\n  \"job_sequence\": 3,\n\n  \"report_path\": \"repot_liaison\",\n\n  \"source_table_path\": \"SAM_LAB.SAPPER_GENERAL_TMP_TABLE_test_1206\",\n\n  \"destination_table_path\" : \"SAM_LAB.SEON_TEST_1208\",\n\n  \"job_status\": \"start\",\n\n\"use_general_tmp_table\": false\n\n}",
+  "size": 1057,
+  "lines": 73
+}

@@ -6,6 +6,7 @@
 
 import os
 import json
+import hashlib
 from pathlib import Path
 from typing import Dict, List, Any
 from urllib.parse import quote
@@ -14,9 +15,11 @@ from urllib.parse import quote
 def should_ignore(path: Path) -> bool:
     """檢查是否應該忽略此路徑"""
     ignore_patterns = {
-        '.git', '.github', 'node_modules', '__pycache__',
+        '.git', '.github', 'node_modules', '__pycache__', 'api',
         '.DS_Store', 'generate_tree.py', 'tree.json', 'index.json', 'search.json',
-        'index.html', 'README.md', 'SNAPSHOT.md', 'DEPLOY_GUIDE.md', '.gitignore'
+        'index.html', 'README.md', 'SNAPSHOT.md', 'DEPLOY_GUIDE.md', '.gitignore',
+        'GPT_ACTIONS_SCHEMA.yaml', 'GPT_INSTRUCTIONS.md', 'GPT_SETUP_GUIDE.md',
+        'GPT_CONFIG_SUMMARY.md'
     }
     
     # 檢查檔名或資料夾名是否在忽略列表中
@@ -147,8 +150,14 @@ def generate_lightweight_index(directory: Path, base_path: Path, base_url: str) 
     }
 
 
+def generate_file_id(path: str) -> str:
+    """為檔案路徑生成一個簡短的 ID"""
+    # 使用 MD5 hash 的前 8 個字符作為 ID
+    return hashlib.md5(path.encode('utf-8')).hexdigest()[:8]
+
+
 def generate_search_index(directory: Path, base_path: Path, base_url: str) -> Dict[str, Any]:
-    """生成可搜索的檔案索引（按分類完整列出）"""
+    """生成可搜索的檔案索引（按分類完整列出，包含 file_id）"""
     categories = {}
     
     for item in directory.rglob('*.md'):
@@ -167,9 +176,12 @@ def generate_search_index(directory: Path, base_path: Path, base_url: str) -> Di
         if category not in categories:
             categories[category] = []
         
+        file_id = generate_file_id(relative_path)
+        
         categories[category].append({
             "name": item.name,
-            "path": relative_path
+            "path": relative_path,
+            "file_id": file_id
         })
     
     # 生成分類摘要
@@ -184,8 +196,56 @@ def generate_search_index(directory: Path, base_path: Path, base_url: str) -> Di
     return {
         "base_url": base_url,
         "total_files": sum(len(files) for files in categories.values()),
-        "categories": category_data
+        "categories": category_data,
+        "usage": {
+            "note": "Use file_id to get content via /api/files/{file_id}.json",
+            "example": "To get file content, call getFileContent with the file_id"
+        }
     }
+
+
+def generate_file_contents(directory: Path, base_path: Path) -> Dict[str, str]:
+    """為每個 Markdown 檔案生成 JSON 檔案"""
+    files_dir = base_path / 'api' / 'files'
+    files_dir.mkdir(parents=True, exist_ok=True)
+    
+    file_count = 0
+    file_mapping = {}
+    
+    for item in directory.rglob('*.md'):
+        if should_ignore(item):
+            continue
+        
+        relative_path = str(item.relative_to(base_path))
+        file_id = generate_file_id(relative_path)
+        
+        # 讀取檔案內容
+        try:
+            with open(item, 'r', encoding='utf-8') as f:
+                content = f.read()
+            
+            # 創建檔案內容 JSON
+            file_data = {
+                "file_id": file_id,
+                "name": item.name,
+                "path": relative_path,
+                "content": content,
+                "size": len(content),
+                "lines": content.count('\n') + 1
+            }
+            
+            # 寫入 JSON 檔案
+            output_file = files_dir / f"{file_id}.json"
+            with open(output_file, 'w', encoding='utf-8') as f:
+                json.dump(file_data, f, ensure_ascii=False, indent=2)
+            
+            file_mapping[relative_path] = file_id
+            file_count += 1
+            
+        except Exception as e:
+            print(f"⚠️ 無法處理檔案 {relative_path}: {e}")
+    
+    return file_mapping, file_count
 
 
 def main():
@@ -233,14 +293,21 @@ def main():
     print(f"✅ 成功生成 index.json (輕量級索引 - 只有分類摘要)")
     print(f"📍 輸出位置: {index_path}")
     
-    # 生成可搜索的檔案索引
+    # 生成可搜索的檔案索引（包含 file_id）
     search_index = generate_search_index(base_path, base_path, base_url)
     search_path = base_path / 'search.json'
     with open(search_path, 'w', encoding='utf-8') as f:
         json.dump(search_index, f, ensure_ascii=False, indent=2)
     
-    print(f"✅ 成功生成 search.json (完整檔案列表，按分類)")
+    print(f"✅ 成功生成 search.json (完整檔案列表，按分類，包含 file_id)")
     print(f"📍 輸出位置: {search_path}")
+    
+    # 生成檔案內容 JSON 檔案
+    print(f"\n正在生成檔案內容 JSON...")
+    file_mapping, content_count = generate_file_contents(base_path, base_path)
+    
+    print(f"✅ 成功生成 {content_count} 個檔案內容 JSON")
+    print(f"📍 輸出位置: {base_path / 'api' / 'files' / '*.json'}")
 
 
 if __name__ == "__main__":

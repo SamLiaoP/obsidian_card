@@ -1,0 +1,8 @@
+{
+  "file_id": "b9f636a3",
+  "name": "8.2a1k Response Relevance 回應相關性.md",
+  "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1k Response Relevance 回應相關性.md",
+  "content": "\n## LLM as a judge  \n\n## Required\n- User Input  -> Question\n- LLM Output -> Response\n\n## 描述\n**回應相關性**用於評估生成的回應是否直接針對用戶問題，並避免無關的額外資訊。此分數衡量回應對於問題的專注程度，確保生成的回應不偏離問題主題。\n\n## 計算方法\n回應相關性通過以下兩步評估：\n\n1. **檢查直接回答**：確認回應內容是否與問題直接相關。\n2. **識別無關資訊**：檢查回應中是否包含與問題無關的多餘資訊。\n\n回應得分越高表示其越專注於回答問題，無多餘的無關內容。\n\n## 程式碼\n```python\nfrom uptrain import EvalLLM, Evals\n\n# 插入您的 OpenAI API 密鑰\nOPENAI_API_KEY = \"sk-********************\"\n\ndata = [{\n    \"question\": \"What are the benefits of regular exercise?\",\n    \"response\": \"Regular exercise has well-documented health benefits. On a related note, the importance of routine health check-ups in preventive healthcare cannot be emphasized enough. It allows for early detection of potential health issues and facilitates proactive management for individuals.\"\n}]\n\n# 初始化回應相關性評估\neval_llm = EvalLLM(openai_api_key=OPENAI_API_KEY)\n\n# 計算回應相關性分數\nres = eval_llm.evaluate(\n    data = data,\n    checks = [Evals.RESPONSE_RELEVANCE]\n)\n\nprint(res)\n```\n\n範例輸出：\n```json\n[\n   {\n      \"score_response_relevance\": 0.0,\n      \"explanation_response_relevance\": \"The LLM response contains a lot of additional irrelevant information because it goes off on a tangent about routine health check-ups and preventive healthcare, which is not directly related to the benefits of regular exercise. This additional information distracts from the main topic and does not directly address the user query.\"\n   }\n]\n```\n\n在此範例中，回應包含無關於問題的資訊，導致較低的回應相關性分數。`Explanation` 詳細解釋了無關內容的來源。",
+  "size": 1460,
+  "lines": 53
+}

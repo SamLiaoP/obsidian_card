@@ -1,0 +1,8 @@
+{
+  "file_id": "e09cf473",
+  "name": "scout上行電文.md",
+  "path": "4. 軟體開發/數據處理微服務/scout上行電文.md",
+  "content": "{\n\n  \"order_data\": {\n\n    \"ip\": \"11.22.33.44\",\n\n    \"phone_number\": \"36200130525\",\n\n    \"email\": \"daguanting@gmail.com\"\n\n  },\n\n  \"mission_name\": \"seon_test\",\n\n  \"mission_id\": \"mission_test_1206\",\n\n  \"task_name\": \"call_seon_fraud_api\",\n\n  \"task_id\": \"test1206\",\n\n  \"task_sequence\": 1,\n\n  \"task_report_path\": \"repot_liaison\",\n\n  \"raw_table_path\": \"SAM_LAB.MISSION_NAME_RAW_TABLE_test_1129\",\n\n  \"task_status\": \"start\"\n\n}",
+  "size": 417,
+  "lines": 29
+}

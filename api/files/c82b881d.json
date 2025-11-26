@@ -1,0 +1,8 @@
+{
+  "file_id": "c82b881d",
+  "name": "8.4 在notebook環境中安裝ollama.md",
+  "path": "8. 人工智能/8.4 在notebook環境中安裝ollama.md",
+  "content": "\n### Install ollama\n```\nProject Github Repo: https://github.com/ollama/ollama\n!curl https://ollama.ai/install.sh | sh\n```\n\n### Ollama serve in the background\n```\n!nohup ollama serve &\n```\n\n### Ollama pull model\n```\n!ollama pull cwchang/llama-3-taiwan-8b-instruct\n```\n\n\n### test ollama\n```\n!ollama run cwchang/llama-3-taiwan-8b-instruct \"請使用繁體中文，介紹 llama-3-taiwan LLM 模型？\"\n```\n\n\n### install python ollama\n```\n!pip install -q ollama\n```\n\n```\nimport ollama\nresponse = ollama.chat(model='cwchang/llama-3-taiwan-8b-instruct', messages=[\n{\n'role': 'user',\n'content': '為什麼天空是藍色的？',\n},\n])\nprint(response['message']['content'])\n```\n",
+  "size": 623,
+  "lines": 40
+}

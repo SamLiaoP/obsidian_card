@@ -1,6 +1,6 @@
 {
   "base_url": "https://samliaop.github.io/obsidian_card",
-  "total_files": 237,
+  "total_files": 235,
   "generated_at": null,
   "tree": {
     "name": "root",
@@ -1744,18 +1744,6 @@
             "url": "https://samliaop.github.io/obsidian_card/9.%20%E5%B0%88%E6%A1%88%E7%AE%A1%E7%90%86/9.2%20%E6%BA%9D%E9%80%9A%E5%9E%8B%E7%B0%A1%E5%A0%B1%E5%92%8C%E8%A1%A8%E6%BC%94%E5%9E%8B%E7%B0%A1%E5%A0%B1.md"
           }
         ]
-      },
-      {
-        "name": "GPT_INSTRUCTIONS.md",
-        "type": "file",
-        "path": "GPT_INSTRUCTIONS.md",
-        "url": "https://samliaop.github.io/obsidian_card/GPT_INSTRUCTIONS.md"
-      },
-      {
-        "name": "GPT_SETUP_GUIDE.md",
-        "type": "file",
-        "path": "GPT_SETUP_GUIDE.md",
-        "url": "https://samliaop.github.io/obsidian_card/GPT_SETUP_GUIDE.md"
       }
     ]
   },
@@ -2934,16 +2922,6 @@
       "name": "9.2 溝通型簡報和表演型簡報.md",
       "path": "9. 專案管理/9.2 溝通型簡報和表演型簡報.md",
       "url": "https://samliaop.github.io/obsidian_card/9.%20%E5%B0%88%E6%A1%88%E7%AE%A1%E7%90%86/9.2%20%E6%BA%9D%E9%80%9A%E5%9E%8B%E7%B0%A1%E5%A0%B1%E5%92%8C%E8%A1%A8%E6%BC%94%E5%9E%8B%E7%B0%A1%E5%A0%B1.md"
-    },
-    {
-      "name": "GPT_INSTRUCTIONS.md",
-      "path": "GPT_INSTRUCTIONS.md",
-      "url": "https://samliaop.github.io/obsidian_card/GPT_INSTRUCTIONS.md"
-    },
-    {
-      "name": "GPT_SETUP_GUIDE.md",
-      "path": "GPT_SETUP_GUIDE.md",
-      "url": "https://samliaop.github.io/obsidian_card/GPT_SETUP_GUIDE.md"
     }
   ]
 }

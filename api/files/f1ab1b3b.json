@@ -1,0 +1,8 @@
+{
+  "file_id": "f1ab1b3b",
+  "name": "8.1d Router and Gateway 路由和閘道.md",
+  "path": "8. 人工智能/8.1 AI服務的組件/8.1d Router and Gateway 路由和閘道.md",
+  "content": "\n## 內容：\n### 觀點\n![[10-model-gateway.png]]\n\n### 案例\n## Router\nintent classifier 意圖探測器\n根據不同意圖，導引到不同的專用模型\n\nnext-action predictor 下一步預測器\n專門詢問使用者，澄清需求\n## Gateway\n中間層，用以負責將系統，用統一個接口導引到不同的模型接口。\n創建一個集中且受控的訪問點，做到：\n1. 避免把例如 openAI的金鑰發給所有人\n2. FallBack 機制，主要API不可用時，自動切換\n3. Load Balance，Logging紀錄\n\n工具：\n1. Portkey’s gateway\n2. MLflow AI Gateway\n3. WealthSimple’s llm-gateway\n4. TrueFoundry\n5. Kong\n6. Cloudflare.Complex\n\n\n### 總結\n\n\n\n## 參考來源：\nhttps://huyenchip.com/2024/07/25/genai-platform.html#ai_pipeline_orchestration",
+  "size": 504,
+  "lines": 34
+}

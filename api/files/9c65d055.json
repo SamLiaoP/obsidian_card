@@ -1,0 +1,8 @@
+{
+  "file_id": "9c65d055",
+  "name": "8.2a1o Faithfulness 忠實性分數.md",
+  "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1a 優化指標/8.2a1o Faithfulness 忠實性分數.md",
+  "content": "## Required\n- User Input\n- LLM Output -> Response\n- Retrieved Contexts\n\n## 描述\n**忠實性**用於評估生成的回答在多大程度上與提供的上下文保持事實一致。當回答中的每個陳述都能從檢索到的上下文中推導出時，即可視為忠實。忠實性分數範圍為 0 到 1，分數越高表示回答的事實一致性越高。\n\n## 計算方法\n忠實性分數的計算包含以下步驟：\n\n1. **拆分陳述**：將生成的回答拆分為多個陳述。\n2. **交叉檢查**：將每個陳述與檢索到的上下文進行比對，檢查是否能從上下文推導出該陳述。\n3. **忠實性分數**：忠實性分數計算公式如下：\n\n$$\n\\text{Faithfulness} = \\frac{\\text{忠實陳述數量}}{\\text{回答中的總陳述數量}}\n$$\n\n## 程式碼\n```python\nfrom ragas.database_schema import SingleTurnSample \nfrom ragas.metrics import Faithfulness\n\n# 準備測試數據\nsample = SingleTurnSample(\n    user_input=\"When was the first super bowl?\",\n    response=\"The first superbowl was held on Jan 15, 1967\",\n    retrieved_contexts=[\n        \"The First AFL–NFL World Championship Game was an American football game played on January 15, 1967, at the Los Angeles Memorial Coliseum in Los Angeles.\"\n    ]\n)\n\n# 初始化忠實性評分器並計算分數\nscorer = Faithfulness()\nawait scorer.single_turn_ascore(sample)\n```\n\n範例輸出可能會返回忠實性分數（例如 `0.5` 或 `1.0`），依據回答中各個陳述是否符合檢索到的上下文來計算。\n\n\n## 參考資料：\nhttps://docs.ragas.io/en/stable/concepts/metrics/available_metrics/faithfulness/#how-its-calculated",
+  "size": 1080,
+  "lines": 43
+}

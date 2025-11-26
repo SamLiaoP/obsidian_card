@@ -1,0 +1,8 @@
+{
+  "file_id": "f9ff569c",
+  "name": "8.2a1o FaithfulnessMetric 忠實性分數.md",
+  "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1o FaithfulnessMetric 忠實性分數.md",
+  "content": "## LLM as a judge  \n\n## Required\n- User Input\n- LLM Output\n- Retrieval Context\n\n## 描述\n**忠實性**指標用於衡量 RAG 流程中生成的回答與檢索上下文內容的事實一致性。此指標基於生成回應中是否存在矛盾，從而判斷模型回答是否忠實於檢索上下文。**FaithfulnessMetric** 是一種自解釋 LLM 評估方式，會為其分數提供詳細的理由說明。\n\n忠實性分數會比對生成回應中的各個陳述，並檢查是否能從檢索上下文中推導出或不矛盾。如果一個陳述與上下文一致，即視為忠實。\n\n## 計算方法\n忠實性分數的計算包含以下步驟：\n\n1. **提取陳述**：使用 LLM 從生成回應中提取所有陳述。\n2. **分類忠實性**：使用 LLM 檢查每條陳述是否與檢索上下文內容一致。\n3. **忠實性分數公式**：\n\n$$\n\\text{Faithfulness} = \\frac{\\text{Number of Truthful Claims}}{\\text{Total Number of Claims}}\n$$\n\n## 程式碼\n```python\nfrom deepeval import evaluate\nfrom deepeval.metrics import FaithfulnessMetric\nfrom deepeval.test_case import LLMTestCase\n\n# 生成回應\nactual_output = \"We offer a 30-day full refund at no extra cost.\"\n\n# 檢索上下文\nretrieval_context = [\"All customers are eligible for a 30 day full refund at no extra cost.\"]\n\n# 初始化忠實性評分器並設置參數\nmetric = FaithfulnessMetric(\n    threshold=0.7,\n    model=\"gpt-4\",\n    include_reason=True\n)\n\n# 設置測試案例\ntest_case = LLMTestCase(\n    input=\"What if these shoes don't fit?\",\n    actual_output=actual_output,\n    retrieval_context=retrieval_context\n)\n\n# 計算忠實性分數\nmetric.measure(test_case)\nprint(\"Faithfulness Score:\", metric.score)\nprint(\"Explanation:\", metric.reason)\n```\n\n在這個範例中，**Faithfulness Score** 反映出生成回應與檢索上下文的一致性程度，`Explanation` 提供分數的解釋以說明一致或矛盾的原因。\n\n## 參考資料:\nhttps://docs.confident-ai.com/docs/metrics-faithfulness",
+  "size": 1346,
+  "lines": 59
+}

@@ -30,8 +30,9 @@ paths:
       operationId: searchKnowledgeBase
       summary: Get complete file list by category
       description: |
-        Returns all files organized by category.
+        Returns all files organized by category with file_id.
         Use this when you need to find specific files within a category.
+        Each file has a file_id that can be used to get its content.
       responses:
         '200':
           description: Successful response with complete file list
@@ -39,6 +40,32 @@ paths:
             application/json:
               schema:
                 $ref: '#/components/schemas/SearchIndex'
+
+  /api/files/{file_id}.json:
+    get:
+      operationId: getFileContent
+      summary: Get markdown file content by file_id
+      description: |
+        Returns the complete content of a markdown file.
+        Use the file_id from search results to get the file content.
+      parameters:
+        - name: file_id
+          in: path
+          required: true
+          description: The unique file ID (8-character hash)
+          schema:
+            type: string
+            pattern: '^[a-f0-9]{8}$'
+            example: "a1b2c3d4"
+      responses:
+        '200':
+          description: Successful response with file content
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/FileContent'
+        '404':
+          description: File not found
 
 components:
   schemas:
@@ -114,6 +141,35 @@ components:
           example: "1.1a Why? 卡片盒筆記是想法的串連.md"
         path:
           type: string
-          description: Relative path (needs URL encoding to access)
+          description: Relative path
           example: "1. 個人知識管理/1.1 卡片盒筆記/1.1a Why? 卡片盒筆記是想法的串連.md"
+        file_id:
+          type: string
+          description: Unique file ID for getting content
+          example: "a1b2c3d4"
+
+    FileContent:
+      type: object
+      properties:
+        file_id:
+          type: string
+          description: Unique file ID
+          example: "a1b2c3d4"
+        name:
+          type: string
+          description: File name
+          example: "1.1a Why? 卡片盒筆記是想法的串連.md"
+        path:
+          type: string
+          description: Relative path
+          example: "1. 個人知識管理/1.1 卡片盒筆記/1.1a Why? 卡片盒筆記是想法的串連.md"
+        content:
+          type: string
+          description: Complete markdown content
+        size:
+          type: integer
+          description: Content size in bytes
+        lines:
+          type: integer
+          description: Number of lines in the file
 

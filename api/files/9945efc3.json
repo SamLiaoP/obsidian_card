@@ -1,0 +1,8 @@
+{
+  "file_id": "9945efc3",
+  "name": "8.1a 一個優秀的AI平台（可能）要有的組件.md",
+  "path": "8. 人工智能/8.1 AI服務的組件/8.1a 一個優秀的AI平台（可能）要有的組件.md",
+  "content": "![[Pasted image 20240904111343.png]]\n# 最基礎的狀態：\n![[basic_llm.png]]\n\n# [[8.1b Enhance Context 增強上下文]]\n加入增加上下文，幫助模型知道更多\n有趣的點：\n1. 檢索的Documents 需要切成 manageable chunks，避免token數過多。\n2. Query Rewriting，可以一樣用模型達成\n![[Pasted image 20240904112716.png]]\n\n# [[8.1c Guardrails 護欄]]\n加入 Input Output 護欄，控管模型\n有趣的點：\n1. Input Guardrails，在偵測到機敏訊息後，可以用佔位符號代替，回傳再重新填回去，做到可以處理機敏訊息，但不透過API打出去。\n2. Output Guardrails，除了規則與檢測工具，可以訓練評分器，來控制文章品質。\n![[Pasted image 20240904112738.png]]\n\n\n# [[8.1d Router and Gateway 路由和閘道]]\n用路由與閘道，近一步控制流程\n有趣的點：\n1. intent classifier 意圖探測器，可以根據使用者的不同意圖，導引到不同的專用模型，不是由使用者判斷用哪個模型，而是我們控制。\n\n![[Pasted image 20240904112748.png]]\n\n# [[8.1e Cache 緩存]]\n將增強上下文，或是模型的資料用cache存起來，節省成本\n有趣的點：\n1. Extract Cache ，存儲已處理的項目，以便在稍後請求相同項目時重用法院判例，同一個人的報告可以緩存起來，以利後續使用，減少計算與回覆的時間。\n2. Cache住Vector Search得結果，也可以避免重複進行搜索。\n![[Pasted image 20240904112753.png]]\n\n# [[8.1f Logic and Actions 複雜邏輯操作]]\n可以讓模型的輸入是另一個模型的輸出，直到任務完成\n有趣的點：(可連結志琪七七公司做的simpleinfo.ai)\n![[Pasted image 20240904112759.png]]\n可以給模型執行或寫入的權力，但這風險相對較大\n![[Pasted image 20240904112807.png]]\n\n# [[8.1g Observability 可觀測性]]\n模型和系統都有需要觀測的\n\n# [[8.1h AI Pipeline Orchestration]]\n一些AI Pipeline 的工具\n\n\n# 參考來源：\nhttps://huyenchip.com/2024/07/25/genai-platform.html#ai_pipeline_orchestration",
+  "size": 1213,
+  "lines": 49
+}

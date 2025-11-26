@@ -1,0 +1,8 @@
+{
+  "file_id": "fa9cd7d3",
+  "name": "8.2a1f Noise Sensitivity 噪聲敏感度.md",
+  "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1a 優化指標/8.2a1f Noise Sensitivity 噪聲敏感度.md",
+  "content": "#AI服務\n\n## Required\n- **User Input**\n- **LLM Output**\n- **Retrieved Contexts**\n\n## 描述\n**噪聲敏感度**評估模型在使用檢索回來的相關或不相關文件時產生錯誤回應的頻率。分數範圍為 0 到 1，分數越低表示模型對噪聲的敏感度越低，性能越佳。噪聲敏感度通過將生成回應中的各個陳述與檢索到的相關上下文進行比對，以確定生成回應中是否有未被檢索到的相關上下文支持的「錯誤陳述」。\n\n## 計算方法\n假設生成回應包含 \\( C \\) 個陳述，其中錯誤的陳述數量為 \\( I \\)（即無法在檢索的相關上下文中找到支持的陳述數量）。噪聲敏感度計算公式如下：\n\n$$\n\\text{Noise Sensitivity} = \\frac{I}{C}\n$$\n\n其中：\n- \\( C \\)：生成回應中的總陳述數量。\n- \\( I \\)：無法在檢索到的相關上下文中找到支持的「錯誤陳述」數量。\n\n當噪聲敏感度接近 0 時，表示模型能有效忽略噪聲並僅利用相關上下文生成準確回應；接近 1 則表示回應中包含大量不受相關上下文支持的內容，模型對噪聲的抗干擾性較低。\n\n## 程式碼\n```python\nfrom ragas.dataset_schema import SingleTurnSample\nfrom ragas.metrics import NoiseSensitivity\n\n# 準備測試數據\nsample = SingleTurnSample(\n    user_input=\"印度人壽保險公司（LIC）以什麼而聞名？\",\n    response=\"印度人壽保險公司（LIC）是印度最大的保險公司，以其龐大的投資組合而聞名。LIC 為國家的金融穩定做出貢獻。\",\n    retrieved_contexts=[\n        \"印度人壽保險公司（LIC）於 1956 年因保險業國有化而成立。\",\n        \"LIC 是印度最大的保險公司，擁有龐大的保單持有人網絡和大量投資。\",\n        \"作為印度最大的機構投資者，LIC 管理著大量的資金，為國家的金融穩定做出貢獻。\",\n        \"印度經濟是世界上增長最快的主要經濟體之一，得益於金融、科技和製造等行業。\"\n    ]\n)\n\n# 創建噪聲敏感度計分器並計算分數\nscorer = NoiseSensitivity()\nawait scorer.single_turn_ascore(sample)\n```\n\n在這段程式碼中，我們使用 **Noise Sensitivity** 指標來判斷生成的回應中是否包含不相關的噪聲資訊。\n## 參考來源:\nhttps://docs.ragas.io/en/stable/concepts/metrics/available_metrics/noise_sensitivity/",
+  "size": 1231,
+  "lines": 48
+}

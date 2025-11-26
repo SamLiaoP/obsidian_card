@@ -1,0 +1,8 @@
+{
+  "file_id": "eef1e138",
+  "name": "8.2a1p Hallucination 幻覺分數.md",
+  "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1p Hallucination 幻覺分數.md",
+  "content": "## LLM as a judge  \n\n## Required\n- User Input\n- LLM Output\n- Retrieval Context\n\n## 描述\n**幻覺性**指標用於檢測生成回應中的資訊是否與提供的上下文存在事實矛盾。當生成的回應中出現無法從上下文中推導出的訊息時，即視為「幻覺」。**HallucinationMetric** 主要用於檢查回應是否包含與上下文不一致的訊息，並會提供評估分數的詳細說明。\n\n## 計算方法\n幻覺性分數的計算包含以下步驟：\n\n1. **檢查矛盾**：使用 LLM 逐一檢查每個上下文，確定是否有任何與生成回應不一致的內容。\n2. **幻覺性分數公式**：\n\n$$\n\\text{Hallucination} = \\frac{\\text{Number of Contradicted Contexts}}{\\text{Total Number of Contexts}}\n$$\n\n若所有上下文均無矛盾，分數接近 0；若回應在多數上下文中有矛盾，分數接近 1。\n\n## 程式碼\n```python\nfrom deepeval import evaluate\nfrom deepeval.metrics import HallucinationMetric\nfrom deepeval.test_case import LLMTestCase\n\n# 檢索到的上下文\ncontext=[\"A man with blond-hair, and a brown shirt drinking out of a public water fountain.\"]\n\n# 生成的回應\nactual_output=\"A blond drinking water in public.\"\n\n# 設定測試案例\ntest_case = LLMTestCase(\n    input=\"What was the blond doing?\",\n    actual_output=actual_output,\n    context=context\n)\n\n# 初始化幻覺性評分器並設置閾值\nmetric = HallucinationMetric(threshold=0.5)\n\n# 計算幻覺性分數\nmetric.measure(test_case)\nprint(\"Hallucination Score:\", metric.score)\nprint(\"Explanation:\", metric.reason)\n```\n\n範例輸出可能會顯示幻覺性分數（例如 `0.0` 或 `1.0`），依據回應中的內容是否與上下文一致來計算。`Explanation` 提供了分數的解釋，以說明矛盾的來源。",
+  "size": 1161,
+  "lines": 51
+}

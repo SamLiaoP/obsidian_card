@@ -1,6 +1,6 @@
 {
   "base_url": "https://samliaop.github.io/obsidian_card",
-  "total_files": 237,
+  "total_files": 235,
   "categories": [
     {
       "category": "1. 個人知識管理",
@@ -8,47 +8,58 @@
       "files": [
         {
           "name": "1.1b3 如何分類卡片？.md",
-          "path": "1. 個人知識管理/1.1 卡片盒筆記/1.1b3 如何分類卡片？.md"
+          "path": "1. 個人知識管理/1.1 卡片盒筆記/1.1b3 如何分類卡片？.md",
+          "file_id": "02f15f5d"
         },
         {
           "name": "1.1a1 什麼時候要寫卡片？當你「在意」時。.md",
-          "path": "1. 個人知識管理/1.1 卡片盒筆記/1.1a1 什麼時候要寫卡片？當你「在意」時。.md"
+          "path": "1. 個人知識管理/1.1 卡片盒筆記/1.1a1 什麼時候要寫卡片？當你「在意」時。.md",
+          "file_id": "fde0d48d"
         },
         {
           "name": "1.1a2 我覺得既使還不知道為什麼要，也該紀錄.md",
-          "path": "1. 個人知識管理/1.1 卡片盒筆記/1.1a2 我覺得既使還不知道為什麼要，也該紀錄.md"
+          "path": "1. 個人知識管理/1.1 卡片盒筆記/1.1a2 我覺得既使還不知道為什麼要，也該紀錄.md",
+          "file_id": "46ec1b73"
         },
         {
           "name": "1.1b How? 如何產出卡片盒筆記？.md",
-          "path": "1. 個人知識管理/1.1 卡片盒筆記/1.1b How? 如何產出卡片盒筆記？.md"
+          "path": "1. 個人知識管理/1.1 卡片盒筆記/1.1b How? 如何產出卡片盒筆記？.md",
+          "file_id": "32bba1a4"
         },
         {
           "name": "1.1b2a 什麼時候要把筆記變成卡片.md",
-          "path": "1. 個人知識管理/1.1 卡片盒筆記/1.1b2a 什麼時候要把筆記變成卡片.md"
+          "path": "1. 個人知識管理/1.1 卡片盒筆記/1.1b2a 什麼時候要把筆記變成卡片.md",
+          "file_id": "a53671a4"
         },
         {
           "name": "1.1b3b 魯曼卡片索引法.md",
-          "path": "1. 個人知識管理/1.1 卡片盒筆記/1.1b3b 魯曼卡片索引法.md"
+          "path": "1. 個人知識管理/1.1 卡片盒筆記/1.1b3b 魯曼卡片索引法.md",
+          "file_id": "5993ad83"
         },
         {
           "name": "1.1b2 卡片怎麼寫？.md",
-          "path": "1. 個人知識管理/1.1 卡片盒筆記/1.1b2 卡片怎麼寫？.md"
+          "path": "1. 個人知識管理/1.1 卡片盒筆記/1.1b2 卡片怎麼寫？.md",
+          "file_id": "9cf2112d"
         },
         {
           "name": "1.1c1 What? 如何使用卡片？ 產出MOC.md",
-          "path": "1. 個人知識管理/1.1 卡片盒筆記/1.1c1 What? 如何使用卡片？ 產出MOC.md"
+          "path": "1. 個人知識管理/1.1 卡片盒筆記/1.1c1 What? 如何使用卡片？ 產出MOC.md",
+          "file_id": "f13a87f6"
         },
         {
           "name": "1.1b1 筆記怎麼寫？.md",
-          "path": "1. 個人知識管理/1.1 卡片盒筆記/1.1b1 筆記怎麼寫？.md"
+          "path": "1. 個人知識管理/1.1 卡片盒筆記/1.1b1 筆記怎麼寫？.md",
+          "file_id": "094886bc"
         },
         {
           "name": "1.1b3a ACCESS筆記分類法.md",
-          "path": "1. 個人知識管理/1.1 卡片盒筆記/1.1b3a ACCESS筆記分類法.md"
+          "path": "1. 個人知識管理/1.1 卡片盒筆記/1.1b3a ACCESS筆記分類法.md",
+          "file_id": "f8e6d8c2"
         },
         {
           "name": "1.1a Why? 卡片盒筆記是想法的串連.md",
-          "path": "1. 個人知識管理/1.1 卡片盒筆記/1.1a Why? 卡片盒筆記是想法的串連.md"
+          "path": "1. 個人知識管理/1.1 卡片盒筆記/1.1a Why? 卡片盒筆記是想法的串連.md",
+          "file_id": "c0ee5222"
         }
       ]
     },
@@ -58,19 +69,23 @@
       "files": [
         {
           "name": "10.1a 如何選擇標的？絕對不是夢想.md",
-          "path": "10. 投資/10.1a 如何選擇標的？絕對不是夢想.md"
+          "path": "10. 投資/10.1a 如何選擇標的？絕對不是夢想.md",
+          "file_id": "75eb4b60"
         },
         {
           "name": "10.1b 收購最好走利潤回饋法.md",
-          "path": "10. 投資/10.1b 收購最好走利潤回饋法.md"
+          "path": "10. 投資/10.1b 收購最好走利潤回饋法.md",
+          "file_id": "7d6ee9ca"
         },
         {
           "name": "10.1 主街致富法 - 擁有某物，比出售時間更有價值.md",
-          "path": "10. 投資/10.1 主街致富法 - 擁有某物，比出售時間更有價值.md"
+          "path": "10. 投資/10.1 主街致富法 - 擁有某物，比出售時間更有價值.md",
+          "file_id": "34cd497a"
         },
         {
           "name": "10.1c 管理的目標是讓自己不用管理.md",
-          "path": "10. 投資/10.1c 管理的目標是讓自己不用管理.md"
+          "path": "10. 投資/10.1c 管理的目標是讓自己不用管理.md",
+          "file_id": "3e319056"
         }
       ]
     },
@@ -80,63 +95,78 @@
       "files": [
         {
           "name": "2.4a Localize 融入當地.md",
-          "path": "2. 海外工作計畫/2.4a Localize 融入當地.md"
+          "path": "2. 海外工作計畫/2.4a Localize 融入當地.md",
+          "file_id": "3341b4dd"
         },
         {
           "name": "2.4d Test 不斷測試.md",
-          "path": "2. 海外工作計畫/2.4d Test 不斷測試.md"
+          "path": "2. 海外工作計畫/2.4d Test 不斷測試.md",
+          "file_id": "077bb340"
         },
         {
           "name": "2.4a1 如何決定地點？.md",
-          "path": "2. 海外工作計畫/2.4a1 如何決定地點？.md"
+          "path": "2. 海外工作計畫/2.4a1 如何決定地點？.md",
+          "file_id": "363c488c"
         },
         {
           "name": "2.4a3 外語能力.md",
-          "path": "2. 海外工作計畫/2.4a3 外語能力.md"
+          "path": "2. 海外工作計畫/2.4a3 外語能力.md",
+          "file_id": "3a26aedf"
         },
         {
           "name": "2.4b2 Linkdin 經營.md",
-          "path": "2. 海外工作計畫/2.4b2 Linkdin 經營.md"
+          "path": "2. 海外工作計畫/2.4b2 Linkdin 經營.md",
+          "file_id": "7a5a593d"
         },
         {
           "name": "2.4b Internationalize 跨出國界.md",
-          "path": "2. 海外工作計畫/2.4b Internationalize 跨出國界.md"
+          "path": "2. 海外工作計畫/2.4b Internationalize 跨出國界.md",
+          "file_id": "3c48b13a"
         },
         {
           "name": "軟體工程師在愛爾蘭.md",
-          "path": "2. 海外工作計畫/軟體工程師在愛爾蘭.md"
+          "path": "2. 海外工作計畫/軟體工程師在愛爾蘭.md",
+          "file_id": "c7628eb7"
         },
         {
           "name": "2.3 海外求職管道.md",
-          "path": "2. 海外工作計畫/2.3 海外求職管道.md"
+          "path": "2. 海外工作計畫/2.3 海外求職管道.md",
+          "file_id": "1ae49d9d"
         },
         {
           "name": "2.4a2 有關簽證.md",
-          "path": "2. 海外工作計畫/2.4a2 有關簽證.md"
+          "path": "2. 海外工作計畫/2.4a2 有關簽證.md",
+          "file_id": "00b2e22e"
         },
         {
           "name": "2.2 出國預算盤點.md",
-          "path": "2. 海外工作計畫/2.2 出國預算盤點.md"
+          "path": "2. 海外工作計畫/2.2 出國預算盤點.md",
+          "file_id": "4366c9d2"
         },
         {
           "name": "2.4 出國工作的LIST循環.md",
-          "path": "2. 海外工作計畫/2.4 出國工作的LIST循環.md"
+          "path": "2. 海外工作計畫/2.4 出國工作的LIST循環.md",
+          "file_id": "17095475"
         },
         {
           "name": "2.4b1 撰寫一頁式履歷.md",
-          "path": "2. 海外工作計畫/2.4b1 撰寫一頁式履歷.md"
+          "path": "2. 海外工作計畫/2.4b1 撰寫一頁式履歷.md",
+          "file_id": "25b630a9"
         },
         {
           "name": "2.4c Strengthen 強化專業.md",
-          "path": "2. 海外工作計畫/2.4c Strengthen 強化專業.md"
+          "path": "2. 海外工作計畫/2.4c Strengthen 強化專業.md",
+          "file_id": "645dfcf3"
         },
         {
           "name": "2.1 條件式入學是一個成本高但可以避免成績不夠的入學方式.md",
-          "path": "2. 海外工作計畫/2.1 條件式入學是一個成本高但可以避免成績不夠的入學方式.md"
+          "path": "2. 海外工作計畫/2.1 條件式入學是一個成本高但可以避免成績不夠的入學方式.md",
+          "file_id": "69464816"
         },
         {
           "name": "2.4z Why?為什麼要出國？.md",
-          "path": "2. 海外工作計畫/2.4z Why?為什麼要出國？.md"
+          "path": "2. 海外工作計畫/2.4z Why?為什麼要出國？.md",
+          "file_id": "30fb1aa0"
         }
       ]
     },
@@ -146,115 +176,143 @@
       "files": [
         {
           "name": "3.10 自我觀察，我似乎蠻擅長講故事？.md",
-          "path": "3. 人生的價值觀/3.10 自我觀察，我似乎蠻擅長講故事？.md"
+          "path": "3. 人生的價值觀/3.10 自我觀察，我似乎蠻擅長講故事？.md",
+          "file_id": "f2dfd547"
         },
         {
           "name": "3.2 對於媒體娛樂業有不明所以的厭惡.md",
-          "path": "3. 人生的價值觀/3.2 對於媒體娛樂業有不明所以的厭惡.md"
+          "path": "3. 人生的價值觀/3.2 對於媒體娛樂業有不明所以的厭惡.md",
+          "file_id": "89f90626"
         },
         {
           "name": "3.7 地位跟金錢都該只是副產品.md",
-          "path": "3. 人生的價值觀/3.7 地位跟金錢都該只是副產品.md"
+          "path": "3. 人生的價值觀/3.7 地位跟金錢都該只是副產品.md",
+          "file_id": "3a6d8750"
         },
         {
           "name": "3.13 Eudaimonia 追求繁榮的人 - 發揮個人潛能、實現意義與成就.md",
-          "path": "3. 人生的價值觀/3.13 Eudaimonia 追求繁榮的人 - 發揮個人潛能、實現意義與成就.md"
+          "path": "3. 人生的價值觀/3.13 Eudaimonia 追求繁榮的人 - 發揮個人潛能、實現意義與成就.md",
+          "file_id": "d8f5f3a0"
         },
         {
           "name": "3.8 量化是手段而不是目的，它不該是目的.md",
-          "path": "3. 人生的價值觀/3.8 量化是手段而不是目的，它不該是目的.md"
+          "path": "3. 人生的價值觀/3.8 量化是手段而不是目的，它不該是目的.md",
+          "file_id": "32fa9553"
         },
         {
           "name": "3.9 貝葉斯信念-自我修正的機制.md",
-          "path": "3. 人生的價值觀/3.9 貝葉斯信念-自我修正的機制.md"
+          "path": "3. 人生的價值觀/3.9 貝葉斯信念-自我修正的機制.md",
+          "file_id": "42ea1f29"
         },
         {
           "name": "3.18 原始世界信念 Primal World Beliefs.md",
-          "path": "3. 人生的價值觀/3.18 原始世界信念 Primal World Beliefs.md"
+          "path": "3. 人生的價值觀/3.18 原始世界信念 Primal World Beliefs.md",
+          "file_id": "c1e9ac7f"
         },
         {
           "name": "3.1b 該支持的是民主，而不是台灣？.md",
-          "path": "3. 人生的價值觀/3.1b 該支持的是民主，而不是台灣？.md"
+          "path": "3. 人生的價值觀/3.1b 該支持的是民主，而不是台灣？.md",
+          "file_id": "a32c83ac"
         },
         {
           "name": "3.17 認知閉合需要與認知需要.md",
-          "path": "3. 人生的價值觀/3.17 認知閉合需要與認知需要.md"
+          "path": "3. 人生的價值觀/3.17 認知閉合需要與認知需要.md",
+          "file_id": "24569efd"
         },
         {
           "name": "3.14 一切都是被決定好的，但放心，你還是獨一無二且無法被預測的.md",
-          "path": "3. 人生的價值觀/3.14 一切都是被決定好的，但放心，你還是獨一無二且無法被預測的.md"
+          "path": "3. 人生的價值觀/3.14 一切都是被決定好的，但放心，你還是獨一無二且無法被預測的.md",
+          "file_id": "fde8fcaa"
         },
         {
           "name": "3.6 安全感有兩種 位置與自身.md",
-          "path": "3. 人生的價值觀/3.6 安全感有兩種 位置與自身.md"
+          "path": "3. 人生的價值觀/3.6 安全感有兩種 位置與自身.md",
+          "file_id": "520e16a5"
         },
         {
           "name": "3.11a 四者的關係.md",
-          "path": "3. 人生的價值觀/3.11a 四者的關係.md"
+          "path": "3. 人生的價值觀/3.11a 四者的關係.md",
+          "file_id": "0f32439c"
         },
         {
           "name": "3.4 愛自己是認知到自己被不應得的愛給愛著.md",
-          "path": "3. 人生的價值觀/3.4 愛自己是認知到自己被不應得的愛給愛著.md"
+          "path": "3. 人生的價值觀/3.4 愛自己是認知到自己被不應得的愛給愛著.md",
+          "file_id": "ee44ca6c"
         },
         {
           "name": "3.16 新發現！我會用文字結構來思考，但疲倦時不一樣.md",
-          "path": "3. 人生的價值觀/3.16 新發現！我會用文字結構來思考，但疲倦時不一樣.md"
+          "path": "3. 人生的價值觀/3.16 新發現！我會用文字結構來思考，但疲倦時不一樣.md",
+          "file_id": "398f5ca8"
         },
         {
           "name": "3.11 Goal, Purpose, Mission, and Telos.md",
-          "path": "3. 人生的價值觀/3.11 Goal, Purpose, Mission, and Telos.md"
+          "path": "3. 人生的價值觀/3.11 Goal, Purpose, Mission, and Telos.md",
+          "file_id": "dc1fa6d2"
         },
         {
           "name": "3.19 不只要找到自己不要什麼，也要找到自己要什麼。.md",
-          "path": "3. 人生的價值觀/3.19 不只要找到自己不要什麼，也要找到自己要什麼。.md"
+          "path": "3. 人生的價值觀/3.19 不只要找到自己不要什麼，也要找到自己要什麼。.md",
+          "file_id": "ded2b7a6"
         },
         {
           "name": "3.4a 愛自己是照護好自己.md",
-          "path": "3. 人生的價值觀/3.4a 愛自己是照護好自己.md"
+          "path": "3. 人生的價值觀/3.4a 愛自己是照護好自己.md",
+          "file_id": "7d5c8541"
         },
         {
           "name": "3.17a 認知閉合 X 安全感 X 焦慮.md",
-          "path": "3. 人生的價值觀/3.17a 認知閉合 X 安全感 X 焦慮.md"
+          "path": "3. 人生的價值觀/3.17a 認知閉合 X 安全感 X 焦慮.md",
+          "file_id": "5c18857f"
         },
         {
           "name": "3.15 關於我的擇偶條件和愛情觀.md",
-          "path": "3. 人生的價值觀/3.15 關於我的擇偶條件和愛情觀.md"
+          "path": "3. 人生的價值觀/3.15 關於我的擇偶條件和愛情觀.md",
+          "file_id": "b655c982"
         },
         {
           "name": "3.9a1 罷免制度真的有必要嗎？.md",
-          "path": "3. 人生的價值觀/3.9a1 罷免制度真的有必要嗎？.md"
+          "path": "3. 人生的價值觀/3.9a1 罷免制度真的有必要嗎？.md",
+          "file_id": "5b928ac4"
         },
         {
           "name": "3.9a 民主和科學 - 貝葉斯信念.md",
-          "path": "3. 人生的價值觀/3.9a 民主和科學 - 貝葉斯信念.md"
+          "path": "3. 人生的價值觀/3.9a 民主和科學 - 貝葉斯信念.md",
+          "file_id": "9497cdee"
         },
         {
           "name": "3.15b 延伸：感情不用一開始就傾盡所有，但只要我認定對方值得，我會毫無保留。因為我寧願受傷，也不要遺憾跟後悔。但我也該學著保留點空間，接受他人的愛，讓對方有機會來愛我。.md",
-          "path": "3. 人生的價值觀/3.15b 延伸：感情不用一開始就傾盡所有，但只要我認定對方值得，我會毫無保留。因為我寧願受傷，也不要遺憾跟後悔。但我也該學著保留點空間，接受他人的愛，讓對方有機會來愛我。.md"
+          "path": "3. 人生的價值觀/3.15b 延伸：感情不用一開始就傾盡所有，但只要我認定對方值得，我會毫無保留。因為我寧願受傷，也不要遺憾跟後悔。但我也該學著保留點空間，接受他人的愛，讓對方有機會來愛我。.md",
+          "file_id": "38e1de52"
         },
         {
           "name": "3.1 把投票當成職業運動比賽.md",
-          "path": "3. 人生的價值觀/3.1 把投票當成職業運動比賽.md"
+          "path": "3. 人生的價值觀/3.1 把投票當成職業運動比賽.md",
+          "file_id": "1c532b2c"
         },
         {
           "name": "3.1a 每個人都是含淚投票，因為沒有人是完人。.md",
-          "path": "3. 人生的價值觀/3.1a 每個人都是含淚投票，因為沒有人是完人。.md"
+          "path": "3. 人生的價值觀/3.1a 每個人都是含淚投票，因為沒有人是完人。.md",
+          "file_id": "4d7c72ce"
         },
         {
           "name": "3.3 一邊自我實現，一邊自我發現。.md",
-          "path": "3. 人生的價值觀/3.3 一邊自我實現，一邊自我發現。.md"
+          "path": "3. 人生的價值觀/3.3 一邊自我實現，一邊自我發現。.md",
+          "file_id": "be50f896"
         },
         {
           "name": "3.15a 感情不用一開始就傾盡所有，但只要我認定對方值得，我會毫無保留。因為我寧願受傷，也不要遺憾。.md",
-          "path": "3. 人生的價值觀/3.15a 感情不用一開始就傾盡所有，但只要我認定對方值得，我會毫無保留。因為我寧願受傷，也不要遺憾。.md"
+          "path": "3. 人生的價值觀/3.15a 感情不用一開始就傾盡所有，但只要我認定對方值得，我會毫無保留。因為我寧願受傷，也不要遺憾。.md",
+          "file_id": "2c1d32ea"
         },
         {
           "name": "3.5 快樂要間隔，因為你不想習慣它；痛苦要集中，因為習慣能減輕痛苦。.md",
-          "path": "3. 人生的價值觀/3.5 快樂要間隔，因為你不想習慣它；痛苦要集中，因為習慣能減輕痛苦。.md"
+          "path": "3. 人生的價值觀/3.5 快樂要間隔，因為你不想習慣它；痛苦要集中，因為習慣能減輕痛苦。.md",
+          "file_id": "4635df0d"
         },
         {
           "name": "3.12 野生問題 - 那些不做不知道的事情.md",
-          "path": "3. 人生的價值觀/3.12 野生問題 - 那些不做不知道的事情.md"
+          "path": "3. 人生的價值觀/3.12 野生問題 - 那些不做不知道的事情.md",
+          "file_id": "93934b72"
         }
       ]
     },
@@ -264,279 +322,348 @@
       "files": [
         {
           "name": "4.3 如何判斷是不是好的抽象化？.md",
-          "path": "4. 軟體開發/4.3 如何判斷是不是好的抽象化？.md"
+          "path": "4. 軟體開發/4.3 如何判斷是不是好的抽象化？.md",
+          "file_id": "0b093080"
         },
         {
           "name": "Liaison 上行電文.md",
-          "path": "4. 軟體開發/數據處理微服務/Liaison 上行電文.md"
+          "path": "4. 軟體開發/數據處理微服務/Liaison 上行電文.md",
+          "file_id": "6aa09265"
         },
         {
           "name": "sapper 上行電文.md",
-          "path": "4. 軟體開發/數據處理微服務/sapper 上行電文.md"
+          "path": "4. 軟體開發/數據處理微服務/sapper 上行電文.md",
+          "file_id": "f60aaf17"
         },
         {
           "name": "scout上行電文.md",
-          "path": "4. 軟體開發/數據處理微服務/scout上行電文.md"
+          "path": "4. 軟體開發/數據處理微服務/scout上行電文.md",
+          "file_id": "e09cf473"
         },
         {
           "name": "4.1a1 物件(object)與實例(instance)的差別.md",
-          "path": "4. 軟體開發/4.1 物件導向設計/4.1a1 物件(object)與實例(instance)的差別.md"
+          "path": "4. 軟體開發/4.1 物件導向設計/4.1a1 物件(object)與實例(instance)的差別.md",
+          "file_id": "c691638f"
         },
         {
           "name": "4.1a 物件、類別、方法和屬性.md",
-          "path": "4. 軟體開發/4.1 物件導向設計/4.1a 物件、類別、方法和屬性.md"
+          "path": "4. 軟體開發/4.1 物件導向設計/4.1a 物件、類別、方法和屬性.md",
+          "file_id": "2902b3ff"
         },
         {
           "name": "4.2a1 k8s的基本元件們.md",
-          "path": "4. 軟體開發/4.2 k8s/4.2a1 k8s的基本元件們.md"
+          "path": "4. 軟體開發/4.2 k8s/4.2a1 k8s的基本元件們.md",
+          "file_id": "90d58e8e"
         },
         {
           "name": "4.2a K8s 是什麼？.md",
-          "path": "4. 軟體開發/4.2 k8s/4.2a K8s 是什麼？.md"
+          "path": "4. 軟體開發/4.2 k8s/4.2a K8s 是什麼？.md",
+          "file_id": "9c276069"
         },
         {
           "name": "測試對外IP位置的方法.md",
-          "path": "4. 軟體開發/python/測試對外IP位置的方法.md"
+          "path": "4. 軟體開發/python/測試對外IP位置的方法.md",
+          "file_id": "6f42372c"
         },
         {
           "name": "GKE 部署 LLM (Kserve).md",
-          "path": "4. 軟體開發/GCP/GKE 部署 LLM (Kserve).md"
+          "path": "4. 軟體開發/GCP/GKE 部署 LLM (Kserve).md",
+          "file_id": "1403e0d0"
         },
         {
           "name": "KubeLLM.md",
-          "path": "4. 軟體開發/GCP/KubeLLM.md"
+          "path": "4. 軟體開發/GCP/KubeLLM.md",
+          "file_id": "b4e9092a"
         },
         {
           "name": "Git 工作流程.md",
-          "path": "4. 軟體開發/git/Git 工作流程.md"
+          "path": "4. 軟體開發/git/Git 工作流程.md",
+          "file_id": "04c11b52"
         },
         {
           "name": "4.1e1 戰略設計與戰術設計.md",
-          "path": "4. 軟體開發/4.1 物件導向設計/4.1e DDD/4.1e1 戰略設計與戰術設計.md"
+          "path": "4. 軟體開發/4.1 物件導向設計/4.1e DDD/4.1e1 戰略設計與戰術設計.md",
+          "file_id": "7b680686"
         },
         {
           "name": "4.1b6 DIP 依賴倒置原則.md",
-          "path": "4. 軟體開發/4.1 物件導向設計/4.1b SOLID/4.1b6 DIP 依賴倒置原則.md"
+          "path": "4. 軟體開發/4.1 物件導向設計/4.1b SOLID/4.1b6 DIP 依賴倒置原則.md",
+          "file_id": "8be0183c"
         },
         {
           "name": "4.1b1 SOLID 原則.md",
-          "path": "4. 軟體開發/4.1 物件導向設計/4.1b SOLID/4.1b1 SOLID 原則.md"
+          "path": "4. 軟體開發/4.1 物件導向設計/4.1b SOLID/4.1b1 SOLID 原則.md",
+          "file_id": "75870174"
         },
         {
           "name": "4.1b3 SRP 單一職責原則.md",
-          "path": "4. 軟體開發/4.1 物件導向設計/4.1b SOLID/4.1b3 SRP 單一職責原則.md"
+          "path": "4. 軟體開發/4.1 物件導向設計/4.1b SOLID/4.1b3 SRP 單一職責原則.md",
+          "file_id": "2298f488"
         },
         {
           "name": "4.1b4 LSP里氏替換原則.md",
-          "path": "4. 軟體開發/4.1 物件導向設計/4.1b SOLID/4.1b4 LSP里氏替換原則.md"
+          "path": "4. 軟體開發/4.1 物件導向設計/4.1b SOLID/4.1b4 LSP里氏替換原則.md",
+          "file_id": "56c350ce"
         },
         {
           "name": "4.1b5 ISP介面隔離原則.md",
-          "path": "4. 軟體開發/4.1 物件導向設計/4.1b SOLID/4.1b5 ISP介面隔離原則.md"
+          "path": "4. 軟體開發/4.1 物件導向設計/4.1b SOLID/4.1b5 ISP介面隔離原則.md",
+          "file_id": "45b751ef"
         },
         {
           "name": "4.1b2 OCP 開放封閉原則.md",
-          "path": "4. 軟體開發/4.1 物件導向設計/4.1b SOLID/4.1b2 OCP 開放封閉原則.md"
+          "path": "4. 軟體開發/4.1 物件導向設計/4.1b SOLID/4.1b2 OCP 開放封閉原則.md",
+          "file_id": "84ba7d6b"
         },
         {
           "name": "4.1d1 設計模式三大分類.md",
-          "path": "4. 軟體開發/4.1 物件導向設計/4.1d 設計模式/4.1d1 設計模式三大分類.md"
+          "path": "4. 軟體開發/4.1 物件導向設計/4.1d 設計模式/4.1d1 設計模式三大分類.md",
+          "file_id": "5c8d274e"
         },
         {
           "name": "4.1c6 CQS原則.md",
-          "path": "4. 軟體開發/4.1 物件導向設計/4.1c 設計模式原則/4.1c6 CQS原則.md"
+          "path": "4. 軟體開發/4.1 物件導向設計/4.1c 設計模式原則/4.1c6 CQS原則.md",
+          "file_id": "5500e8fc"
         },
         {
           "name": "4.1c3 DRY原則.md",
-          "path": "4. 軟體開發/4.1 物件導向設計/4.1c 設計模式原則/4.1c3 DRY原則.md"
+          "path": "4. 軟體開發/4.1 物件導向設計/4.1c 設計模式原則/4.1c3 DRY原則.md",
+          "file_id": "91362d6f"
         },
         {
           "name": "4.1c4 KISS原則.md",
-          "path": "4. 軟體開發/4.1 物件導向設計/4.1c 設計模式原則/4.1c4 KISS原則.md"
+          "path": "4. 軟體開發/4.1 物件導向設計/4.1c 設計模式原則/4.1c4 KISS原則.md",
+          "file_id": "6191cd49"
         },
         {
           "name": "4.1c7 Rule Of Three原則.md",
-          "path": "4. 軟體開發/4.1 物件導向設計/4.1c 設計模式原則/4.1c7 Rule Of Three原則.md"
+          "path": "4. 軟體開發/4.1 物件導向設計/4.1c 設計模式原則/4.1c7 Rule Of Three原則.md",
+          "file_id": "856b8e47"
         },
         {
           "name": "4.1c5 YAGNI原則.md",
-          "path": "4. 軟體開發/4.1 物件導向設計/4.1c 設計模式原則/4.1c5 YAGNI原則.md"
+          "path": "4. 軟體開發/4.1 物件導向設計/4.1c 設計模式原則/4.1c5 YAGNI原則.md",
+          "file_id": "ed25254b"
         },
         {
           "name": "4.1c2 LoD原則.md",
-          "path": "4. 軟體開發/4.1 物件導向設計/4.1c 設計模式原則/4.1c2 LoD原則.md"
+          "path": "4. 軟體開發/4.1 物件導向設計/4.1c 設計模式原則/4.1c2 LoD原則.md",
+          "file_id": "53a25e50"
         },
         {
           "name": "4.1c1 設計模式的六大原則.md",
-          "path": "4. 軟體開發/4.1 物件導向設計/4.1c 設計模式原則/4.1c1 設計模式的六大原則.md"
+          "path": "4. 軟體開發/4.1 物件導向設計/4.1c 設計模式原則/4.1c1 設計模式的六大原則.md",
+          "file_id": "914da7fa"
         },
         {
           "name": "4.1e1b2 Interface.md",
-          "path": "4. 軟體開發/4.1 物件導向設計/4.1e DDD/4.1e1b 戰術設計/4.1e1b2 Interface.md"
+          "path": "4. 軟體開發/4.1 物件導向設計/4.1e DDD/4.1e1b 戰術設計/4.1e1b2 Interface.md",
+          "file_id": "7a002f7b"
         },
         {
           "name": "4.1e1b5 Infrastructure.md",
-          "path": "4. 軟體開發/4.1 物件導向設計/4.1e DDD/4.1e1b 戰術設計/4.1e1b5 Infrastructure.md"
+          "path": "4. 軟體開發/4.1 物件導向設計/4.1e DDD/4.1e1b 戰術設計/4.1e1b5 Infrastructure.md",
+          "file_id": "e3ee6f26"
         },
         {
           "name": "4.1e1b4 Domain.md",
-          "path": "4. 軟體開發/4.1 物件導向設計/4.1e DDD/4.1e1b 戰術設計/4.1e1b4 Domain.md"
+          "path": "4. 軟體開發/4.1 物件導向設計/4.1e DDD/4.1e1b 戰術設計/4.1e1b4 Domain.md",
+          "file_id": "bfc7d23b"
         },
         {
           "name": "4.1e1b3 Application.md",
-          "path": "4. 軟體開發/4.1 物件導向設計/4.1e DDD/4.1e1b 戰術設計/4.1e1b3 Application.md"
+          "path": "4. 軟體開發/4.1 物件導向設計/4.1e DDD/4.1e1b 戰術設計/4.1e1b3 Application.md",
+          "file_id": "38db94c5"
         },
         {
           "name": "4.1e1b1 DDD四層結構介紹.md",
-          "path": "4. 軟體開發/4.1 物件導向設計/4.1e DDD/4.1e1b 戰術設計/4.1e1b1 DDD四層結構介紹.md"
+          "path": "4. 軟體開發/4.1 物件導向設計/4.1e DDD/4.1e1b 戰術設計/4.1e1b1 DDD四層結構介紹.md",
+          "file_id": "10145249"
         },
         {
           "name": "4.1e1c3 mission與job層級.md",
-          "path": "4. 軟體開發/4.1 物件導向設計/4.1e DDD/4.1e1c EDEP案例/4.1e1c3 mission與job層級.md"
+          "path": "4. 軟體開發/4.1 物件導向設計/4.1e DDD/4.1e1c EDEP案例/4.1e1c3 mission與job層級.md",
+          "file_id": "5d4a7ae3"
         },
         {
           "name": "4.1e1c5 做依賴反轉注入.md",
-          "path": "4. 軟體開發/4.1 物件導向設計/4.1e DDD/4.1e1c EDEP案例/4.1e1c5 做依賴反轉注入.md"
+          "path": "4. 軟體開發/4.1 物件導向設計/4.1e DDD/4.1e1c EDEP案例/4.1e1c5 做依賴反轉注入.md",
+          "file_id": "4735ae07"
         },
         {
           "name": "4.1e1c4 微服務內各層工作.md",
-          "path": "4. 軟體開發/4.1 物件導向設計/4.1e DDD/4.1e1c EDEP案例/4.1e1c4 微服務內各層工作.md"
+          "path": "4. 軟體開發/4.1 物件導向設計/4.1e DDD/4.1e1c EDEP案例/4.1e1c4 微服務內各層工作.md",
+          "file_id": "b91a60e6"
         },
         {
           "name": "4.1e1c EDEP介紹.md",
-          "path": "4. 軟體開發/4.1 物件導向設計/4.1e DDD/4.1e1c EDEP案例/4.1e1c EDEP介紹.md"
+          "path": "4. 軟體開發/4.1 物件導向設計/4.1e DDD/4.1e1c EDEP案例/4.1e1c EDEP介紹.md",
+          "file_id": "550e0b00"
         },
         {
           "name": "4.1e1c1 微服務架構.md",
-          "path": "4. 軟體開發/4.1 物件導向設計/4.1e DDD/4.1e1c EDEP案例/4.1e1c1 微服務架構.md"
+          "path": "4. 軟體開發/4.1 物件導向設計/4.1e DDD/4.1e1c EDEP案例/4.1e1c1 微服務架構.md",
+          "file_id": "c955d6a2"
         },
         {
           "name": "4.1d4c 單例模式.md",
-          "path": "4. 軟體開發/4.1 物件導向設計/4.1d 設計模式/4.1d4 創建式模式/4.1d4c 單例模式.md"
+          "path": "4. 軟體開發/4.1 物件導向設計/4.1d 設計模式/4.1d4 創建式模式/4.1d4c 單例模式.md",
+          "file_id": "47331de6"
         },
         {
           "name": "4.1d4a 工廠模式.md",
-          "path": "4. 軟體開發/4.1 物件導向設計/4.1d 設計模式/4.1d4 創建式模式/4.1d4a 工廠模式.md"
+          "path": "4. 軟體開發/4.1 物件導向設計/4.1d 設計模式/4.1d4 創建式模式/4.1d4a 工廠模式.md",
+          "file_id": "cdbc5bce"
         },
         {
           "name": "4.1d4b 虛擬工廠模式.md",
-          "path": "4. 軟體開發/4.1 物件導向設計/4.1d 設計模式/4.1d4 創建式模式/4.1d4b 虛擬工廠模式.md"
+          "path": "4. 軟體開發/4.1 物件導向設計/4.1d 設計模式/4.1d4 創建式模式/4.1d4b 虛擬工廠模式.md",
+          "file_id": "5e2827ea"
         },
         {
           "name": "4.1d3c 代理模式.md",
-          "path": "4. 軟體開發/4.1 物件導向設計/4.1d 設計模式/4.1d3 結構型模式/4.1d3c 代理模式.md"
+          "path": "4. 軟體開發/4.1 物件導向設計/4.1d 設計模式/4.1d3 結構型模式/4.1d3c 代理模式.md",
+          "file_id": "44a43cac"
         },
         {
           "name": "4.1d3d 裝飾模式.md",
-          "path": "4. 軟體開發/4.1 物件導向設計/4.1d 設計模式/4.1d3 結構型模式/4.1d3d 裝飾模式.md"
+          "path": "4. 軟體開發/4.1 物件導向設計/4.1d 設計模式/4.1d3 結構型模式/4.1d3d 裝飾模式.md",
+          "file_id": "b88bcca5"
         },
         {
           "name": "4.1d3a 適配器模式.md",
-          "path": "4. 軟體開發/4.1 物件導向設計/4.1d 設計模式/4.1d3 結構型模式/4.1d3a 適配器模式.md"
+          "path": "4. 軟體開發/4.1 物件導向設計/4.1d 設計模式/4.1d3 結構型模式/4.1d3a 適配器模式.md",
+          "file_id": "4c83f030"
         },
         {
           "name": "4.1d3b 組合模式.md",
-          "path": "4. 軟體開發/4.1 物件導向設計/4.1d 設計模式/4.1d3 結構型模式/4.1d3b 組合模式.md"
+          "path": "4. 軟體開發/4.1 物件導向設計/4.1d 設計模式/4.1d3 結構型模式/4.1d3b 組合模式.md",
+          "file_id": "0ee062d9"
         },
         {
           "name": "4.1d2b 策略模式.md",
-          "path": "4. 軟體開發/4.1 物件導向設計/4.1d 設計模式/4.1d2 行為型模式/4.1d2b 策略模式.md"
+          "path": "4. 軟體開發/4.1 物件導向設計/4.1d 設計模式/4.1d2 行為型模式/4.1d2b 策略模式.md",
+          "file_id": "cae8de29"
         },
         {
           "name": "4.1d2b1 策略模式跟工廠模式很像？.md",
-          "path": "4. 軟體開發/4.1 物件導向設計/4.1d 設計模式/4.1d2 行為型模式/4.1d2b1 策略模式跟工廠模式很像？.md"
+          "path": "4. 軟體開發/4.1 物件導向設計/4.1d 設計模式/4.1d2 行為型模式/4.1d2b1 策略模式跟工廠模式很像？.md",
+          "file_id": "6ada558d"
         },
         {
           "name": "4.1d2a 職責鏈模式.md",
-          "path": "4. 軟體開發/4.1 物件導向設計/4.1d 設計模式/4.1d2 行為型模式/4.1d2a 職責鏈模式.md"
+          "path": "4. 軟體開發/4.1 物件導向設計/4.1d 設計模式/4.1d2 行為型模式/4.1d2a 職責鏈模式.md",
+          "file_id": "9dcafbb0"
         },
         {
           "name": "4.1d2c 觀察者模式.md",
-          "path": "4. 軟體開發/4.1 物件導向設計/4.1d 設計模式/4.1d2 行為型模式/4.1d2c 觀察者模式.md"
+          "path": "4. 軟體開發/4.1 物件導向設計/4.1d 設計模式/4.1d2 行為型模式/4.1d2c 觀察者模式.md",
+          "file_id": "b7c52f5b"
         },
         {
           "name": "4.2h5 Ingress Service for Service.md",
-          "path": "4. 軟體開發/4.2 k8s/4.2h Network/4.2h5 Ingress Service for Service.md"
+          "path": "4. 軟體開發/4.2 k8s/4.2h Network/4.2h5 Ingress Service for Service.md",
+          "file_id": "b1ad94e4"
         },
         {
           "name": "4.2h1 Service的用途.md",
-          "path": "4. 軟體開發/4.2 k8s/4.2h Network/4.2h1 Service的用途.md"
+          "path": "4. 軟體開發/4.2 k8s/4.2h Network/4.2h1 Service的用途.md",
+          "file_id": "a36d51fe"
         },
         {
           "name": "4.2h2 Service ClusterIP（預設類型）.md",
-          "path": "4. 軟體開發/4.2 k8s/4.2h Network/4.2h2 Service ClusterIP（預設類型）.md"
+          "path": "4. 軟體開發/4.2 k8s/4.2h Network/4.2h2 Service ClusterIP（預設類型）.md",
+          "file_id": "fe890581"
         },
         {
           "name": "4.2h4 Service LoadBalancer.md",
-          "path": "4. 軟體開發/4.2 k8s/4.2h Network/4.2h4 Service LoadBalancer.md"
+          "path": "4. 軟體開發/4.2 k8s/4.2h Network/4.2h4 Service LoadBalancer.md",
+          "file_id": "480a0c16"
         },
         {
           "name": "4.2h3 Service NodePort.md",
-          "path": "4. 軟體開發/4.2 k8s/4.2h Network/4.2h3 Service NodePort.md"
+          "path": "4. 軟體開發/4.2 k8s/4.2h Network/4.2h3 Service NodePort.md",
+          "file_id": "df0e705c"
         },
         {
           "name": "4.2g1 nodeSelector 根據Lable來調度.md",
-          "path": "4. 軟體開發/4.2 k8s/4.2g Pod 調度/4.2g1 nodeSelector 根據Lable來調度.md"
+          "path": "4. 軟體開發/4.2 k8s/4.2g Pod 調度/4.2g1 nodeSelector 根據Lable來調度.md",
+          "file_id": "993fd226"
         },
         {
           "name": "4.2g3 Taints.md",
-          "path": "4. 軟體開發/4.2 k8s/4.2g Pod 調度/4.2g3 Taints.md"
+          "path": "4. 軟體開發/4.2 k8s/4.2g Pod 調度/4.2g3 Taints.md",
+          "file_id": "f6f6c67a"
         },
         {
           "name": "4.2g2 Affinity Rules.md",
-          "path": "4. 軟體開發/4.2 k8s/4.2g Pod 調度/4.2g2 Affinity Rules.md"
+          "path": "4. 軟體開發/4.2 k8s/4.2g Pod 調度/4.2g2 Affinity Rules.md",
+          "file_id": "3b25aa09"
         },
         {
           "name": "4.2g4 Tolerations.md",
-          "path": "4. 軟體開發/4.2 k8s/4.2g Pod 調度/4.2g4 Tolerations.md"
+          "path": "4. 軟體開發/4.2 k8s/4.2g Pod 調度/4.2g4 Tolerations.md",
+          "file_id": "6a8a9227"
         },
         {
           "name": "4.2d1 NodePool.md",
-          "path": "4. 軟體開發/4.2 k8s/4.2d Node/4.2d1 NodePool.md"
+          "path": "4. 軟體開發/4.2 k8s/4.2d Node/4.2d1 NodePool.md",
+          "file_id": "45e0c072"
         },
         {
           "name": "4.2f2 Deployment 士官長.md",
-          "path": "4. 軟體開發/4.2 k8s/4.2f Controller/4.2f2 Deployment 士官長.md"
+          "path": "4. 軟體開發/4.2 k8s/4.2f Controller/4.2f2 Deployment 士官長.md",
+          "file_id": "ddbce77d"
         },
         {
           "name": "4.2f1 常見的Controller.md",
-          "path": "4. 軟體開發/4.2 k8s/4.2f Controller/4.2f1 常見的Controller.md"
+          "path": "4. 軟體開發/4.2 k8s/4.2f Controller/4.2f1 常見的Controller.md",
+          "file_id": "75a279c0"
         },
         {
           "name": "4.2f9 Controller Manager.md",
-          "path": "4. 軟體開發/4.2 k8s/4.2f Controller/4.2f9 Controller Manager.md"
+          "path": "4. 軟體開發/4.2 k8s/4.2f Controller/4.2f9 Controller Manager.md",
+          "file_id": "17a1c44f"
         },
         {
           "name": "4.2f2a Deployment Max_surage 和 MaxUnavaliable是什麼？.md",
-          "path": "4. 軟體開發/4.2 k8s/4.2f Controller/4.2f2a Deployment Max_surage 和 MaxUnavaliable是什麼？.md"
+          "path": "4. 軟體開發/4.2 k8s/4.2f Controller/4.2f2a Deployment Max_surage 和 MaxUnavaliable是什麼？.md",
+          "file_id": "f97c682e"
         },
         {
           "name": "4.2f8a 擴展 Pod 還是 Node？.md",
-          "path": "4. 軟體開發/4.2 k8s/4.2f Controller/4.2f8a 擴展 Pod 還是 Node？.md"
+          "path": "4. 軟體開發/4.2 k8s/4.2f Controller/4.2f8a 擴展 Pod 還是 Node？.md",
+          "file_id": "d5458641"
         },
         {
           "name": "4.2f6 DaemonSet.md",
-          "path": "4. 軟體開發/4.2 k8s/4.2f Controller/4.2f6 DaemonSet.md"
+          "path": "4. 軟體開發/4.2 k8s/4.2f Controller/4.2f6 DaemonSet.md",
+          "file_id": "0a2073b1"
         },
         {
           "name": "4.2f7 HPA（Horizontal Pod Autoscaler）.md",
-          "path": "4. 軟體開發/4.2 k8s/4.2f Controller/4.2f7 HPA（Horizontal Pod Autoscaler）.md"
+          "path": "4. 軟體開發/4.2 k8s/4.2f Controller/4.2f7 HPA（Horizontal Pod Autoscaler）.md",
+          "file_id": "ede8d5be"
         },
         {
           "name": "4.2f4 StatefulSet.md",
-          "path": "4. 軟體開發/4.2 k8s/4.2f Controller/4.2f4 StatefulSet.md"
+          "path": "4. 軟體開發/4.2 k8s/4.2f Controller/4.2f4 StatefulSet.md",
+          "file_id": "91631e14"
         },
         {
           "name": "4.2f8 Cluster Autoscaler.md",
-          "path": "4. 軟體開發/4.2 k8s/4.2f Controller/4.2f8 Cluster Autoscaler.md"
+          "path": "4. 軟體開發/4.2 k8s/4.2f Controller/4.2f8 Cluster Autoscaler.md",
+          "file_id": "49cc011f"
         },
         {
           "name": "4.2f5 Job and CronJob.md",
-          "path": "4. 軟體開發/4.2 k8s/4.2f Controller/4.2f5 Job and CronJob.md"
+          "path": "4. 軟體開發/4.2 k8s/4.2f Controller/4.2f5 Job and CronJob.md",
+          "file_id": "101bf3e1"
         },
         {
           "name": "4.2f3 ReplicaSet(士官).md",
-          "path": "4. 軟體開發/4.2 k8s/4.2f Controller/4.2f3 ReplicaSet(士官).md"
+          "path": "4. 軟體開發/4.2 k8s/4.2f Controller/4.2f3 ReplicaSet(士官).md",
+          "file_id": "a03df219"
         }
       ]
     },
@@ -546,71 +673,88 @@
       "files": [
         {
           "name": "5.6 集體無意識.md",
-          "path": "5. 科普新知/5.6 集體無意識.md"
+          "path": "5. 科普新知/5.6 集體無意識.md",
+          "file_id": "65134182"
         },
         {
           "name": "5.7 DOSE 效應.md",
-          "path": "5. 科普新知/5.7 DOSE 效應.md"
+          "path": "5. 科普新知/5.7 DOSE 效應.md",
+          "file_id": "139e2a74"
         },
         {
           "name": "5.7d 內啡肽 Endorphin.md",
-          "path": "5. 科普新知/5.7d 內啡肽 Endorphin.md"
+          "path": "5. 科普新知/5.7d 內啡肽 Endorphin.md",
+          "file_id": "2ffac95b"
         },
         {
           "name": "5.7c 血清素 Serotonin.md",
-          "path": "5. 科普新知/5.7c 血清素 Serotonin.md"
+          "path": "5. 科普新知/5.7c 血清素 Serotonin.md",
+          "file_id": "9a44e0b7"
         },
         {
           "name": "5.7a 多巴胺 Dopamine.md",
-          "path": "5. 科普新知/5.7a 多巴胺 Dopamine.md"
+          "path": "5. 科普新知/5.7a 多巴胺 Dopamine.md",
+          "file_id": "a750ca40"
         },
         {
           "name": "5.2 未開發國家，已開發國家.md",
-          "path": "5. 科普新知/5.2 未開發國家，已開發國家.md"
+          "path": "5. 科普新知/5.2 未開發國家，已開發國家.md",
+          "file_id": "d64d2fef"
         },
         {
           "name": "5.1 黃金(重元素)的由來.md",
-          "path": "5. 科普新知/5.1 黃金(重元素)的由來.md"
+          "path": "5. 科普新知/5.1 黃金(重元素)的由來.md",
+          "file_id": "66af5fcf"
         },
         {
           "name": "5.7b 催產素 Oxytocin.md",
-          "path": "5. 科普新知/5.7b 催產素 Oxytocin.md"
+          "path": "5. 科普新知/5.7b 催產素 Oxytocin.md",
+          "file_id": "5dfe238e"
         },
         {
           "name": "5.4 黑暗人格與光明人格，以及該如何應對.md",
-          "path": "5. 科普新知/5.4 黑暗人格與光明人格，以及該如何應對.md"
+          "path": "5. 科普新知/5.4 黑暗人格與光明人格，以及該如何應對.md",
+          "file_id": "f3436bb5"
         },
         {
           "name": "5.3b 計算不可約性.md",
-          "path": "5. 科普新知/5.3 基於計算的世界觀/5.3b 計算不可約性.md"
+          "path": "5. 科普新知/5.3 基於計算的世界觀/5.3b 計算不可約性.md",
+          "file_id": "735117f8"
         },
         {
           "name": "5.3d 可約化的口袋.md",
-          "path": "5. 科普新知/5.3 基於計算的世界觀/5.3d 可約化的口袋.md"
+          "path": "5. 科普新知/5.3 基於計算的世界觀/5.3d 可約化的口袋.md",
+          "file_id": "1ade6aba"
         },
         {
           "name": "5.3c 自然湧現.md",
-          "path": "5. 科普新知/5.3 基於計算的世界觀/5.3c 自然湧現.md"
+          "path": "5. 科普新知/5.3 基於計算的世界觀/5.3c 自然湧現.md",
+          "file_id": "38ee5730"
         },
         {
           "name": "5.3a 世界的本質是計算.md",
-          "path": "5. 科普新知/5.3 基於計算的世界觀/5.3a 世界的本質是計算.md"
+          "path": "5. 科普新知/5.3 基於計算的世界觀/5.3a 世界的本質是計算.md",
+          "file_id": "5c1d270b"
         },
         {
           "name": "5.3f 科學探索與人類使命.md",
-          "path": "5. 科普新知/5.3 基於計算的世界觀/5.3f 科學探索與人類使命.md"
+          "path": "5. 科普新知/5.3 基於計算的世界觀/5.3f 科學探索與人類使命.md",
+          "file_id": "e7980dde"
         },
         {
           "name": "5.3e 物理法則的計算基礎.md",
-          "path": "5. 科普新知/5.3 基於計算的世界觀/5.3e 物理法則的計算基礎.md"
+          "path": "5. 科普新知/5.3 基於計算的世界觀/5.3e 物理法則的計算基礎.md",
+          "file_id": "f439fbce"
         },
         {
           "name": "5.3e 意識與知識的計算視角.md",
-          "path": "5. 科普新知/5.3 基於計算的世界觀/5.3e 意識與知識的計算視角.md"
+          "path": "5. 科普新知/5.3 基於計算的世界觀/5.3e 意識與知識的計算視角.md",
+          "file_id": "abcad5d4"
         },
         {
           "name": "5.3g 總結來說....md",
-          "path": "5. 科普新知/5.3 基於計算的世界觀/5.3g 總結來說....md"
+          "path": "5. 科普新知/5.3 基於計算的世界觀/5.3g 總結來說....md",
+          "file_id": "860fa0d3"
         }
       ]
     },
@@ -620,87 +764,108 @@
       "files": [
         {
           "name": "6.3 快樂要間隔，痛苦要集中.md",
-          "path": "6. 意識與大腦/6.3 快樂要間隔，痛苦要集中.md"
+          "path": "6. 意識與大腦/6.3 快樂要間隔，痛苦要集中.md",
+          "file_id": "a8519a33"
         },
         {
           "name": "6.7 讓.皮亞傑-認知發展理論.md",
-          "path": "6. 意識與大腦/6.7 讓.皮亞傑-認知發展理論.md"
+          "path": "6. 意識與大腦/6.7 讓.皮亞傑-認知發展理論.md",
+          "file_id": "0c1bf03d"
         },
         {
           "name": "6.1 情緒 是你身體的直覺。.md",
-          "path": "6. 意識與大腦/6.1 情緒 是你身體的直覺。.md"
+          "path": "6. 意識與大腦/6.1 情緒 是你身體的直覺。.md",
+          "file_id": "6911435c"
         },
         {
           "name": "6.5 青少年大腦 - 神經生物學無能模型.md",
-          "path": "6. 意識與大腦/6.5 青少年大腦 - 神經生物學無能模型.md"
+          "path": "6. 意識與大腦/6.5 青少年大腦 - 神經生物學無能模型.md",
+          "file_id": "bd78072f"
         },
         {
           "name": "6.9a Frame 的定義.md",
-          "path": "6. 意識與大腦/6.9a Frame 的定義.md"
+          "path": "6. 意識與大腦/6.9a Frame 的定義.md",
+          "file_id": "505bc670"
         },
         {
           "name": "6.4 命名可以幫助模式識別.md",
-          "path": "6. 意識與大腦/6.4 命名可以幫助模式識別.md"
+          "path": "6. 意識與大腦/6.4 命名可以幫助模式識別.md",
+          "file_id": "76f56c84"
         },
         {
           "name": "6.8a1 AI能夠有主體客體嗎？.md",
-          "path": "6. 意識與大腦/6.8a1 AI能夠有主體客體嗎？.md"
+          "path": "6. 意識與大腦/6.8a1 AI能夠有主體客體嗎？.md",
+          "file_id": "ed609a70"
         },
         {
           "name": "6.6b 達馬西奧的心智四層次.md",
-          "path": "6. 意識與大腦/6.6b 達馬西奧的心智四層次.md"
+          "path": "6. 意識與大腦/6.6b 達馬西奧的心智四層次.md",
+          "file_id": "588c35ab"
         },
         {
           "name": "6.5b1 如何避免導師困境？智者的回饋.md",
-          "path": "6. 意識與大腦/6.5b1 如何避免導師困境？智者的回饋.md"
+          "path": "6. 意識與大腦/6.5b1 如何避免導師困境？智者的回饋.md",
+          "file_id": "e9377667"
         },
         {
           "name": "6.6c AI有意識嗎？或者能夠有意識嗎？.md",
-          "path": "6. 意識與大腦/6.6c AI有意識嗎？或者能夠有意識嗎？.md"
+          "path": "6. 意識與大腦/6.6c AI有意識嗎？或者能夠有意識嗎？.md",
+          "file_id": "6aeb3558"
         },
         {
           "name": "6.8a 主體客體轉化.md",
-          "path": "6. 意識與大腦/6.8a 主體客體轉化.md"
+          "path": "6. 意識與大腦/6.8a 主體客體轉化.md",
+          "file_id": "1c45c2d3"
         },
         {
           "name": "6.5a 反駁無能假說 - 尊重與地位假說.md",
-          "path": "6. 意識與大腦/6.5a 反駁無能假說 - 尊重與地位假說.md"
+          "path": "6. 意識與大腦/6.5a 反駁無能假說 - 尊重與地位假說.md",
+          "file_id": "b64468c2"
         },
         {
           "name": "6.6c2 放下我執，不是沒有我執。石頭不是佛陀.md",
-          "path": "6. 意識與大腦/6.6c2 放下我執，不是沒有我執。石頭不是佛陀.md"
+          "path": "6. 意識與大腦/6.6c2 放下我執，不是沒有我執。石頭不是佛陀.md",
+          "file_id": "4c837a8c"
         },
         {
           "name": "6.6 意識的定義.md",
-          "path": "6. 意識與大腦/6.6 意識的定義.md"
+          "path": "6. 意識與大腦/6.6 意識的定義.md",
+          "file_id": "bf239bfc"
         },
         {
           "name": "6.6a 佛教對於意識(我)的解釋 八識.md",
-          "path": "6. 意識與大腦/6.6a 佛教對於意識(我)的解釋 八識.md"
+          "path": "6. 意識與大腦/6.6a 佛教對於意識(我)的解釋 八識.md",
+          "file_id": "10c6f6b7"
         },
         {
           "name": "6.9 反對者比支持者更痛苦.md",
-          "path": "6. 意識與大腦/6.9 反對者比支持者更痛苦.md"
+          "path": "6. 意識與大腦/6.9 反對者比支持者更痛苦.md",
+          "file_id": "2d9804ee"
         },
         {
           "name": "6.5b 如何激勵青少年？ 導師心態.md",
-          "path": "6. 意識與大腦/6.5b 如何激勵青少年？ 導師心態.md"
+          "path": "6. 意識與大腦/6.5b 如何激勵青少年？ 導師心態.md",
+          "file_id": "88535410"
         },
         {
           "name": "6.2 內感力越強，直覺就越強.md",
-          "path": "6. 意識與大腦/6.2 內感力越強，直覺就越強.md"
+          "path": "6. 意識與大腦/6.2 內感力越強，直覺就越強.md",
+          "file_id": "30bd8a81"
         },
         {
           "name": "6.5b2 導師心態與XY理論.md",
-          "path": "6. 意識與大腦/6.5b2 導師心態與XY理論.md"
+          "path": "6. 意識與大腦/6.5b2 導師心態與XY理論.md",
+          "file_id": "33770481"
         },
         {
           "name": "6.8 羅伯特・凱根的心智成長五階段.md",
-          "path": "6. 意識與大腦/6.8 羅伯特・凱根的心智成長五階段.md"
+          "path": "6. 意識與大腦/6.8 羅伯特・凱根的心智成長五階段.md",
+          "file_id": "933e0ef9"
         },
         {
           "name": "6.6c1 為什麼意識一定要涉及身體？.md",
-          "path": "6. 意識與大腦/6.6c1 為什麼意識一定要涉及身體？.md"
+          "path": "6. 意識與大腦/6.6c1 為什麼意識一定要涉及身體？.md",
+          "file_id": "895c418c"
         }
       ]
     },
@@ -710,51 +875,63 @@
       "files": [
         {
           "name": "創作 = 判斷 + 決策.md",
-          "path": "7. 決策科學/創作 = 判斷 + 決策.md"
+          "path": "7. 決策科學/創作 = 判斷 + 決策.md",
+          "file_id": "0a5277ff"
         },
         {
           "name": "7.2 Berkson's paradox 柏克森悖論.md",
-          "path": "7. 決策科學/7.2 Berkson's paradox 柏克森悖論.md"
+          "path": "7. 決策科學/7.2 Berkson's paradox 柏克森悖論.md",
+          "file_id": "9a908f28"
         },
         {
           "name": "先做預測型判斷，再做價值型判斷.md",
-          "path": "7. 決策科學/7.1 雜訊/先做預測型判斷，再做價值型判斷.md"
+          "path": "7. 決策科學/7.1 雜訊/先做預測型判斷，再做價值型判斷.md",
+          "file_id": "9f4130c7"
         },
         {
           "name": "AI可以負責做預測型判斷.md",
-          "path": "7. 決策科學/7.1 雜訊/AI可以負責做預測型判斷.md"
+          "path": "7. 決策科學/7.1 雜訊/AI可以負責做預測型判斷.md",
+          "file_id": "b55b5684"
         },
         {
           "name": "7.1c 在充滿雜訊的系統中，錯誤不會互相抵銷只會相加.md",
-          "path": "7. 決策科學/7.1 雜訊/7.1c 在充滿雜訊的系統中，錯誤不會互相抵銷只會相加.md"
+          "path": "7. 決策科學/7.1 雜訊/7.1c 在充滿雜訊的系統中，錯誤不會互相抵銷只會相加.md",
+          "file_id": "dbad55cc"
         },
         {
           "name": "去除雜訊可以幫助你凸顯偏差.md",
-          "path": "7. 決策科學/7.1 雜訊/去除雜訊可以幫助你凸顯偏差.md"
+          "path": "7. 決策科學/7.1 雜訊/去除雜訊可以幫助你凸顯偏差.md",
+          "file_id": "03bab579"
         },
         {
           "name": "7.1a 人類判斷的兩種錯誤，偏誤與雜訊.md",
-          "path": "7. 決策科學/7.1 雜訊/7.1a 人類判斷的兩種錯誤，偏誤與雜訊.md"
+          "path": "7. 決策科學/7.1 雜訊/7.1a 人類判斷的兩種錯誤，偏誤與雜訊.md",
+          "file_id": "f6004f52"
         },
         {
           "name": "哪怕只是單純去除雜訊，也比有雜訊又有偏差好.md",
-          "path": "7. 決策科學/7.1 雜訊/哪怕只是單純去除雜訊，也比有雜訊又有偏差好.md"
+          "path": "7. 決策科學/7.1 雜訊/哪怕只是單純去除雜訊，也比有雜訊又有偏差好.md",
+          "file_id": "4b38c96a"
         },
         {
           "name": "7.1 規則 + 直覺 = 決策流程.md",
-          "path": "7. 決策科學/7.1 雜訊/7.1 規則 + 直覺 = 決策流程.md"
+          "path": "7. 決策科學/7.1 雜訊/7.1 規則 + 直覺 = 決策流程.md",
+          "file_id": "5ac6c9da"
         },
         {
           "name": "如果你打算影響判斷，你該關注 穩定型態雜訊.md",
-          "path": "7. 決策科學/7.1 雜訊/如果你打算影響判斷，你該關注 穩定型態雜訊.md"
+          "path": "7. 決策科學/7.1 雜訊/如果你打算影響判斷，你該關注 穩定型態雜訊.md",
+          "file_id": "63a513f3"
         },
         {
           "name": "7.1b 在你不希望看到變異的地方，發現變異，就是雜訊。不必要的變異 vs 有利的多樣性.md",
-          "path": "7. 決策科學/7.1 雜訊/7.1b 在你不希望看到變異的地方，發現變異，就是雜訊。不必要的變異 vs 有利的多樣性.md"
+          "path": "7. 決策科學/7.1 雜訊/7.1b 在你不希望看到變異的地方，發現變異，就是雜訊。不必要的變異 vs 有利的多樣性.md",
+          "file_id": "0e7b0cc1"
         },
         {
           "name": "定義什麼是判斷.md",
-          "path": "7. 決策科學/7.1 雜訊/定義什麼是判斷.md"
+          "path": "7. 決策科學/7.1 雜訊/定義什麼是判斷.md",
+          "file_id": "fe8bfae9"
         }
       ]
     },
@@ -764,219 +941,273 @@
       "files": [
         {
           "name": "8.4 在notebook環境中安裝ollama.md",
-          "path": "8. 人工智能/8.4 在notebook環境中安裝ollama.md"
+          "path": "8. 人工智能/8.4 在notebook環境中安裝ollama.md",
+          "file_id": "c82b881d"
         },
         {
           "name": "8.5 建立有效的反饋機制.md",
-          "path": "8. 人工智能/8.5 建立有效的反饋機制.md"
+          "path": "8. 人工智能/8.5 建立有效的反饋機制.md",
+          "file_id": "fec65b5f"
         },
         {
           "name": "8.3 身為一個工程師，沒有考慮成本的 AI Agent 架構是沒有意義的。.md",
-          "path": "8. 人工智能/8.3 身為一個工程師，沒有考慮成本的 AI Agent 架構是沒有意義的。.md"
+          "path": "8. 人工智能/8.3 身為一個工程師，沒有考慮成本的 AI Agent 架構是沒有意義的。.md",
+          "file_id": "af94c2fc"
         },
         {
           "name": "8.7 Speculative Decoding LLM加速服務.md",
-          "path": "8. 人工智能/8.7 Speculative Decoding LLM加速服務.md"
+          "path": "8. 人工智能/8.7 Speculative Decoding LLM加速服務.md",
+          "file_id": "1c0b0b84"
         },
         {
           "name": "8.9a LIME and SHAP.md",
-          "path": "8. 人工智能/8.9 XAI/8.9a LIME and SHAP.md"
+          "path": "8. 人工智能/8.9 XAI/8.9a LIME and SHAP.md",
+          "file_id": "2362fbd6"
         },
         {
           "name": "8.1b3 Vector Database.md",
-          "path": "8. 人工智能/8.1 AI服務的組件/8.1b3 Vector Database.md"
+          "path": "8. 人工智能/8.1 AI服務的組件/8.1b3 Vector Database.md",
+          "file_id": "933ae6a9"
         },
         {
           "name": "8.1h AI Pipeline Orchestration.md",
-          "path": "8. 人工智能/8.1 AI服務的組件/8.1h AI Pipeline Orchestration.md"
+          "path": "8. 人工智能/8.1 AI服務的組件/8.1h AI Pipeline Orchestration.md",
+          "file_id": "05645644"
         },
         {
           "name": "8.1a 一個優秀的AI平台（可能）要有的組件.md",
-          "path": "8. 人工智能/8.1 AI服務的組件/8.1a 一個優秀的AI平台（可能）要有的組件.md"
+          "path": "8. 人工智能/8.1 AI服務的組件/8.1a 一個優秀的AI平台（可能）要有的組件.md",
+          "file_id": "9945efc3"
         },
         {
           "name": "8.1b Enhance Context 增強上下文.md",
-          "path": "8. 人工智能/8.1 AI服務的組件/8.1b Enhance Context 增強上下文.md"
+          "path": "8. 人工智能/8.1 AI服務的組件/8.1b Enhance Context 增強上下文.md",
+          "file_id": "1a146f9b"
         },
         {
           "name": "8.1f Logic and Actions 複雜邏輯操作.md",
-          "path": "8. 人工智能/8.1 AI服務的組件/8.1f Logic and Actions 複雜邏輯操作.md"
+          "path": "8. 人工智能/8.1 AI服務的組件/8.1f Logic and Actions 複雜邏輯操作.md",
+          "file_id": "149605d4"
         },
         {
           "name": "8.1c Guardrails 護欄.md",
-          "path": "8. 人工智能/8.1 AI服務的組件/8.1c Guardrails 護欄.md"
+          "path": "8. 人工智能/8.1 AI服務的組件/8.1c Guardrails 護欄.md",
+          "file_id": "50d0caed"
         },
         {
           "name": "8.1d Router and Gateway 路由和閘道.md",
-          "path": "8. 人工智能/8.1 AI服務的組件/8.1d Router and Gateway 路由和閘道.md"
+          "path": "8. 人工智能/8.1 AI服務的組件/8.1d Router and Gateway 路由和閘道.md",
+          "file_id": "f1ab1b3b"
         },
         {
           "name": "8.1g Observability 可觀測性.md",
-          "path": "8. 人工智能/8.1 AI服務的組件/8.1g Observability 可觀測性.md"
+          "path": "8. 人工智能/8.1 AI服務的組件/8.1g Observability 可觀測性.md",
+          "file_id": "679d9278"
         },
         {
           "name": "8.1b2 Embedding Model.md",
-          "path": "8. 人工智能/8.1 AI服務的組件/8.1b2 Embedding Model.md"
+          "path": "8. 人工智能/8.1 AI服務的組件/8.1b2 Embedding Model.md",
+          "file_id": "c57d1e61"
         },
         {
           "name": "8.1e Cache 緩存.md",
-          "path": "8. 人工智能/8.1 AI服務的組件/8.1e Cache 緩存.md"
+          "path": "8. 人工智能/8.1 AI服務的組件/8.1e Cache 緩存.md",
+          "file_id": "9827e66f"
         },
         {
           "name": "8.1b1 Chunker.md",
-          "path": "8. 人工智能/8.1 AI服務的組件/8.1b1 Chunker.md"
+          "path": "8. 人工智能/8.1 AI服務的組件/8.1b1 Chunker.md",
+          "file_id": "e5f353b8"
         },
         {
           "name": "8.4b LangGraph 基本組件.md",
-          "path": "8. 人工智能/8.4 Agentic System/8.4b LangGraph 基本組件.md"
+          "path": "8. 人工智能/8.4 Agentic System/8.4b LangGraph 基本組件.md",
+          "file_id": "7da3a10f"
         },
         {
           "name": "8.4c1 非同步的Tool Calling.md",
-          "path": "8. 人工智能/8.4 Agentic System/8.4c1 非同步的Tool Calling.md"
+          "path": "8. 人工智能/8.4 Agentic System/8.4c1 非同步的Tool Calling.md",
+          "file_id": "deb40fba"
         },
         {
           "name": "8.4c Tool Calling.md",
-          "path": "8. 人工智能/8.4 Agentic System/8.4c Tool Calling.md"
+          "path": "8. 人工智能/8.4 Agentic System/8.4c Tool Calling.md",
+          "file_id": "6a6d1532"
         },
         {
           "name": "8.4a ReAct 架構 反應與行為.md",
-          "path": "8. 人工智能/8.4 Agentic System/8.4a ReAct 架構 反應與行為.md"
+          "path": "8. 人工智能/8.4 Agentic System/8.4a ReAct 架構 反應與行為.md",
+          "file_id": "8d300cb4"
         },
         {
           "name": "8.4b1 DAG 和 AG.md",
-          "path": "8. 人工智能/8.4 Agentic System/8.4b1 DAG 和 AG.md"
+          "path": "8. 人工智能/8.4 Agentic System/8.4b1 DAG 和 AG.md",
+          "file_id": "4f1680f1"
         },
         {
           "name": "8.2a1h Context Utilization 上下文利用率.md",
-          "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1h Context Utilization 上下文利用率.md"
+          "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1h Context Utilization 上下文利用率.md",
+          "file_id": "bd708a25"
         },
         {
           "name": "8.2a1j Context Precision with LLM with Reference 上下文精確性.md",
-          "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1j Context Precision with LLM with Reference 上下文精確性.md"
+          "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1j Context Precision with LLM with Reference 上下文精確性.md",
+          "file_id": "0f74e0c4"
         },
         {
           "name": "8.2a1 優化指標索引.md",
-          "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1 優化指標索引.md"
+          "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1 優化指標索引.md",
+          "file_id": "58e1c604"
         },
         {
           "name": "8.2a1o Response Validity 回應有效性.md",
-          "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1o Response Validity 回應有效性.md"
+          "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1o Response Validity 回應有效性.md",
+          "file_id": "928ebe9c"
         },
         {
           "name": "8.2a1p Hallucination 幻覺分數.md",
-          "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1p Hallucination 幻覺分數.md"
+          "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1p Hallucination 幻覺分數.md",
+          "file_id": "eef1e138"
         },
         {
           "name": "8.2a1o FaithfulnessMetric 忠實性分數.md",
-          "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1o FaithfulnessMetric 忠實性分數.md"
+          "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1o FaithfulnessMetric 忠實性分數.md",
+          "file_id": "f9ff569c"
         },
         {
           "name": "8.2a1p Response Conciseness 回應簡潔性.md",
-          "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1p Response Conciseness 回應簡潔性.md"
+          "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1p Response Conciseness 回應簡潔性.md",
+          "file_id": "d51cc303"
         },
         {
           "name": "8.2a1j Contextual Precision 上下文精確度.md",
-          "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1j Contextual Precision 上下文精確度.md"
+          "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1j Contextual Precision 上下文精確度.md",
+          "file_id": "cc594c43"
         },
         {
           "name": "8.2a 評估驅動設計.md",
-          "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a 評估驅動設計.md"
+          "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a 評估驅動設計.md",
+          "file_id": "2a6bc738"
         },
         {
           "name": "8.2a1k Response Relevance 回應相關性.md",
-          "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1k Response Relevance 回應相關性.md"
+          "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1k Response Relevance 回應相關性.md",
+          "file_id": "b9f636a3"
         },
         {
           "name": "8.2a1j Context Precision with LLM without Reference 上下文精確性.md",
-          "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1j Context Precision with LLM without Reference 上下文精確性.md"
+          "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1j Context Precision with LLM without Reference 上下文精確性.md",
+          "file_id": "8f5d5e9d"
         },
         {
           "name": "8.10b C2S 一種細胞RNA的有損壓縮.md",
-          "path": "8. 人工智能/8.10 醫療AI/8.10b C2S 一種細胞RNA的有損壓縮.md"
+          "path": "8. 人工智能/8.10 醫療AI/8.10b C2S 一種細胞RNA的有損壓縮.md",
+          "file_id": "91a4e7bb"
         },
         {
           "name": "8.10c C2S-Scale 用了哪些資料集.md",
-          "path": "8. 人工智能/8.10 醫療AI/8.10c C2S-Scale 用了哪些資料集.md"
+          "path": "8. 人工智能/8.10 醫療AI/8.10c C2S-Scale 用了哪些資料集.md",
+          "file_id": "61bfedbb"
         },
         {
           "name": "8.10a 如何讓LLM學會單細胞RNA定序的知識C2S-Scale.md",
-          "path": "8. 人工智能/8.10 醫療AI/8.10a 如何讓LLM學會單細胞RNA定序的知識C2S-Scale.md"
+          "path": "8. 人工智能/8.10 醫療AI/8.10a 如何讓LLM學會單細胞RNA定序的知識C2S-Scale.md",
+          "file_id": "552bd382"
         },
         {
           "name": "8.8b 美國醫療演算法偏見案.md",
-          "path": "8. 人工智能/8.8 負責任AI/8.8b 美國醫療演算法偏見案.md"
+          "path": "8. 人工智能/8.8 負責任AI/8.8b 美國醫療演算法偏見案.md",
+          "file_id": "f44c645c"
         },
         {
           "name": "8.2a1f Noise Sensitivity 噪聲敏感度.md",
-          "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1a 優化指標/8.2a1f Noise Sensitivity 噪聲敏感度.md"
+          "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1a 優化指標/8.2a1f Noise Sensitivity 噪聲敏感度.md",
+          "file_id": "fa9cd7d3"
         },
         {
           "name": "8.2a1i Context Relevance.md",
-          "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1a 優化指標/8.2a1i Context Relevance.md"
+          "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1a 優化指標/8.2a1i Context Relevance.md",
+          "file_id": "38f36d98"
         },
         {
           "name": "8.2a1m Response Completeness.md",
-          "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1a 優化指標/8.2a1m Response Completeness.md"
+          "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1a 優化指標/8.2a1m Response Completeness.md",
+          "file_id": "d7b26f06"
         },
         {
           "name": "8.2a1k Answer Relevance.md",
-          "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1a 優化指標/8.2a1k Answer Relevance.md"
+          "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1a 優化指標/8.2a1k Answer Relevance.md",
+          "file_id": "eeb42a3a"
         },
         {
           "name": "8.2a1j Context Precision 上下文精確性.md",
-          "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1a 優化指標/8.2a1j Context Precision 上下文精確性.md"
+          "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1a 優化指標/8.2a1j Context Precision 上下文精確性.md",
+          "file_id": "3fa63cad"
         },
         {
           "name": "8.2a1h Context Utilization with LLM 上下文利用率.md",
-          "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1a 優化指標/8.2a1h Context Utilization with LLM 上下文利用率.md"
+          "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1a 優化指標/8.2a1h Context Utilization with LLM 上下文利用率.md",
+          "file_id": "4d192781"
         },
         {
           "name": "8.2a1p Factual Accuracy 事實準確性.md",
-          "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1a 優化指標/8.2a1p Factual Accuracy 事實準確性.md"
+          "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1a 優化指標/8.2a1p Factual Accuracy 事實準確性.md",
+          "file_id": "83d7ccc0"
         },
         {
           "name": "8.2a1g Context Relevance.md",
-          "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1a 優化指標/8.2a1g Context Relevance.md"
+          "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1a 優化指標/8.2a1g Context Relevance.md",
+          "file_id": "305fc58c"
         },
         {
           "name": "8.2a1l Summarization 摘要指標.md",
-          "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1a 優化指標/8.2a1l Summarization 摘要指標.md"
+          "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1a 優化指標/8.2a1l Summarization 摘要指標.md",
+          "file_id": "fcc05330"
         },
         {
           "name": "8.2a1n Response Consistency 回應一致性.md",
-          "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1a 優化指標/8.2a1n Response Consistency 回應一致性.md"
+          "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1a 優化指標/8.2a1n Response Consistency 回應一致性.md",
+          "file_id": "86abfcec"
         },
         {
           "name": "8.2a1c Context Recall 上下文召回率.md",
-          "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1a 優化指標/8.2a1c Context Recall 上下文召回率.md"
+          "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1a 優化指標/8.2a1c Context Recall 上下文召回率.md",
+          "file_id": "45b79548"
         },
         {
           "name": "8.2a1b Answer Correctness 答案正確性.md",
-          "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1a 優化指標/8.2a1b Answer Correctness 答案正確性.md"
+          "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1a 優化指標/8.2a1b Answer Correctness 答案正確性.md",
+          "file_id": "b25d1fb7"
         },
         {
           "name": "8.2a1o Faithfulness 忠實性分數.md",
-          "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1a 優化指標/8.2a1o Faithfulness 忠實性分數.md"
+          "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1a 優化指標/8.2a1o Faithfulness 忠實性分數.md",
+          "file_id": "9c65d055"
         },
         {
           "name": "8.2a1e Context Entities Recall.md",
-          "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1a 優化指標/8.2a1e Context Entities Recall.md"
+          "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1a 優化指標/8.2a1e Context Entities Recall.md",
+          "file_id": "0b063e05"
         },
         {
           "name": "8.2a1d Groundedness.md",
-          "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1a 優化指標/8.2a1d Groundedness.md"
+          "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1a 優化指標/8.2a1d Groundedness.md",
+          "file_id": "925286d0"
         },
         {
           "name": "8.8a3 九大透明性原則.md",
-          "path": "8. 人工智能/8.8 負責任AI/8.8a 衛福部AI法規/8.8a3 九大透明性原則.md"
+          "path": "8. 人工智能/8.8 負責任AI/8.8a 衛福部AI法規/8.8a3 九大透明性原則.md",
+          "file_id": "10bafc52"
         },
         {
           "name": "8.8a1 CADe&CADx 技術指引.md",
-          "path": "8. 人工智能/8.8 負責任AI/8.8a 衛福部AI法規/8.8a1 CADe&CADx 技術指引.md"
+          "path": "8. 人工智能/8.8 負責任AI/8.8a 衛福部AI法規/8.8a1 CADe&CADx 技術指引.md",
+          "file_id": "66785fab"
         },
         {
           "name": "8.8a2  獨立性能評估 SPA 常見問答集.md",
-          "path": "8. 人工智能/8.8 負責任AI/8.8a 衛福部AI法規/8.8a2  獨立性能評估 SPA 常見問答集.md"
+          "path": "8. 人工智能/8.8 負責任AI/8.8a 衛福部AI法規/8.8a2  獨立性能評估 SPA 常見問答集.md",
+          "file_id": "f6d25ac5"
         }
       ]
     },
@@ -986,35 +1217,29 @@
       "files": [
         {
           "name": "9.1a 如果我們的動作很難快，例如很難快速上線，或是快速更版，快速重構，那還適合敏捷嗎？.md",
-          "path": "9. 專案管理/9.1a 如果我們的動作很難快，例如很難快速上線，或是快速更版，快速重構，那還適合敏捷嗎？.md"
+          "path": "9. 專案管理/9.1a 如果我們的動作很難快，例如很難快速上線，或是快速更版，快速重構，那還適合敏捷嗎？.md",
+          "file_id": "e299cd05"
         },
         {
           "name": "9.1b 敏捷式的軟體架構，是不是要更有“彈性”？.md",
-          "path": "9. 專案管理/9.1b 敏捷式的軟體架構，是不是要更有“彈性”？.md"
+          "path": "9. 專案管理/9.1b 敏捷式的軟體架構，是不是要更有“彈性”？.md",
+          "file_id": "73c55a8c"
         },
         {
           "name": "9.2 溝通型簡報和表演型簡報.md",
-          "path": "9. 專案管理/9.2 溝通型簡報和表演型簡報.md"
+          "path": "9. 專案管理/9.2 溝通型簡報和表演型簡報.md",
+          "file_id": "1bcb8603"
         },
         {
           "name": "9.1 敏捷和瀑布的出路，Hybrid 專案管理.md",
-          "path": "9. 專案管理/9.1 敏捷和瀑布的出路，Hybrid 專案管理.md"
-        }
-      ]
-    },
-    {
-      "category": "根目錄",
-      "count": 2,
-      "files": [
-        {
-          "name": "GPT_INSTRUCTIONS.md",
-          "path": "GPT_INSTRUCTIONS.md"
-        },
-        {
-          "name": "GPT_SETUP_GUIDE.md",
-          "path": "GPT_SETUP_GUIDE.md"
+          "path": "9. 專案管理/9.1 敏捷和瀑布的出路，Hybrid 專案管理.md",
+          "file_id": "a7dda359"
         }
       ]
     }
-  ]
+  ],
+  "usage": {
+    "note": "Use file_id to get content via /api/files/{file_id}.json",
+    "example": "To get file content, call getFileContent with the file_id"
+  }
 }

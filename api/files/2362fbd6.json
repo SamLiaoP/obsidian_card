@@ -1,0 +1,8 @@
+{
+  "file_id": "2362fbd6",
+  "name": "8.9a LIME and SHAP.md",
+  "path": "8. 人工智能/8.9 XAI/8.9a LIME and SHAP.md",
+  "content": "## 1. LIME（Local Interpretable Model-agnostic Explanations）\n**原理：**  \nLIME 的核心是「局部擬合 (local surrogate model)」。它會針對某個特定預測樣本 x，在該點附近隨機生成多個「擾動過的樣本」，將這些樣本丟入原本的黑箱模型以取得預測值，接著利用一個簡單且可解釋的模型（如線性回歸或決策樹）在該區域進行擬合，以近似原始模型在此點附近的行為，最後得到各特徵對該筆預測的影響權重。  \n**優點：** 簡單直觀，能應用於任何模型（model-agnostic）。  \n**缺點：** 結果依賴隨機取樣而可能不穩定，「局部近似」未必能代表全局模型。\n\n---\n\n## 2. SHAP（SHapley Additive exPlanations）\n**原理：**  \nSHAP 建立於合作博弈論中的 Shapley value 概念。可將每個特徵視為「合作玩家」，共同貢獻最終預測結果。SHAP 透過計算每個特徵在加入前後對預測的邊際貢獻，並對所有可能的組合順序取平均，得到每個特徵的「公平分配」貢獻值。  \n**優點：** 理論基礎嚴謹，具公平性與可加性，不僅能提供局部解釋，也能呈現全局特徵重要性。  \n**缺點：** 計算成本高（特別是高維度資料時），因此實務上常使用近似演算法如 TreeSHAP 或 KernelSHAP。\n",
+  "size": 610,
+  "lines": 14
+}

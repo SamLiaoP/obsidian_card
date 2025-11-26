@@ -1,0 +1,8 @@
+{
+  "file_id": "679d9278",
+  "name": "8.1g Observability 可觀測性.md",
+  "path": "8. 人工智能/8.1 AI服務的組件/8.1g Observability 可觀測性.md",
+  "content": "\n## 內容：\n### 觀點\n\n### 案例\n## Metrics 度量\n- Model Metrics\n\t1. 準確率\n\t2. 有害性\n\t3. 幻覺率\n\t4. RAG\n\t\t1. 上下文相關性\n\t\t2. 上下文精度\n\t5. 向量資料庫\n\t6. 存儲量\n\t7. 查詢時間\n\t8. 查詢長度，上下文長度，回應長度\n\t9. 延遲Metrics\n\t\t1. 首次生成標記時間（TTFT）：生成首個標記所需的時間。 \n\t\t2. 標記之間的時間（TBT）：每個標記生成之間的間隔。 \n\t\t3. 每秒標記數（TPS）：生成標記的速度。 \n\t\t4. 每個輸出標記的時間（TPOT）：生成每個輸出標記所需的時間。 \n\t\t5. 總延遲：完成響應所需的總時間。\n\t10. 成本\n\t11. 查詢數量和輸入與輸出標記的數量\n\t12. API每秒請求次數\n- System Metrics\n\t1. Throughput 吞吐量\n\t2. Memory Usage 內存使用\n\t3. Hardware utilization 硬體利用率\n\t4. service availability/ uptime 服務可用性/正常運行時間\n\n## Logs 日誌\n1. 記錄一切\n2. 日誌要有標籤和ID\n\n## Traces 追蹤\n1. 詳細記錄請求在各個系統組件和服務之間的執行情況。\n2. 追踪提供了請求的**端到端視圖**，顯示了整個操作鏈中的每一個步驟。\n3. 揭示從用戶發送查詢到最終響應返回的整個過程。\n4. 包括系統採取的操作、檢索的文檔，以及發送給模型的最終提示。\n5. 下圖為Langchain的圖 ![[15-traces.png]]\n\n### 總結\n\n\n\n## 參考來源：\nhttps://huyenchip.com/2024/07/25/genai-platform.html#ai_pipeline_orchestration",
+  "size": 805,
+  "lines": 49
+}
