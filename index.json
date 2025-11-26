@@ -1,0 +1,205 @@
+{
+  "base_url": "https://samliaop.github.io/obsidian_card",
+  "total_files": 237,
+  "categories": [
+    {
+      "category": "1. 個人知識管理",
+      "count": 11,
+      "sample_files": [
+        {
+          "name": "1.1b3 如何分類卡片？.md",
+          "path": "1. 個人知識管理/1.1 卡片盒筆記/1.1b3 如何分類卡片？.md"
+        },
+        {
+          "name": "1.1a1 什麼時候要寫卡片？當你「在意」時。.md",
+          "path": "1. 個人知識管理/1.1 卡片盒筆記/1.1a1 什麼時候要寫卡片？當你「在意」時。.md"
+        },
+        {
+          "name": "1.1a2 我覺得既使還不知道為什麼要，也該紀錄.md",
+          "path": "1. 個人知識管理/1.1 卡片盒筆記/1.1a2 我覺得既使還不知道為什麼要，也該紀錄.md"
+        }
+      ]
+    },
+    {
+      "category": "10. 投資",
+      "count": 4,
+      "sample_files": [
+        {
+          "name": "10.1a 如何選擇標的？絕對不是夢想.md",
+          "path": "10. 投資/10.1a 如何選擇標的？絕對不是夢想.md"
+        },
+        {
+          "name": "10.1b 收購最好走利潤回饋法.md",
+          "path": "10. 投資/10.1b 收購最好走利潤回饋法.md"
+        },
+        {
+          "name": "10.1 主街致富法 - 擁有某物，比出售時間更有價值.md",
+          "path": "10. 投資/10.1 主街致富法 - 擁有某物，比出售時間更有價值.md"
+        }
+      ]
+    },
+    {
+      "category": "2. 海外工作計畫",
+      "count": 15,
+      "sample_files": [
+        {
+          "name": "2.4a Localize 融入當地.md",
+          "path": "2. 海外工作計畫/2.4a Localize 融入當地.md"
+        },
+        {
+          "name": "2.4d Test 不斷測試.md",
+          "path": "2. 海外工作計畫/2.4d Test 不斷測試.md"
+        },
+        {
+          "name": "2.4a1 如何決定地點？.md",
+          "path": "2. 海外工作計畫/2.4a1 如何決定地點？.md"
+        }
+      ]
+    },
+    {
+      "category": "3. 人生的價值觀",
+      "count": 28,
+      "sample_files": [
+        {
+          "name": "3.10 自我觀察，我似乎蠻擅長講故事？.md",
+          "path": "3. 人生的價值觀/3.10 自我觀察，我似乎蠻擅長講故事？.md"
+        },
+        {
+          "name": "3.2 對於媒體娛樂業有不明所以的厭惡.md",
+          "path": "3. 人生的價值觀/3.2 對於媒體娛樂業有不明所以的厭惡.md"
+        },
+        {
+          "name": "3.7 地位跟金錢都該只是副產品.md",
+          "path": "3. 人生的價值觀/3.7 地位跟金錢都該只是副產品.md"
+        }
+      ]
+    },
+    {
+      "category": "4. 軟體開發",
+      "count": 69,
+      "sample_files": [
+        {
+          "name": "4.3 如何判斷是不是好的抽象化？.md",
+          "path": "4. 軟體開發/4.3 如何判斷是不是好的抽象化？.md"
+        },
+        {
+          "name": "Liaison 上行電文.md",
+          "path": "4. 軟體開發/數據處理微服務/Liaison 上行電文.md"
+        },
+        {
+          "name": "sapper 上行電文.md",
+          "path": "4. 軟體開發/數據處理微服務/sapper 上行電文.md"
+        }
+      ]
+    },
+    {
+      "category": "5. 科普新知",
+      "count": 17,
+      "sample_files": [
+        {
+          "name": "5.6 集體無意識.md",
+          "path": "5. 科普新知/5.6 集體無意識.md"
+        },
+        {
+          "name": "5.7 DOSE 效應.md",
+          "path": "5. 科普新知/5.7 DOSE 效應.md"
+        },
+        {
+          "name": "5.7d 內啡肽 Endorphin.md",
+          "path": "5. 科普新知/5.7d 內啡肽 Endorphin.md"
+        }
+      ]
+    },
+    {
+      "category": "6. 意識與大腦",
+      "count": 21,
+      "sample_files": [
+        {
+          "name": "6.3 快樂要間隔，痛苦要集中.md",
+          "path": "6. 意識與大腦/6.3 快樂要間隔，痛苦要集中.md"
+        },
+        {
+          "name": "6.7 讓.皮亞傑-認知發展理論.md",
+          "path": "6. 意識與大腦/6.7 讓.皮亞傑-認知發展理論.md"
+        },
+        {
+          "name": "6.1 情緒 是你身體的直覺。.md",
+          "path": "6. 意識與大腦/6.1 情緒 是你身體的直覺。.md"
+        }
+      ]
+    },
+    {
+      "category": "7. 決策科學",
+      "count": 12,
+      "sample_files": [
+        {
+          "name": "創作 = 判斷 + 決策.md",
+          "path": "7. 決策科學/創作 = 判斷 + 決策.md"
+        },
+        {
+          "name": "7.2 Berkson's paradox 柏克森悖論.md",
+          "path": "7. 決策科學/7.2 Berkson's paradox 柏克森悖論.md"
+        },
+        {
+          "name": "先做預測型判斷，再做價值型判斷.md",
+          "path": "7. 決策科學/7.1 雜訊/先做預測型判斷，再做價值型判斷.md"
+        }
+      ]
+    },
+    {
+      "category": "8. 人工智能",
+      "count": 54,
+      "sample_files": [
+        {
+          "name": "8.4 在notebook環境中安裝ollama.md",
+          "path": "8. 人工智能/8.4 在notebook環境中安裝ollama.md"
+        },
+        {
+          "name": "8.5 建立有效的反饋機制.md",
+          "path": "8. 人工智能/8.5 建立有效的反饋機制.md"
+        },
+        {
+          "name": "8.3 身為一個工程師，沒有考慮成本的 AI Agent 架構是沒有意義的。.md",
+          "path": "8. 人工智能/8.3 身為一個工程師，沒有考慮成本的 AI Agent 架構是沒有意義的。.md"
+        }
+      ]
+    },
+    {
+      "category": "9. 專案管理",
+      "count": 4,
+      "sample_files": [
+        {
+          "name": "9.1a 如果我們的動作很難快，例如很難快速上線，或是快速更版，快速重構，那還適合敏捷嗎？.md",
+          "path": "9. 專案管理/9.1a 如果我們的動作很難快，例如很難快速上線，或是快速更版，快速重構，那還適合敏捷嗎？.md"
+        },
+        {
+          "name": "9.1b 敏捷式的軟體架構，是不是要更有“彈性”？.md",
+          "path": "9. 專案管理/9.1b 敏捷式的軟體架構，是不是要更有“彈性”？.md"
+        },
+        {
+          "name": "9.2 溝通型簡報和表演型簡報.md",
+          "path": "9. 專案管理/9.2 溝通型簡報和表演型簡報.md"
+        }
+      ]
+    },
+    {
+      "category": "根目錄",
+      "count": 2,
+      "sample_files": [
+        {
+          "name": "GPT_INSTRUCTIONS.md",
+          "path": "GPT_INSTRUCTIONS.md"
+        },
+        {
+          "name": "GPT_SETUP_GUIDE.md",
+          "path": "GPT_SETUP_GUIDE.md"
+        }
+      ]
+    }
+  ],
+  "usage": {
+    "note": "This is a lightweight index. To get file content, use web browsing to access: base_url + '/' + url_encoded(path)",
+    "example": "For path '1. 個人知識管理/file.md', URL is base_url + '/1.%20%E5%80%8B%E4%BA%BA%E7%9F%A5%E8%AD%98%E7%AE%A1%E7%90%86/file.md'",
+    "search_tip": "Use search endpoint to find specific files by name or category"
+  }
+}

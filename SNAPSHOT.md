@@ -1,5 +1,88 @@
 # SNAPSHOT - 專案變更記錄
 
+## 2024-11-26 - 優化 GPT Actions API（解決 ResponseTooLargeError）
+
+### 📝 問題
+
+GPT Actions 調用 `/tree.json` 時返回 `ResponseTooLargeError`：
+- tree.json 大小：214KB，2937 行
+- 包含完整的樹狀結構和所有 URL encoded 路徑
+- 超過 OpenAI GPT Actions 的回應大小限制
+
+### 🔧 解決方案
+
+創建多層級 API 架構，提供不同詳細程度的端點：
+
+#### 新增檔案
+
+1. **index.json** - 輕量級索引（6.7KB，200 行）
+   - 只包含分類摘要
+   - 每個分類顯示總數和 3 個範例檔案
+   - 專門為 GPT Actions 優化
+   - 包含使用說明
+
+2. **search.json** - 按分類搜索（42KB，1015 行）
+   - 按分類列出所有檔案
+   - 不包含完整 URL（節省空間）
+   - 用於詳細搜索
+
+3. **tree.json** - 完整樹狀結構（214KB，2937 行）
+   - 保留原有的完整資訊
+   - 包含樹狀結構和扁平列表
+   - 用於其他用途
+
+#### 修改檔案
+
+**generate_tree.py**：
+- 新增 `generate_lightweight_index()` 函數
+- 新增 `generate_search_index()` 函數
+- 更新忽略規則
+- 修正 URL 為全小寫：`https://samliaop.github.io/obsidian_card`
+
+#### 新增配置檔案
+
+1. **GPT_ACTIONS_SCHEMA.yaml** - OpenAPI Schema
+   - 定義兩個端點：`/index.json` 和 `/search.json`
+   - 詳細的 schema 定義
+   - 使用範例
+
+2. **GPT_INSTRUCTIONS.md** - GPT 系統提示詞
+   - 完整的工作流程說明
+   - 搜索策略和技巧
+   - 回答格式範本
+   - 特殊情況處理
+
+### 📊 檔案大小對比
+
+| 檔案 | 大小 | 行數 | 用途 |
+|------|------|------|------|
+| index.json | 6.7KB | 200 | GPT Actions 主要端點 ✅ |
+| search.json | 42KB | 1015 | 詳細搜索 |
+| tree.json | 214KB | 2937 | 完整結構 |
+
+### 🎯 API 使用流程
+
+1. **首次調用**：`getKnowledgeBaseIndex` → 獲取分類概覽
+2. **詳細搜索**（如需要）：`searchKnowledgeBase` → 獲取分類內所有檔案
+3. **獲取內容**：使用 Web Browsing + URL encode 訪問檔案
+
+### 💡 優化亮點
+
+1. **分層設計**：根據需求選擇合適的端點
+2. **節省頻寬**：只傳輸必要的資訊
+3. **快速回應**：index.json 只有 6.7KB
+4. **向後兼容**：保留完整的 tree.json
+
+### 🔄 URL 修正
+
+同時修正了 GitHub Pages URL 格式：
+- 錯誤：`https://SamLiaoP.github.io/...`（大小寫混合）
+- 正確：`https://samliaop.github.io/...`（全小寫）
+
+OpenAI GPT Actions 要求 URL 必須嚴格匹配實際的 origin。
+
+---
+
 ## 2024-11-26 - 修正 GitHub Pages URL
 
 ### 📝 問題修正

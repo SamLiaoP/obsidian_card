@@ -1,0 +1,119 @@
+openapi: 3.1.0
+info:
+  title: CARD Knowledge Base API
+  description: Lightweight API for accessing personal knowledge base with 236 markdown notes
+  version: 2.0.0
+
+servers:
+  - url: https://samliaop.github.io/obsidian_card
+    description: GitHub Pages Static API
+
+paths:
+  /index.json:
+    get:
+      operationId: getKnowledgeBaseIndex
+      summary: Get lightweight knowledge base index
+      description: |
+        Returns a lightweight index with category summaries and sample files.
+        Each category shows count and 3 sample files.
+        Use this first to understand the knowledge base structure.
+      responses:
+        '200':
+          description: Successful response with lightweight index
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/LightweightIndex'
+
+  /search.json:
+    get:
+      operationId: searchKnowledgeBase
+      summary: Get complete file list by category
+      description: |
+        Returns all files organized by category.
+        Use this when you need to find specific files within a category.
+      responses:
+        '200':
+          description: Successful response with complete file list
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/SearchIndex'
+
+components:
+  schemas:
+    LightweightIndex:
+      type: object
+      properties:
+        base_url:
+          type: string
+          description: Base URL of the API
+          example: "https://samliaop.github.io/obsidian_card"
+        total_files:
+          type: integer
+          description: Total number of markdown files
+          example: 236
+        categories:
+          type: array
+          description: List of categories with sample files
+          items:
+            type: object
+            properties:
+              category:
+                type: string
+                description: Category name
+              count:
+                type: integer
+                description: Number of files in this category
+              sample_files:
+                type: array
+                description: Sample files (up to 3) from this category
+                items:
+                  $ref: '#/components/schemas/FileInfo'
+        usage:
+          type: object
+          description: Instructions on how to use the API
+          properties:
+            note:
+              type: string
+            example:
+              type: string
+            search_tip:
+              type: string
+
+    SearchIndex:
+      type: object
+      properties:
+        base_url:
+          type: string
+          description: Base URL of the API
+        total_files:
+          type: integer
+          description: Total number of markdown files
+        categories:
+          type: array
+          description: Complete list of files by category
+          items:
+            type: object
+            properties:
+              category:
+                type: string
+              count:
+                type: integer
+              files:
+                type: array
+                items:
+                  $ref: '#/components/schemas/FileInfo'
+
+    FileInfo:
+      type: object
+      properties:
+        name:
+          type: string
+          description: File name
+          example: "1.1a Why? 卡片盒筆記是想法的串連.md"
+        path:
+          type: string
+          description: Relative path (needs URL encoding to access)
+          example: "1. 個人知識管理/1.1 卡片盒筆記/1.1a Why? 卡片盒筆記是想法的串連.md"
+
