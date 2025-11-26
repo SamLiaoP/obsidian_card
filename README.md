@@ -175,7 +175,8 @@ CARD/
 │       └── ... (235 個檔案)
 │
 ├── .github/workflows/
-│   └── deploy.yml             # 自動部署配置
+│   ├── deploy.yml             # 自動部署到 GitHub Pages
+│   └── test.yml               # PR 測試
 │
 ├── index.json                 # 輕量級索引 (6.8KB)
 ├── search.json                # 搜索索引 (50KB)
@@ -312,6 +313,38 @@ https://github.com/your-username/your-repo/actions
 
 # 驗證部署
 curl https://your-username.github.io/your-repo/index.json
+```
+
+## 🤖 GitHub Actions
+
+### 自動部署 (deploy.yml)
+
+**觸發條件**：推送到 `main` 或 `master` 分支
+
+**執行步驟**：
+1. ✅ Checkout 程式碼
+2. ✅ 設定 Python 3.11
+3. ✅ 執行 `generate_tree.py`
+4. ✅ 驗證 JSON 格式
+5. ✅ 部署到 GitHub Pages
+
+**查看日誌**：
+```
+Actions > Deploy to GitHub Pages > 最新的 run
+```
+
+### PR 測試 (test.yml)
+
+**觸發條件**：創建 Pull Request
+
+**執行步驟**：
+1. ✅ 測試 `generate_tree.py`
+2. ✅ 驗證生成的檔案
+3. ✅ 上傳測試結果
+
+**手動觸發**：
+```
+Actions > Test API Generation > Run workflow
 ```
 
 ## 💡 效能優化

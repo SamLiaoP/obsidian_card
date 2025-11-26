@@ -1,5 +1,92 @@
 # SNAPSHOT - 專案變更記錄
 
+## 2024-11-26 - 優化 GitHub Actions Workflows
+
+### 📝 變更內容
+
+**優化 deploy.yml**：
+- ✅ 添加詳細的生成日誌
+- ✅ 顯示檔案大小和數量統計
+- ✅ 添加 JSON 格式驗證步驟
+- ✅ 檢查必要欄位是否存在
+
+**新增 test.yml**：
+- ✅ 在 PR 時自動測試
+- ✅ 驗證 `generate_tree.py` 運行正常
+- ✅ 上傳測試結果 artifact（保留 7 天）
+- ✅ 支援手動觸發測試
+
+### 🎯 改進目標
+
+1. **更好的可見性** - 在 Actions 日誌中清楚看到生成結果
+2. **及早發現錯誤** - PR 階段就測試，避免壞的程式碼合併
+3. **自動驗證** - 確保生成的 JSON 格式正確
+4. **除錯友善** - 提供測試 artifact 供下載檢查
+
+### 📊 Workflow 架構
+
+```
+Push to main
+    ↓
+deploy.yml
+    ├── Checkout
+    ├── Setup Python
+    ├── Generate API files（顯示統計）
+    ├── Validate（驗證格式）
+    ├── Setup Pages
+    └── Deploy
+    
+Pull Request
+    ↓
+test.yml
+    ├── Checkout
+    ├── Setup Python
+    ├── Test generate_tree.py
+    ├── Validate files
+    └── Upload artifacts
+```
+
+### 💡 使用方式
+
+**自動觸發**：
+- Push → 自動部署
+- PR → 自動測試
+
+**手動觸發**：
+```
+Actions > 選擇 workflow > Run workflow
+```
+
+### 📝 示例日誌輸出
+
+```
+🚀 開始生成 API 檔案...
+正在掃描 Markdown 檔案...
+✅ 成功生成 tree.json
+📁 共找到 235 個 Markdown 檔案
+✅ 成功生成 index.json (輕量級索引 - 只有分類摘要)
+✅ 成功生成 search.json (完整檔案列表，按分類，包含 file_id)
+✅ 成功生成 235 個檔案內容 JSON
+
+✅ 生成完成！檢查結果：
+📄 index.json: 6.8K
+📄 search.json: 50K
+📄 tree.json: 214K
+📁 api/files/: 235 個檔案
+💾 總大小: 976K
+
+🔍 驗證 API 檔案格式...
+✓ index.json 格式正確
+✓ search.json 格式正確
+✓ tree.json 格式正確
+✓ index.json 包含 base_url
+✓ index.json 包含 total_files
+✓ search.json 包含 file_id
+✅ 所有驗證通過！
+```
+
+---
+
 ## 2024-11-26 - 文件整理與統整
 
 ### 📝 變更內容

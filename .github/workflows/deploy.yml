@@ -28,9 +28,34 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Generate tree.json
+      - name: Generate API files
         run: |
-          python generate_tree.py
+          echo "🚀 開始生成 API 檔案..."
+          python3 generate_tree.py
+          
+          echo ""
+          echo "✅ 生成完成！檢查結果："
+          echo "📄 index.json: $(ls -lh index.json | awk '{print $5}')"
+          echo "📄 search.json: $(ls -lh search.json | awk '{print $5}')"
+          echo "📄 tree.json: $(ls -lh tree.json | awk '{print $5}')"
+          echo "📁 api/files/: $(ls api/files/ | wc -l) 個檔案"
+          echo "💾 總大小: $(du -sh api/files/ | awk '{print $1}')"
+      
+      - name: Validate API files
+        run: |
+          echo "🔍 驗證 API 檔案格式..."
+          
+          # 驗證 JSON 格式
+          python3 -m json.tool index.json > /dev/null && echo "✓ index.json 格式正確"
+          python3 -m json.tool search.json > /dev/null && echo "✓ search.json 格式正確"
+          python3 -m json.tool tree.json > /dev/null && echo "✓ tree.json 格式正確"
+          
+          # 檢查必要欄位
+          grep -q "base_url" index.json && echo "✓ index.json 包含 base_url"
+          grep -q "total_files" index.json && echo "✓ index.json 包含 total_files"
+          grep -q "file_id" search.json && echo "✓ search.json 包含 file_id"
+          
+          echo "✅ 所有驗證通過！"
 
       - name: Setup Pages
         uses: actions/configure-pages@v4

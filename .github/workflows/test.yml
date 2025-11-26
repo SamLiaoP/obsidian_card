@@ -1,0 +1,64 @@
+name: Test API Generation
+
+on:
+  pull_request:
+    branches:
+      - main
+      - master
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Test generate_tree.py
+        run: |
+          echo "🧪 測試 API 生成..."
+          python3 generate_tree.py
+          
+      - name: Validate generated files
+        run: |
+          echo "🔍 驗證生成的檔案..."
+          
+          # 檢查檔案是否存在
+          test -f index.json && echo "✓ index.json 已生成"
+          test -f search.json && echo "✓ search.json 已生成"
+          test -f tree.json && echo "✓ tree.json 已生成"
+          test -d api/files && echo "✓ api/files/ 目錄已創建"
+          
+          # 驗證 JSON 格式
+          python3 -m json.tool index.json > /dev/null && echo "✓ index.json 格式正確"
+          python3 -m json.tool search.json > /dev/null && echo "✓ search.json 格式正確"
+          python3 -m json.tool tree.json > /dev/null && echo "✓ tree.json 格式正確"
+          
+          # 統計資訊
+          FILE_COUNT=$(ls api/files/ | wc -l)
+          echo "📊 生成了 $FILE_COUNT 個檔案內容 JSON"
+          
+          # 檢查檔案大小
+          INDEX_SIZE=$(ls -lh index.json | awk '{print $5}')
+          SEARCH_SIZE=$(ls -lh search.json | awk '{print $5}')
+          echo "📄 index.json: $INDEX_SIZE"
+          echo "📄 search.json: $SEARCH_SIZE"
+          
+          echo "✅ 所有測試通過！"
+      
+      - name: Upload test results
+        if: always()
+        uses: actions/upload-artifact@v3
+        with:
+          name: test-results
+          path: |
+            index.json
+            search.json
+            api/files/*.json
+          retention-days: 7
+
