@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CARD API - Markdown Files</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background: #f5f5f5;
+        }
+        .container {
+            background: white;
+            border-radius: 8px;
+            padding: 30px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #333;
+            border-bottom: 3px solid #4CAF50;
+            padding-bottom: 10px;
+        }
+        .info {
+            background: #e8f5e9;
+            border-left: 4px solid #4CAF50;
+            padding: 15px;
+            margin: 20px 0;
+        }
+        .endpoint {
+            background: #f5f5f5;
+            border-radius: 4px;
+            padding: 10px;
+            margin: 10px 0;
+            font-family: monospace;
+            overflow-x: auto;
+        }
+        .code {
+            background: #263238;
+            color: #aed581;
+            padding: 15px;
+            border-radius: 4px;
+            overflow-x: auto;
+            margin: 10px 0;
+        }
+        .button {
+            display: inline-block;
+            background: #4CAF50;
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 4px;
+            margin: 5px;
+        }
+        .button:hover {
+            background: #45a049;
+        }
+        .stats {
+            display: flex;
+            gap: 20px;
+            margin: 20px 0;
+        }
+        .stat-box {
+            flex: 1;
+            background: #e3f2fd;
+            padding: 15px;
+            border-radius: 4px;
+            text-align: center;
+        }
+        .stat-number {
+            font-size: 2em;
+            font-weight: bold;
+            color: #1976d2;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>📚 CARD Knowledge Base API</h1>
+        
+        <div class="info">
+            <strong>🎯 這是一個靜態 API 服務</strong><br>
+            所有的 Markdown 檔案都可以透過 HTTP GET 請求訪問
+        </div>
+
+        <div class="stats">
+            <div class="stat-box">
+                <div class="stat-number" id="fileCount">-</div>
+                <div>Markdown 檔案</div>
+            </div>
+            <div class="stat-box">
+                <div class="stat-number" id="updateTime">-</div>
+                <div>最後更新</div>
+            </div>
+        </div>
+
+        <h2>🔌 API 端點</h2>
+        
+        <h3>1. 獲取完整樹狀結構</h3>
+        <div class="endpoint">
+            GET /tree.json
+        </div>
+        <p>返回完整的檔案樹狀結構，包含所有 Markdown 檔案的路徑和 URL。</p>
+        <a href="tree.json" class="button">查看 tree.json</a>
+
+        <h3>2. 訪問 Markdown 檔案</h3>
+        <div class="endpoint">
+            GET /{path-to-file}.md
+        </div>
+        <p>直接訪問任何 Markdown 檔案。路徑可以從 tree.json 中獲取。</p>
+
+        <h2>📖 使用範例</h2>
+        
+        <h3>JavaScript Fetch</h3>
+        <div class="code">
+// 獲取檔案樹<br>
+fetch('tree.json')<br>
+&nbsp;&nbsp;.then(res => res.json())<br>
+&nbsp;&nbsp;.then(data => console.log(data));<br>
+<br>
+// 獲取特定 Markdown 檔案<br>
+fetch('1.%20個人知識管理/1.1%20卡片盒筆記/...')<br>
+&nbsp;&nbsp;.then(res => res.text())<br>
+&nbsp;&nbsp;.then(markdown => console.log(markdown));
+        </div>
+
+        <h3>Python Requests</h3>
+        <div class="code">
+import requests<br>
+<br>
+# 獲取檔案樹<br>
+response = requests.get('https://your-domain.github.io/CARD/tree.json')<br>
+data = response.json()<br>
+<br>
+# 獲取特定檔案<br>
+file_url = data['files'][0]['url']<br>
+content = requests.get(file_url).text
+        </div>
+
+        <h3>cURL</h3>
+        <div class="code">
+# 獲取檔案樹<br>
+curl https://your-domain.github.io/CARD/tree.json<br>
+<br>
+# 獲取特定檔案<br>
+curl "https://your-domain.github.io/CARD/檔案路徑.md"
+        </div>
+
+        <h2>📋 tree.json 結構</h2>
+        <div class="code">
+{<br>
+&nbsp;&nbsp;"base_url": "https://...",<br>
+&nbsp;&nbsp;"total_files": 123,<br>
+&nbsp;&nbsp;"generated_at": "2024-11-26T...",<br>
+&nbsp;&nbsp;"tree": { /* 樹狀結構 */ },<br>
+&nbsp;&nbsp;"files": [ /* 扁平檔案列表 */ ]<br>
+}
+        </div>
+
+        <h2>🚀 部署說明</h2>
+        <ol>
+            <li>Fork 或 Clone 此倉庫</li>
+            <li>在 GitHub 倉庫設定中啟用 GitHub Pages</li>
+            <li>選擇部署來源（GitHub Actions）</li>
+            <li>每次 push 到 main 分支時會自動更新 tree.json</li>
+        </ol>
+
+        <div class="info">
+            <strong>💡 提示：</strong>這個 API 完全是靜態的，沒有伺服器端處理。所有的檔案都直接由 GitHub Pages 提供服務。
+        </div>
+    </div>
+
+    <script>
+        // 載入並顯示統計資訊
+        fetch('tree.json')
+            .then(res => res.json())
+            .then(data => {
+                document.getElementById('fileCount').textContent = data.total_files;
+                
+                // 設定生成時間
+                const now = new Date().toISOString();
+                const date = new Date(now);
+                document.getElementById('updateTime').textContent = 
+                    date.toLocaleDateString('zh-TW', { month: 'short', day: 'numeric' });
+                
+                // 更新 data 物件的生成時間並重新保存（僅用於顯示）
+                data.generated_at = now;
+            })
+            .catch(err => {
+                console.error('無法載入 tree.json:', err);
+                document.getElementById('fileCount').textContent = '?';
+                document.getElementById('updateTime').textContent = '-';
+            });
+    </script>
+</body>
+</html>
+

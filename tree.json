@@ -1,0 +1,2938 @@
+{
+  "base_url": "https://SamLiaoP.github.io/obsidian_card",
+  "total_files": 236,
+  "generated_at": null,
+  "tree": {
+    "name": "root",
+    "type": "directory",
+    "path": ".",
+    "children": [
+      {
+        "name": "1. 個人知識管理",
+        "type": "directory",
+        "path": "1. 個人知識管理",
+        "children": [
+          {
+            "name": "1.1 卡片盒筆記",
+            "type": "directory",
+            "path": "1. 個人知識管理/1.1 卡片盒筆記",
+            "children": [
+              {
+                "name": "1.1a Why? 卡片盒筆記是想法的串連.md",
+                "type": "file",
+                "path": "1. 個人知識管理/1.1 卡片盒筆記/1.1a Why? 卡片盒筆記是想法的串連.md",
+                "url": "https://SamLiaoP.github.io/obsidian_card/1.%20%E5%80%8B%E4%BA%BA%E7%9F%A5%E8%AD%98%E7%AE%A1%E7%90%86/1.1%20%E5%8D%A1%E7%89%87%E7%9B%92%E7%AD%86%E8%A8%98/1.1a%20Why%3F%20%E5%8D%A1%E7%89%87%E7%9B%92%E7%AD%86%E8%A8%98%E6%98%AF%E6%83%B3%E6%B3%95%E7%9A%84%E4%B8%B2%E9%80%A3.md"
+              },
+              {
+                "name": "1.1a1 什麼時候要寫卡片？當你「在意」時。.md",
+                "type": "file",
+                "path": "1. 個人知識管理/1.1 卡片盒筆記/1.1a1 什麼時候要寫卡片？當你「在意」時。.md",
+                "url": "https://SamLiaoP.github.io/obsidian_card/1.%20%E5%80%8B%E4%BA%BA%E7%9F%A5%E8%AD%98%E7%AE%A1%E7%90%86/1.1%20%E5%8D%A1%E7%89%87%E7%9B%92%E7%AD%86%E8%A8%98/1.1a1%20%E4%BB%80%E9%BA%BC%E6%99%82%E5%80%99%E8%A6%81%E5%AF%AB%E5%8D%A1%E7%89%87%EF%BC%9F%E7%95%B6%E4%BD%A0%E3%80%8C%E5%9C%A8%E6%84%8F%E3%80%8D%E6%99%82%E3%80%82.md"
+              },
+              {
+                "name": "1.1a2 我覺得既使還不知道為什麼要，也該紀錄.md",
+                "type": "file",
+                "path": "1. 個人知識管理/1.1 卡片盒筆記/1.1a2 我覺得既使還不知道為什麼要，也該紀錄.md",
+                "url": "https://SamLiaoP.github.io/obsidian_card/1.%20%E5%80%8B%E4%BA%BA%E7%9F%A5%E8%AD%98%E7%AE%A1%E7%90%86/1.1%20%E5%8D%A1%E7%89%87%E7%9B%92%E7%AD%86%E8%A8%98/1.1a2%20%E6%88%91%E8%A6%BA%E5%BE%97%E6%97%A2%E4%BD%BF%E9%82%84%E4%B8%8D%E7%9F%A5%E9%81%93%E7%82%BA%E4%BB%80%E9%BA%BC%E8%A6%81%EF%BC%8C%E4%B9%9F%E8%A9%B2%E7%B4%80%E9%8C%84.md"
+              },
+              {
+                "name": "1.1b How? 如何產出卡片盒筆記？.md",
+                "type": "file",
+                "path": "1. 個人知識管理/1.1 卡片盒筆記/1.1b How? 如何產出卡片盒筆記？.md",
+                "url": "https://SamLiaoP.github.io/obsidian_card/1.%20%E5%80%8B%E4%BA%BA%E7%9F%A5%E8%AD%98%E7%AE%A1%E7%90%86/1.1%20%E5%8D%A1%E7%89%87%E7%9B%92%E7%AD%86%E8%A8%98/1.1b%20How%3F%20%E5%A6%82%E4%BD%95%E7%94%A2%E5%87%BA%E5%8D%A1%E7%89%87%E7%9B%92%E7%AD%86%E8%A8%98%EF%BC%9F.md"
+              },
+              {
+                "name": "1.1b1 筆記怎麼寫？.md",
+                "type": "file",
+                "path": "1. 個人知識管理/1.1 卡片盒筆記/1.1b1 筆記怎麼寫？.md",
+                "url": "https://SamLiaoP.github.io/obsidian_card/1.%20%E5%80%8B%E4%BA%BA%E7%9F%A5%E8%AD%98%E7%AE%A1%E7%90%86/1.1%20%E5%8D%A1%E7%89%87%E7%9B%92%E7%AD%86%E8%A8%98/1.1b1%20%E7%AD%86%E8%A8%98%E6%80%8E%E9%BA%BC%E5%AF%AB%EF%BC%9F.md"
+              },
+              {
+                "name": "1.1b2 卡片怎麼寫？.md",
+                "type": "file",
+                "path": "1. 個人知識管理/1.1 卡片盒筆記/1.1b2 卡片怎麼寫？.md",
+                "url": "https://SamLiaoP.github.io/obsidian_card/1.%20%E5%80%8B%E4%BA%BA%E7%9F%A5%E8%AD%98%E7%AE%A1%E7%90%86/1.1%20%E5%8D%A1%E7%89%87%E7%9B%92%E7%AD%86%E8%A8%98/1.1b2%20%E5%8D%A1%E7%89%87%E6%80%8E%E9%BA%BC%E5%AF%AB%EF%BC%9F.md"
+              },
+              {
+                "name": "1.1b2a 什麼時候要把筆記變成卡片.md",
+                "type": "file",
+                "path": "1. 個人知識管理/1.1 卡片盒筆記/1.1b2a 什麼時候要把筆記變成卡片.md",
+                "url": "https://SamLiaoP.github.io/obsidian_card/1.%20%E5%80%8B%E4%BA%BA%E7%9F%A5%E8%AD%98%E7%AE%A1%E7%90%86/1.1%20%E5%8D%A1%E7%89%87%E7%9B%92%E7%AD%86%E8%A8%98/1.1b2a%20%E4%BB%80%E9%BA%BC%E6%99%82%E5%80%99%E8%A6%81%E6%8A%8A%E7%AD%86%E8%A8%98%E8%AE%8A%E6%88%90%E5%8D%A1%E7%89%87.md"
+              },
+              {
+                "name": "1.1b3 如何分類卡片？.md",
+                "type": "file",
+                "path": "1. 個人知識管理/1.1 卡片盒筆記/1.1b3 如何分類卡片？.md",
+                "url": "https://SamLiaoP.github.io/obsidian_card/1.%20%E5%80%8B%E4%BA%BA%E7%9F%A5%E8%AD%98%E7%AE%A1%E7%90%86/1.1%20%E5%8D%A1%E7%89%87%E7%9B%92%E7%AD%86%E8%A8%98/1.1b3%20%E5%A6%82%E4%BD%95%E5%88%86%E9%A1%9E%E5%8D%A1%E7%89%87%EF%BC%9F.md"
+              },
+              {
+                "name": "1.1b3a ACCESS筆記分類法.md",
+                "type": "file",
+                "path": "1. 個人知識管理/1.1 卡片盒筆記/1.1b3a ACCESS筆記分類法.md",
+                "url": "https://SamLiaoP.github.io/obsidian_card/1.%20%E5%80%8B%E4%BA%BA%E7%9F%A5%E8%AD%98%E7%AE%A1%E7%90%86/1.1%20%E5%8D%A1%E7%89%87%E7%9B%92%E7%AD%86%E8%A8%98/1.1b3a%20ACCESS%E7%AD%86%E8%A8%98%E5%88%86%E9%A1%9E%E6%B3%95.md"
+              },
+              {
+                "name": "1.1b3b 魯曼卡片索引法.md",
+                "type": "file",
+                "path": "1. 個人知識管理/1.1 卡片盒筆記/1.1b3b 魯曼卡片索引法.md",
+                "url": "https://SamLiaoP.github.io/obsidian_card/1.%20%E5%80%8B%E4%BA%BA%E7%9F%A5%E8%AD%98%E7%AE%A1%E7%90%86/1.1%20%E5%8D%A1%E7%89%87%E7%9B%92%E7%AD%86%E8%A8%98/1.1b3b%20%E9%AD%AF%E6%9B%BC%E5%8D%A1%E7%89%87%E7%B4%A2%E5%BC%95%E6%B3%95.md"
+              },
+              {
+                "name": "1.1c1 What? 如何使用卡片？ 產出MOC.md",
+                "type": "file",
+                "path": "1. 個人知識管理/1.1 卡片盒筆記/1.1c1 What? 如何使用卡片？ 產出MOC.md",
+                "url": "https://SamLiaoP.github.io/obsidian_card/1.%20%E5%80%8B%E4%BA%BA%E7%9F%A5%E8%AD%98%E7%AE%A1%E7%90%86/1.1%20%E5%8D%A1%E7%89%87%E7%9B%92%E7%AD%86%E8%A8%98/1.1c1%20What%3F%20%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E5%8D%A1%E7%89%87%EF%BC%9F%20%E7%94%A2%E5%87%BAMOC.md"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "10. 投資",
+        "type": "directory",
+        "path": "10. 投資",
+        "children": [
+          {
+            "name": "10.1 主街致富法 - 擁有某物，比出售時間更有價值.md",
+            "type": "file",
+            "path": "10. 投資/10.1 主街致富法 - 擁有某物，比出售時間更有價值.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/10.%20%E6%8A%95%E8%B3%87/10.1%20%E4%B8%BB%E8%A1%97%E8%87%B4%E5%AF%8C%E6%B3%95%20-%20%E6%93%81%E6%9C%89%E6%9F%90%E7%89%A9%EF%BC%8C%E6%AF%94%E5%87%BA%E5%94%AE%E6%99%82%E9%96%93%E6%9B%B4%E6%9C%89%E5%83%B9%E5%80%BC.md"
+          },
+          {
+            "name": "10.1a 如何選擇標的？絕對不是夢想.md",
+            "type": "file",
+            "path": "10. 投資/10.1a 如何選擇標的？絕對不是夢想.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/10.%20%E6%8A%95%E8%B3%87/10.1a%20%E5%A6%82%E4%BD%95%E9%81%B8%E6%93%87%E6%A8%99%E7%9A%84%EF%BC%9F%E7%B5%95%E5%B0%8D%E4%B8%8D%E6%98%AF%E5%A4%A2%E6%83%B3.md"
+          },
+          {
+            "name": "10.1b 收購最好走利潤回饋法.md",
+            "type": "file",
+            "path": "10. 投資/10.1b 收購最好走利潤回饋法.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/10.%20%E6%8A%95%E8%B3%87/10.1b%20%E6%94%B6%E8%B3%BC%E6%9C%80%E5%A5%BD%E8%B5%B0%E5%88%A9%E6%BD%A4%E5%9B%9E%E9%A5%8B%E6%B3%95.md"
+          },
+          {
+            "name": "10.1c 管理的目標是讓自己不用管理.md",
+            "type": "file",
+            "path": "10. 投資/10.1c 管理的目標是讓自己不用管理.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/10.%20%E6%8A%95%E8%B3%87/10.1c%20%E7%AE%A1%E7%90%86%E7%9A%84%E7%9B%AE%E6%A8%99%E6%98%AF%E8%AE%93%E8%87%AA%E5%B7%B1%E4%B8%8D%E7%94%A8%E7%AE%A1%E7%90%86.md"
+          }
+        ]
+      },
+      {
+        "name": "2. 海外工作計畫",
+        "type": "directory",
+        "path": "2. 海外工作計畫",
+        "children": [
+          {
+            "name": "images",
+            "type": "directory",
+            "path": "2. 海外工作計畫/images",
+            "children": []
+          },
+          {
+            "name": "2.1 條件式入學是一個成本高但可以避免成績不夠的入學方式.md",
+            "type": "file",
+            "path": "2. 海外工作計畫/2.1 條件式入學是一個成本高但可以避免成績不夠的入學方式.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/2.%20%E6%B5%B7%E5%A4%96%E5%B7%A5%E4%BD%9C%E8%A8%88%E7%95%AB/2.1%20%E6%A2%9D%E4%BB%B6%E5%BC%8F%E5%85%A5%E5%AD%B8%E6%98%AF%E4%B8%80%E5%80%8B%E6%88%90%E6%9C%AC%E9%AB%98%E4%BD%86%E5%8F%AF%E4%BB%A5%E9%81%BF%E5%85%8D%E6%88%90%E7%B8%BE%E4%B8%8D%E5%A4%A0%E7%9A%84%E5%85%A5%E5%AD%B8%E6%96%B9%E5%BC%8F.md"
+          },
+          {
+            "name": "2.2 出國預算盤點.md",
+            "type": "file",
+            "path": "2. 海外工作計畫/2.2 出國預算盤點.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/2.%20%E6%B5%B7%E5%A4%96%E5%B7%A5%E4%BD%9C%E8%A8%88%E7%95%AB/2.2%20%E5%87%BA%E5%9C%8B%E9%A0%90%E7%AE%97%E7%9B%A4%E9%BB%9E.md"
+          },
+          {
+            "name": "2.3 海外求職管道.md",
+            "type": "file",
+            "path": "2. 海外工作計畫/2.3 海外求職管道.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/2.%20%E6%B5%B7%E5%A4%96%E5%B7%A5%E4%BD%9C%E8%A8%88%E7%95%AB/2.3%20%E6%B5%B7%E5%A4%96%E6%B1%82%E8%81%B7%E7%AE%A1%E9%81%93.md"
+          },
+          {
+            "name": "2.4 出國工作的LIST循環.md",
+            "type": "file",
+            "path": "2. 海外工作計畫/2.4 出國工作的LIST循環.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/2.%20%E6%B5%B7%E5%A4%96%E5%B7%A5%E4%BD%9C%E8%A8%88%E7%95%AB/2.4%20%E5%87%BA%E5%9C%8B%E5%B7%A5%E4%BD%9C%E7%9A%84LIST%E5%BE%AA%E7%92%B0.md"
+          },
+          {
+            "name": "2.4a Localize 融入當地.md",
+            "type": "file",
+            "path": "2. 海外工作計畫/2.4a Localize 融入當地.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/2.%20%E6%B5%B7%E5%A4%96%E5%B7%A5%E4%BD%9C%E8%A8%88%E7%95%AB/2.4a%20Localize%20%E8%9E%8D%E5%85%A5%E7%95%B6%E5%9C%B0.md"
+          },
+          {
+            "name": "2.4a1 如何決定地點？.md",
+            "type": "file",
+            "path": "2. 海外工作計畫/2.4a1 如何決定地點？.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/2.%20%E6%B5%B7%E5%A4%96%E5%B7%A5%E4%BD%9C%E8%A8%88%E7%95%AB/2.4a1%20%E5%A6%82%E4%BD%95%E6%B1%BA%E5%AE%9A%E5%9C%B0%E9%BB%9E%EF%BC%9F.md"
+          },
+          {
+            "name": "2.4a2 有關簽證.md",
+            "type": "file",
+            "path": "2. 海外工作計畫/2.4a2 有關簽證.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/2.%20%E6%B5%B7%E5%A4%96%E5%B7%A5%E4%BD%9C%E8%A8%88%E7%95%AB/2.4a2%20%E6%9C%89%E9%97%9C%E7%B0%BD%E8%AD%89.md"
+          },
+          {
+            "name": "2.4a3 外語能力.md",
+            "type": "file",
+            "path": "2. 海外工作計畫/2.4a3 外語能力.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/2.%20%E6%B5%B7%E5%A4%96%E5%B7%A5%E4%BD%9C%E8%A8%88%E7%95%AB/2.4a3%20%E5%A4%96%E8%AA%9E%E8%83%BD%E5%8A%9B.md"
+          },
+          {
+            "name": "2.4b Internationalize 跨出國界.md",
+            "type": "file",
+            "path": "2. 海外工作計畫/2.4b Internationalize 跨出國界.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/2.%20%E6%B5%B7%E5%A4%96%E5%B7%A5%E4%BD%9C%E8%A8%88%E7%95%AB/2.4b%20Internationalize%20%E8%B7%A8%E5%87%BA%E5%9C%8B%E7%95%8C.md"
+          },
+          {
+            "name": "2.4b1 撰寫一頁式履歷.md",
+            "type": "file",
+            "path": "2. 海外工作計畫/2.4b1 撰寫一頁式履歷.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/2.%20%E6%B5%B7%E5%A4%96%E5%B7%A5%E4%BD%9C%E8%A8%88%E7%95%AB/2.4b1%20%E6%92%B0%E5%AF%AB%E4%B8%80%E9%A0%81%E5%BC%8F%E5%B1%A5%E6%AD%B7.md"
+          },
+          {
+            "name": "2.4b2 Linkdin 經營.md",
+            "type": "file",
+            "path": "2. 海外工作計畫/2.4b2 Linkdin 經營.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/2.%20%E6%B5%B7%E5%A4%96%E5%B7%A5%E4%BD%9C%E8%A8%88%E7%95%AB/2.4b2%20Linkdin%20%E7%B6%93%E7%87%9F.md"
+          },
+          {
+            "name": "2.4c Strengthen 強化專業.md",
+            "type": "file",
+            "path": "2. 海外工作計畫/2.4c Strengthen 強化專業.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/2.%20%E6%B5%B7%E5%A4%96%E5%B7%A5%E4%BD%9C%E8%A8%88%E7%95%AB/2.4c%20Strengthen%20%E5%BC%B7%E5%8C%96%E5%B0%88%E6%A5%AD.md"
+          },
+          {
+            "name": "2.4d Test 不斷測試.md",
+            "type": "file",
+            "path": "2. 海外工作計畫/2.4d Test 不斷測試.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/2.%20%E6%B5%B7%E5%A4%96%E5%B7%A5%E4%BD%9C%E8%A8%88%E7%95%AB/2.4d%20Test%20%E4%B8%8D%E6%96%B7%E6%B8%AC%E8%A9%A6.md"
+          },
+          {
+            "name": "2.4z Why?為什麼要出國？.md",
+            "type": "file",
+            "path": "2. 海外工作計畫/2.4z Why?為什麼要出國？.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/2.%20%E6%B5%B7%E5%A4%96%E5%B7%A5%E4%BD%9C%E8%A8%88%E7%95%AB/2.4z%20Why%3F%E7%82%BA%E4%BB%80%E9%BA%BC%E8%A6%81%E5%87%BA%E5%9C%8B%EF%BC%9F.md"
+          },
+          {
+            "name": "軟體工程師在愛爾蘭.md",
+            "type": "file",
+            "path": "2. 海外工作計畫/軟體工程師在愛爾蘭.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/2.%20%E6%B5%B7%E5%A4%96%E5%B7%A5%E4%BD%9C%E8%A8%88%E7%95%AB/%E8%BB%9F%E9%AB%94%E5%B7%A5%E7%A8%8B%E5%B8%AB%E5%9C%A8%E6%84%9B%E7%88%BE%E8%98%AD.md"
+          }
+        ]
+      },
+      {
+        "name": "3. 人生的價值觀",
+        "type": "directory",
+        "path": "3. 人生的價值觀",
+        "children": [
+          {
+            "name": "images",
+            "type": "directory",
+            "path": "3. 人生的價值觀/images",
+            "children": []
+          },
+          {
+            "name": "3.1 把投票當成職業運動比賽.md",
+            "type": "file",
+            "path": "3. 人生的價值觀/3.1 把投票當成職業運動比賽.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/3.%20%E4%BA%BA%E7%94%9F%E7%9A%84%E5%83%B9%E5%80%BC%E8%A7%80/3.1%20%E6%8A%8A%E6%8A%95%E7%A5%A8%E7%95%B6%E6%88%90%E8%81%B7%E6%A5%AD%E9%81%8B%E5%8B%95%E6%AF%94%E8%B3%BD.md"
+          },
+          {
+            "name": "3.10 自我觀察，我似乎蠻擅長講故事？.md",
+            "type": "file",
+            "path": "3. 人生的價值觀/3.10 自我觀察，我似乎蠻擅長講故事？.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/3.%20%E4%BA%BA%E7%94%9F%E7%9A%84%E5%83%B9%E5%80%BC%E8%A7%80/3.10%20%E8%87%AA%E6%88%91%E8%A7%80%E5%AF%9F%EF%BC%8C%E6%88%91%E4%BC%BC%E4%B9%8E%E8%A0%BB%E6%93%85%E9%95%B7%E8%AC%9B%E6%95%85%E4%BA%8B%EF%BC%9F.md"
+          },
+          {
+            "name": "3.11 Goal, Purpose, Mission, and Telos.md",
+            "type": "file",
+            "path": "3. 人生的價值觀/3.11 Goal, Purpose, Mission, and Telos.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/3.%20%E4%BA%BA%E7%94%9F%E7%9A%84%E5%83%B9%E5%80%BC%E8%A7%80/3.11%20Goal%2C%20Purpose%2C%20Mission%2C%20and%20Telos.md"
+          },
+          {
+            "name": "3.11a 四者的關係.md",
+            "type": "file",
+            "path": "3. 人生的價值觀/3.11a 四者的關係.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/3.%20%E4%BA%BA%E7%94%9F%E7%9A%84%E5%83%B9%E5%80%BC%E8%A7%80/3.11a%20%E5%9B%9B%E8%80%85%E7%9A%84%E9%97%9C%E4%BF%82.md"
+          },
+          {
+            "name": "3.12 野生問題 - 那些不做不知道的事情.md",
+            "type": "file",
+            "path": "3. 人生的價值觀/3.12 野生問題 - 那些不做不知道的事情.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/3.%20%E4%BA%BA%E7%94%9F%E7%9A%84%E5%83%B9%E5%80%BC%E8%A7%80/3.12%20%E9%87%8E%E7%94%9F%E5%95%8F%E9%A1%8C%20-%20%E9%82%A3%E4%BA%9B%E4%B8%8D%E5%81%9A%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E4%BA%8B%E6%83%85.md"
+          },
+          {
+            "name": "3.13 Eudaimonia 追求繁榮的人 - 發揮個人潛能、實現意義與成就.md",
+            "type": "file",
+            "path": "3. 人生的價值觀/3.13 Eudaimonia 追求繁榮的人 - 發揮個人潛能、實現意義與成就.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/3.%20%E4%BA%BA%E7%94%9F%E7%9A%84%E5%83%B9%E5%80%BC%E8%A7%80/3.13%20Eudaimonia%20%E8%BF%BD%E6%B1%82%E7%B9%81%E6%A6%AE%E7%9A%84%E4%BA%BA%20-%20%E7%99%BC%E6%8F%AE%E5%80%8B%E4%BA%BA%E6%BD%9B%E8%83%BD%E3%80%81%E5%AF%A6%E7%8F%BE%E6%84%8F%E7%BE%A9%E8%88%87%E6%88%90%E5%B0%B1.md"
+          },
+          {
+            "name": "3.14 一切都是被決定好的，但放心，你還是獨一無二且無法被預測的.md",
+            "type": "file",
+            "path": "3. 人生的價值觀/3.14 一切都是被決定好的，但放心，你還是獨一無二且無法被預測的.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/3.%20%E4%BA%BA%E7%94%9F%E7%9A%84%E5%83%B9%E5%80%BC%E8%A7%80/3.14%20%E4%B8%80%E5%88%87%E9%83%BD%E6%98%AF%E8%A2%AB%E6%B1%BA%E5%AE%9A%E5%A5%BD%E7%9A%84%EF%BC%8C%E4%BD%86%E6%94%BE%E5%BF%83%EF%BC%8C%E4%BD%A0%E9%82%84%E6%98%AF%E7%8D%A8%E4%B8%80%E7%84%A1%E4%BA%8C%E4%B8%94%E7%84%A1%E6%B3%95%E8%A2%AB%E9%A0%90%E6%B8%AC%E7%9A%84.md"
+          },
+          {
+            "name": "3.15 關於我的擇偶條件和愛情觀.md",
+            "type": "file",
+            "path": "3. 人生的價值觀/3.15 關於我的擇偶條件和愛情觀.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/3.%20%E4%BA%BA%E7%94%9F%E7%9A%84%E5%83%B9%E5%80%BC%E8%A7%80/3.15%20%E9%97%9C%E6%96%BC%E6%88%91%E7%9A%84%E6%93%87%E5%81%B6%E6%A2%9D%E4%BB%B6%E5%92%8C%E6%84%9B%E6%83%85%E8%A7%80.md"
+          },
+          {
+            "name": "3.15a 感情不用一開始就傾盡所有，但只要我認定對方值得，我會毫無保留。因為我寧願受傷，也不要遺憾。.md",
+            "type": "file",
+            "path": "3. 人生的價值觀/3.15a 感情不用一開始就傾盡所有，但只要我認定對方值得，我會毫無保留。因為我寧願受傷，也不要遺憾。.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/3.%20%E4%BA%BA%E7%94%9F%E7%9A%84%E5%83%B9%E5%80%BC%E8%A7%80/3.15a%20%E6%84%9F%E6%83%85%E4%B8%8D%E7%94%A8%E4%B8%80%E9%96%8B%E5%A7%8B%E5%B0%B1%E5%82%BE%E7%9B%A1%E6%89%80%E6%9C%89%EF%BC%8C%E4%BD%86%E5%8F%AA%E8%A6%81%E6%88%91%E8%AA%8D%E5%AE%9A%E5%B0%8D%E6%96%B9%E5%80%BC%E5%BE%97%EF%BC%8C%E6%88%91%E6%9C%83%E6%AF%AB%E7%84%A1%E4%BF%9D%E7%95%99%E3%80%82%E5%9B%A0%E7%82%BA%E6%88%91%E5%AF%A7%E9%A1%98%E5%8F%97%E5%82%B7%EF%BC%8C%E4%B9%9F%E4%B8%8D%E8%A6%81%E9%81%BA%E6%86%BE%E3%80%82.md"
+          },
+          {
+            "name": "3.15b 延伸：感情不用一開始就傾盡所有，但只要我認定對方值得，我會毫無保留。因為我寧願受傷，也不要遺憾跟後悔。但我也該學著保留點空間，接受他人的愛，讓對方有機會來愛我。.md",
+            "type": "file",
+            "path": "3. 人生的價值觀/3.15b 延伸：感情不用一開始就傾盡所有，但只要我認定對方值得，我會毫無保留。因為我寧願受傷，也不要遺憾跟後悔。但我也該學著保留點空間，接受他人的愛，讓對方有機會來愛我。.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/3.%20%E4%BA%BA%E7%94%9F%E7%9A%84%E5%83%B9%E5%80%BC%E8%A7%80/3.15b%20%E5%BB%B6%E4%BC%B8%EF%BC%9A%E6%84%9F%E6%83%85%E4%B8%8D%E7%94%A8%E4%B8%80%E9%96%8B%E5%A7%8B%E5%B0%B1%E5%82%BE%E7%9B%A1%E6%89%80%E6%9C%89%EF%BC%8C%E4%BD%86%E5%8F%AA%E8%A6%81%E6%88%91%E8%AA%8D%E5%AE%9A%E5%B0%8D%E6%96%B9%E5%80%BC%E5%BE%97%EF%BC%8C%E6%88%91%E6%9C%83%E6%AF%AB%E7%84%A1%E4%BF%9D%E7%95%99%E3%80%82%E5%9B%A0%E7%82%BA%E6%88%91%E5%AF%A7%E9%A1%98%E5%8F%97%E5%82%B7%EF%BC%8C%E4%B9%9F%E4%B8%8D%E8%A6%81%E9%81%BA%E6%86%BE%E8%B7%9F%E5%BE%8C%E6%82%94%E3%80%82%E4%BD%86%E6%88%91%E4%B9%9F%E8%A9%B2%E5%AD%B8%E8%91%97%E4%BF%9D%E7%95%99%E9%BB%9E%E7%A9%BA%E9%96%93%EF%BC%8C%E6%8E%A5%E5%8F%97%E4%BB%96%E4%BA%BA%E7%9A%84%E6%84%9B%EF%BC%8C%E8%AE%93%E5%B0%8D%E6%96%B9%E6%9C%89%E6%A9%9F%E6%9C%83%E4%BE%86%E6%84%9B%E6%88%91%E3%80%82.md"
+          },
+          {
+            "name": "3.16 新發現！我會用文字結構來思考，但疲倦時不一樣.md",
+            "type": "file",
+            "path": "3. 人生的價值觀/3.16 新發現！我會用文字結構來思考，但疲倦時不一樣.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/3.%20%E4%BA%BA%E7%94%9F%E7%9A%84%E5%83%B9%E5%80%BC%E8%A7%80/3.16%20%E6%96%B0%E7%99%BC%E7%8F%BE%EF%BC%81%E6%88%91%E6%9C%83%E7%94%A8%E6%96%87%E5%AD%97%E7%B5%90%E6%A7%8B%E4%BE%86%E6%80%9D%E8%80%83%EF%BC%8C%E4%BD%86%E7%96%B2%E5%80%A6%E6%99%82%E4%B8%8D%E4%B8%80%E6%A8%A3.md"
+          },
+          {
+            "name": "3.17 認知閉合需要與認知需要.md",
+            "type": "file",
+            "path": "3. 人生的價值觀/3.17 認知閉合需要與認知需要.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/3.%20%E4%BA%BA%E7%94%9F%E7%9A%84%E5%83%B9%E5%80%BC%E8%A7%80/3.17%20%E8%AA%8D%E7%9F%A5%E9%96%89%E5%90%88%E9%9C%80%E8%A6%81%E8%88%87%E8%AA%8D%E7%9F%A5%E9%9C%80%E8%A6%81.md"
+          },
+          {
+            "name": "3.17a 認知閉合 X 安全感 X 焦慮.md",
+            "type": "file",
+            "path": "3. 人生的價值觀/3.17a 認知閉合 X 安全感 X 焦慮.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/3.%20%E4%BA%BA%E7%94%9F%E7%9A%84%E5%83%B9%E5%80%BC%E8%A7%80/3.17a%20%E8%AA%8D%E7%9F%A5%E9%96%89%E5%90%88%20X%20%E5%AE%89%E5%85%A8%E6%84%9F%20X%20%E7%84%A6%E6%85%AE.md"
+          },
+          {
+            "name": "3.18 原始世界信念 Primal World Beliefs.md",
+            "type": "file",
+            "path": "3. 人生的價值觀/3.18 原始世界信念 Primal World Beliefs.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/3.%20%E4%BA%BA%E7%94%9F%E7%9A%84%E5%83%B9%E5%80%BC%E8%A7%80/3.18%20%E5%8E%9F%E5%A7%8B%E4%B8%96%E7%95%8C%E4%BF%A1%E5%BF%B5%20Primal%20World%20Beliefs.md"
+          },
+          {
+            "name": "3.19 不只要找到自己不要什麼，也要找到自己要什麼。.md",
+            "type": "file",
+            "path": "3. 人生的價值觀/3.19 不只要找到自己不要什麼，也要找到自己要什麼。.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/3.%20%E4%BA%BA%E7%94%9F%E7%9A%84%E5%83%B9%E5%80%BC%E8%A7%80/3.19%20%E4%B8%8D%E5%8F%AA%E8%A6%81%E6%89%BE%E5%88%B0%E8%87%AA%E5%B7%B1%E4%B8%8D%E8%A6%81%E4%BB%80%E9%BA%BC%EF%BC%8C%E4%B9%9F%E8%A6%81%E6%89%BE%E5%88%B0%E8%87%AA%E5%B7%B1%E8%A6%81%E4%BB%80%E9%BA%BC%E3%80%82.md"
+          },
+          {
+            "name": "3.1a 每個人都是含淚投票，因為沒有人是完人。.md",
+            "type": "file",
+            "path": "3. 人生的價值觀/3.1a 每個人都是含淚投票，因為沒有人是完人。.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/3.%20%E4%BA%BA%E7%94%9F%E7%9A%84%E5%83%B9%E5%80%BC%E8%A7%80/3.1a%20%E6%AF%8F%E5%80%8B%E4%BA%BA%E9%83%BD%E6%98%AF%E5%90%AB%E6%B7%9A%E6%8A%95%E7%A5%A8%EF%BC%8C%E5%9B%A0%E7%82%BA%E6%B2%92%E6%9C%89%E4%BA%BA%E6%98%AF%E5%AE%8C%E4%BA%BA%E3%80%82.md"
+          },
+          {
+            "name": "3.1b 該支持的是民主，而不是台灣？.md",
+            "type": "file",
+            "path": "3. 人生的價值觀/3.1b 該支持的是民主，而不是台灣？.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/3.%20%E4%BA%BA%E7%94%9F%E7%9A%84%E5%83%B9%E5%80%BC%E8%A7%80/3.1b%20%E8%A9%B2%E6%94%AF%E6%8C%81%E7%9A%84%E6%98%AF%E6%B0%91%E4%B8%BB%EF%BC%8C%E8%80%8C%E4%B8%8D%E6%98%AF%E5%8F%B0%E7%81%A3%EF%BC%9F.md"
+          },
+          {
+            "name": "3.2 對於媒體娛樂業有不明所以的厭惡.md",
+            "type": "file",
+            "path": "3. 人生的價值觀/3.2 對於媒體娛樂業有不明所以的厭惡.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/3.%20%E4%BA%BA%E7%94%9F%E7%9A%84%E5%83%B9%E5%80%BC%E8%A7%80/3.2%20%E5%B0%8D%E6%96%BC%E5%AA%92%E9%AB%94%E5%A8%9B%E6%A8%82%E6%A5%AD%E6%9C%89%E4%B8%8D%E6%98%8E%E6%89%80%E4%BB%A5%E7%9A%84%E5%8E%AD%E6%83%A1.md"
+          },
+          {
+            "name": "3.3 一邊自我實現，一邊自我發現。.md",
+            "type": "file",
+            "path": "3. 人生的價值觀/3.3 一邊自我實現，一邊自我發現。.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/3.%20%E4%BA%BA%E7%94%9F%E7%9A%84%E5%83%B9%E5%80%BC%E8%A7%80/3.3%20%E4%B8%80%E9%82%8A%E8%87%AA%E6%88%91%E5%AF%A6%E7%8F%BE%EF%BC%8C%E4%B8%80%E9%82%8A%E8%87%AA%E6%88%91%E7%99%BC%E7%8F%BE%E3%80%82.md"
+          },
+          {
+            "name": "3.4 愛自己是認知到自己被不應得的愛給愛著.md",
+            "type": "file",
+            "path": "3. 人生的價值觀/3.4 愛自己是認知到自己被不應得的愛給愛著.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/3.%20%E4%BA%BA%E7%94%9F%E7%9A%84%E5%83%B9%E5%80%BC%E8%A7%80/3.4%20%E6%84%9B%E8%87%AA%E5%B7%B1%E6%98%AF%E8%AA%8D%E7%9F%A5%E5%88%B0%E8%87%AA%E5%B7%B1%E8%A2%AB%E4%B8%8D%E6%87%89%E5%BE%97%E7%9A%84%E6%84%9B%E7%B5%A6%E6%84%9B%E8%91%97.md"
+          },
+          {
+            "name": "3.4a 愛自己是照護好自己.md",
+            "type": "file",
+            "path": "3. 人生的價值觀/3.4a 愛自己是照護好自己.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/3.%20%E4%BA%BA%E7%94%9F%E7%9A%84%E5%83%B9%E5%80%BC%E8%A7%80/3.4a%20%E6%84%9B%E8%87%AA%E5%B7%B1%E6%98%AF%E7%85%A7%E8%AD%B7%E5%A5%BD%E8%87%AA%E5%B7%B1.md"
+          },
+          {
+            "name": "3.5 快樂要間隔，因為你不想習慣它；痛苦要集中，因為習慣能減輕痛苦。.md",
+            "type": "file",
+            "path": "3. 人生的價值觀/3.5 快樂要間隔，因為你不想習慣它；痛苦要集中，因為習慣能減輕痛苦。.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/3.%20%E4%BA%BA%E7%94%9F%E7%9A%84%E5%83%B9%E5%80%BC%E8%A7%80/3.5%20%E5%BF%AB%E6%A8%82%E8%A6%81%E9%96%93%E9%9A%94%EF%BC%8C%E5%9B%A0%E7%82%BA%E4%BD%A0%E4%B8%8D%E6%83%B3%E7%BF%92%E6%85%A3%E5%AE%83%EF%BC%9B%E7%97%9B%E8%8B%A6%E8%A6%81%E9%9B%86%E4%B8%AD%EF%BC%8C%E5%9B%A0%E7%82%BA%E7%BF%92%E6%85%A3%E8%83%BD%E6%B8%9B%E8%BC%95%E7%97%9B%E8%8B%A6%E3%80%82.md"
+          },
+          {
+            "name": "3.6 安全感有兩種 位置與自身.md",
+            "type": "file",
+            "path": "3. 人生的價值觀/3.6 安全感有兩種 位置與自身.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/3.%20%E4%BA%BA%E7%94%9F%E7%9A%84%E5%83%B9%E5%80%BC%E8%A7%80/3.6%20%E5%AE%89%E5%85%A8%E6%84%9F%E6%9C%89%E5%85%A9%E7%A8%AE%20%E4%BD%8D%E7%BD%AE%E8%88%87%E8%87%AA%E8%BA%AB.md"
+          },
+          {
+            "name": "3.7 地位跟金錢都該只是副產品.md",
+            "type": "file",
+            "path": "3. 人生的價值觀/3.7 地位跟金錢都該只是副產品.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/3.%20%E4%BA%BA%E7%94%9F%E7%9A%84%E5%83%B9%E5%80%BC%E8%A7%80/3.7%20%E5%9C%B0%E4%BD%8D%E8%B7%9F%E9%87%91%E9%8C%A2%E9%83%BD%E8%A9%B2%E5%8F%AA%E6%98%AF%E5%89%AF%E7%94%A2%E5%93%81.md"
+          },
+          {
+            "name": "3.8 量化是手段而不是目的，它不該是目的.md",
+            "type": "file",
+            "path": "3. 人生的價值觀/3.8 量化是手段而不是目的，它不該是目的.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/3.%20%E4%BA%BA%E7%94%9F%E7%9A%84%E5%83%B9%E5%80%BC%E8%A7%80/3.8%20%E9%87%8F%E5%8C%96%E6%98%AF%E6%89%8B%E6%AE%B5%E8%80%8C%E4%B8%8D%E6%98%AF%E7%9B%AE%E7%9A%84%EF%BC%8C%E5%AE%83%E4%B8%8D%E8%A9%B2%E6%98%AF%E7%9B%AE%E7%9A%84.md"
+          },
+          {
+            "name": "3.9 貝葉斯信念-自我修正的機制.md",
+            "type": "file",
+            "path": "3. 人生的價值觀/3.9 貝葉斯信念-自我修正的機制.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/3.%20%E4%BA%BA%E7%94%9F%E7%9A%84%E5%83%B9%E5%80%BC%E8%A7%80/3.9%20%E8%B2%9D%E8%91%89%E6%96%AF%E4%BF%A1%E5%BF%B5-%E8%87%AA%E6%88%91%E4%BF%AE%E6%AD%A3%E7%9A%84%E6%A9%9F%E5%88%B6.md"
+          },
+          {
+            "name": "3.9a 民主和科學 - 貝葉斯信念.md",
+            "type": "file",
+            "path": "3. 人生的價值觀/3.9a 民主和科學 - 貝葉斯信念.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/3.%20%E4%BA%BA%E7%94%9F%E7%9A%84%E5%83%B9%E5%80%BC%E8%A7%80/3.9a%20%E6%B0%91%E4%B8%BB%E5%92%8C%E7%A7%91%E5%AD%B8%20-%20%E8%B2%9D%E8%91%89%E6%96%AF%E4%BF%A1%E5%BF%B5.md"
+          },
+          {
+            "name": "3.9a1 罷免制度真的有必要嗎？.md",
+            "type": "file",
+            "path": "3. 人生的價值觀/3.9a1 罷免制度真的有必要嗎？.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/3.%20%E4%BA%BA%E7%94%9F%E7%9A%84%E5%83%B9%E5%80%BC%E8%A7%80/3.9a1%20%E7%BD%B7%E5%85%8D%E5%88%B6%E5%BA%A6%E7%9C%9F%E7%9A%84%E6%9C%89%E5%BF%85%E8%A6%81%E5%97%8E%EF%BC%9F.md"
+          }
+        ]
+      },
+      {
+        "name": "4. 軟體開發",
+        "type": "directory",
+        "path": "4. 軟體開發",
+        "children": [
+          {
+            "name": "4.1 物件導向設計",
+            "type": "directory",
+            "path": "4. 軟體開發/4.1 物件導向設計",
+            "children": [
+              {
+                "name": "4.1b SOLID",
+                "type": "directory",
+                "path": "4. 軟體開發/4.1 物件導向設計/4.1b SOLID",
+                "children": [
+                  {
+                    "name": "4.1b1 SOLID 原則.md",
+                    "type": "file",
+                    "path": "4. 軟體開發/4.1 物件導向設計/4.1b SOLID/4.1b1 SOLID 原則.md",
+                    "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.1%20%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91%E8%A8%AD%E8%A8%88/4.1b%20SOLID/4.1b1%20SOLID%20%E5%8E%9F%E5%89%87.md"
+                  },
+                  {
+                    "name": "4.1b2 OCP 開放封閉原則.md",
+                    "type": "file",
+                    "path": "4. 軟體開發/4.1 物件導向設計/4.1b SOLID/4.1b2 OCP 開放封閉原則.md",
+                    "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.1%20%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91%E8%A8%AD%E8%A8%88/4.1b%20SOLID/4.1b2%20OCP%20%E9%96%8B%E6%94%BE%E5%B0%81%E9%96%89%E5%8E%9F%E5%89%87.md"
+                  },
+                  {
+                    "name": "4.1b3 SRP 單一職責原則.md",
+                    "type": "file",
+                    "path": "4. 軟體開發/4.1 物件導向設計/4.1b SOLID/4.1b3 SRP 單一職責原則.md",
+                    "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.1%20%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91%E8%A8%AD%E8%A8%88/4.1b%20SOLID/4.1b3%20SRP%20%E5%96%AE%E4%B8%80%E8%81%B7%E8%B2%AC%E5%8E%9F%E5%89%87.md"
+                  },
+                  {
+                    "name": "4.1b4 LSP里氏替換原則.md",
+                    "type": "file",
+                    "path": "4. 軟體開發/4.1 物件導向設計/4.1b SOLID/4.1b4 LSP里氏替換原則.md",
+                    "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.1%20%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91%E8%A8%AD%E8%A8%88/4.1b%20SOLID/4.1b4%20LSP%E9%87%8C%E6%B0%8F%E6%9B%BF%E6%8F%9B%E5%8E%9F%E5%89%87.md"
+                  },
+                  {
+                    "name": "4.1b5 ISP介面隔離原則.md",
+                    "type": "file",
+                    "path": "4. 軟體開發/4.1 物件導向設計/4.1b SOLID/4.1b5 ISP介面隔離原則.md",
+                    "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.1%20%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91%E8%A8%AD%E8%A8%88/4.1b%20SOLID/4.1b5%20ISP%E4%BB%8B%E9%9D%A2%E9%9A%94%E9%9B%A2%E5%8E%9F%E5%89%87.md"
+                  },
+                  {
+                    "name": "4.1b6 DIP 依賴倒置原則.md",
+                    "type": "file",
+                    "path": "4. 軟體開發/4.1 物件導向設計/4.1b SOLID/4.1b6 DIP 依賴倒置原則.md",
+                    "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.1%20%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91%E8%A8%AD%E8%A8%88/4.1b%20SOLID/4.1b6%20DIP%20%E4%BE%9D%E8%B3%B4%E5%80%92%E7%BD%AE%E5%8E%9F%E5%89%87.md"
+                  }
+                ]
+              },
+              {
+                "name": "4.1c 設計模式原則",
+                "type": "directory",
+                "path": "4. 軟體開發/4.1 物件導向設計/4.1c 設計模式原則",
+                "children": [
+                  {
+                    "name": "4.1c1 設計模式的六大原則.md",
+                    "type": "file",
+                    "path": "4. 軟體開發/4.1 物件導向設計/4.1c 設計模式原則/4.1c1 設計模式的六大原則.md",
+                    "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.1%20%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91%E8%A8%AD%E8%A8%88/4.1c%20%E8%A8%AD%E8%A8%88%E6%A8%A1%E5%BC%8F%E5%8E%9F%E5%89%87/4.1c1%20%E8%A8%AD%E8%A8%88%E6%A8%A1%E5%BC%8F%E7%9A%84%E5%85%AD%E5%A4%A7%E5%8E%9F%E5%89%87.md"
+                  },
+                  {
+                    "name": "4.1c2 LoD原則.md",
+                    "type": "file",
+                    "path": "4. 軟體開發/4.1 物件導向設計/4.1c 設計模式原則/4.1c2 LoD原則.md",
+                    "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.1%20%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91%E8%A8%AD%E8%A8%88/4.1c%20%E8%A8%AD%E8%A8%88%E6%A8%A1%E5%BC%8F%E5%8E%9F%E5%89%87/4.1c2%20LoD%E5%8E%9F%E5%89%87.md"
+                  },
+                  {
+                    "name": "4.1c3 DRY原則.md",
+                    "type": "file",
+                    "path": "4. 軟體開發/4.1 物件導向設計/4.1c 設計模式原則/4.1c3 DRY原則.md",
+                    "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.1%20%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91%E8%A8%AD%E8%A8%88/4.1c%20%E8%A8%AD%E8%A8%88%E6%A8%A1%E5%BC%8F%E5%8E%9F%E5%89%87/4.1c3%20DRY%E5%8E%9F%E5%89%87.md"
+                  },
+                  {
+                    "name": "4.1c4 KISS原則.md",
+                    "type": "file",
+                    "path": "4. 軟體開發/4.1 物件導向設計/4.1c 設計模式原則/4.1c4 KISS原則.md",
+                    "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.1%20%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91%E8%A8%AD%E8%A8%88/4.1c%20%E8%A8%AD%E8%A8%88%E6%A8%A1%E5%BC%8F%E5%8E%9F%E5%89%87/4.1c4%20KISS%E5%8E%9F%E5%89%87.md"
+                  },
+                  {
+                    "name": "4.1c5 YAGNI原則.md",
+                    "type": "file",
+                    "path": "4. 軟體開發/4.1 物件導向設計/4.1c 設計模式原則/4.1c5 YAGNI原則.md",
+                    "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.1%20%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91%E8%A8%AD%E8%A8%88/4.1c%20%E8%A8%AD%E8%A8%88%E6%A8%A1%E5%BC%8F%E5%8E%9F%E5%89%87/4.1c5%20YAGNI%E5%8E%9F%E5%89%87.md"
+                  },
+                  {
+                    "name": "4.1c6 CQS原則.md",
+                    "type": "file",
+                    "path": "4. 軟體開發/4.1 物件導向設計/4.1c 設計模式原則/4.1c6 CQS原則.md",
+                    "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.1%20%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91%E8%A8%AD%E8%A8%88/4.1c%20%E8%A8%AD%E8%A8%88%E6%A8%A1%E5%BC%8F%E5%8E%9F%E5%89%87/4.1c6%20CQS%E5%8E%9F%E5%89%87.md"
+                  },
+                  {
+                    "name": "4.1c7 Rule Of Three原則.md",
+                    "type": "file",
+                    "path": "4. 軟體開發/4.1 物件導向設計/4.1c 設計模式原則/4.1c7 Rule Of Three原則.md",
+                    "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.1%20%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91%E8%A8%AD%E8%A8%88/4.1c%20%E8%A8%AD%E8%A8%88%E6%A8%A1%E5%BC%8F%E5%8E%9F%E5%89%87/4.1c7%20Rule%20Of%20Three%E5%8E%9F%E5%89%87.md"
+                  }
+                ]
+              },
+              {
+                "name": "4.1d 設計模式",
+                "type": "directory",
+                "path": "4. 軟體開發/4.1 物件導向設計/4.1d 設計模式",
+                "children": [
+                  {
+                    "name": "4.1d2 行為型模式",
+                    "type": "directory",
+                    "path": "4. 軟體開發/4.1 物件導向設計/4.1d 設計模式/4.1d2 行為型模式",
+                    "children": [
+                      {
+                        "name": "4.1d2a 職責鏈模式.md",
+                        "type": "file",
+                        "path": "4. 軟體開發/4.1 物件導向設計/4.1d 設計模式/4.1d2 行為型模式/4.1d2a 職責鏈模式.md",
+                        "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.1%20%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91%E8%A8%AD%E8%A8%88/4.1d%20%E8%A8%AD%E8%A8%88%E6%A8%A1%E5%BC%8F/4.1d2%20%E8%A1%8C%E7%82%BA%E5%9E%8B%E6%A8%A1%E5%BC%8F/4.1d2a%20%E8%81%B7%E8%B2%AC%E9%8F%88%E6%A8%A1%E5%BC%8F.md"
+                      },
+                      {
+                        "name": "4.1d2b 策略模式.md",
+                        "type": "file",
+                        "path": "4. 軟體開發/4.1 物件導向設計/4.1d 設計模式/4.1d2 行為型模式/4.1d2b 策略模式.md",
+                        "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.1%20%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91%E8%A8%AD%E8%A8%88/4.1d%20%E8%A8%AD%E8%A8%88%E6%A8%A1%E5%BC%8F/4.1d2%20%E8%A1%8C%E7%82%BA%E5%9E%8B%E6%A8%A1%E5%BC%8F/4.1d2b%20%E7%AD%96%E7%95%A5%E6%A8%A1%E5%BC%8F.md"
+                      },
+                      {
+                        "name": "4.1d2b1 策略模式跟工廠模式很像？.md",
+                        "type": "file",
+                        "path": "4. 軟體開發/4.1 物件導向設計/4.1d 設計模式/4.1d2 行為型模式/4.1d2b1 策略模式跟工廠模式很像？.md",
+                        "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.1%20%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91%E8%A8%AD%E8%A8%88/4.1d%20%E8%A8%AD%E8%A8%88%E6%A8%A1%E5%BC%8F/4.1d2%20%E8%A1%8C%E7%82%BA%E5%9E%8B%E6%A8%A1%E5%BC%8F/4.1d2b1%20%E7%AD%96%E7%95%A5%E6%A8%A1%E5%BC%8F%E8%B7%9F%E5%B7%A5%E5%BB%A0%E6%A8%A1%E5%BC%8F%E5%BE%88%E5%83%8F%EF%BC%9F.md"
+                      },
+                      {
+                        "name": "4.1d2c 觀察者模式.md",
+                        "type": "file",
+                        "path": "4. 軟體開發/4.1 物件導向設計/4.1d 設計模式/4.1d2 行為型模式/4.1d2c 觀察者模式.md",
+                        "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.1%20%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91%E8%A8%AD%E8%A8%88/4.1d%20%E8%A8%AD%E8%A8%88%E6%A8%A1%E5%BC%8F/4.1d2%20%E8%A1%8C%E7%82%BA%E5%9E%8B%E6%A8%A1%E5%BC%8F/4.1d2c%20%E8%A7%80%E5%AF%9F%E8%80%85%E6%A8%A1%E5%BC%8F.md"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "4.1d3 結構型模式",
+                    "type": "directory",
+                    "path": "4. 軟體開發/4.1 物件導向設計/4.1d 設計模式/4.1d3 結構型模式",
+                    "children": [
+                      {
+                        "name": "4.1d3a 適配器模式.md",
+                        "type": "file",
+                        "path": "4. 軟體開發/4.1 物件導向設計/4.1d 設計模式/4.1d3 結構型模式/4.1d3a 適配器模式.md",
+                        "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.1%20%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91%E8%A8%AD%E8%A8%88/4.1d%20%E8%A8%AD%E8%A8%88%E6%A8%A1%E5%BC%8F/4.1d3%20%E7%B5%90%E6%A7%8B%E5%9E%8B%E6%A8%A1%E5%BC%8F/4.1d3a%20%E9%81%A9%E9%85%8D%E5%99%A8%E6%A8%A1%E5%BC%8F.md"
+                      },
+                      {
+                        "name": "4.1d3b 組合模式.md",
+                        "type": "file",
+                        "path": "4. 軟體開發/4.1 物件導向設計/4.1d 設計模式/4.1d3 結構型模式/4.1d3b 組合模式.md",
+                        "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.1%20%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91%E8%A8%AD%E8%A8%88/4.1d%20%E8%A8%AD%E8%A8%88%E6%A8%A1%E5%BC%8F/4.1d3%20%E7%B5%90%E6%A7%8B%E5%9E%8B%E6%A8%A1%E5%BC%8F/4.1d3b%20%E7%B5%84%E5%90%88%E6%A8%A1%E5%BC%8F.md"
+                      },
+                      {
+                        "name": "4.1d3c 代理模式.md",
+                        "type": "file",
+                        "path": "4. 軟體開發/4.1 物件導向設計/4.1d 設計模式/4.1d3 結構型模式/4.1d3c 代理模式.md",
+                        "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.1%20%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91%E8%A8%AD%E8%A8%88/4.1d%20%E8%A8%AD%E8%A8%88%E6%A8%A1%E5%BC%8F/4.1d3%20%E7%B5%90%E6%A7%8B%E5%9E%8B%E6%A8%A1%E5%BC%8F/4.1d3c%20%E4%BB%A3%E7%90%86%E6%A8%A1%E5%BC%8F.md"
+                      },
+                      {
+                        "name": "4.1d3d 裝飾模式.md",
+                        "type": "file",
+                        "path": "4. 軟體開發/4.1 物件導向設計/4.1d 設計模式/4.1d3 結構型模式/4.1d3d 裝飾模式.md",
+                        "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.1%20%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91%E8%A8%AD%E8%A8%88/4.1d%20%E8%A8%AD%E8%A8%88%E6%A8%A1%E5%BC%8F/4.1d3%20%E7%B5%90%E6%A7%8B%E5%9E%8B%E6%A8%A1%E5%BC%8F/4.1d3d%20%E8%A3%9D%E9%A3%BE%E6%A8%A1%E5%BC%8F.md"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "4.1d4 創建式模式",
+                    "type": "directory",
+                    "path": "4. 軟體開發/4.1 物件導向設計/4.1d 設計模式/4.1d4 創建式模式",
+                    "children": [
+                      {
+                        "name": "4.1d4a 工廠模式.md",
+                        "type": "file",
+                        "path": "4. 軟體開發/4.1 物件導向設計/4.1d 設計模式/4.1d4 創建式模式/4.1d4a 工廠模式.md",
+                        "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.1%20%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91%E8%A8%AD%E8%A8%88/4.1d%20%E8%A8%AD%E8%A8%88%E6%A8%A1%E5%BC%8F/4.1d4%20%E5%89%B5%E5%BB%BA%E5%BC%8F%E6%A8%A1%E5%BC%8F/4.1d4a%20%E5%B7%A5%E5%BB%A0%E6%A8%A1%E5%BC%8F.md"
+                      },
+                      {
+                        "name": "4.1d4b 虛擬工廠模式.md",
+                        "type": "file",
+                        "path": "4. 軟體開發/4.1 物件導向設計/4.1d 設計模式/4.1d4 創建式模式/4.1d4b 虛擬工廠模式.md",
+                        "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.1%20%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91%E8%A8%AD%E8%A8%88/4.1d%20%E8%A8%AD%E8%A8%88%E6%A8%A1%E5%BC%8F/4.1d4%20%E5%89%B5%E5%BB%BA%E5%BC%8F%E6%A8%A1%E5%BC%8F/4.1d4b%20%E8%99%9B%E6%93%AC%E5%B7%A5%E5%BB%A0%E6%A8%A1%E5%BC%8F.md"
+                      },
+                      {
+                        "name": "4.1d4c 單例模式.md",
+                        "type": "file",
+                        "path": "4. 軟體開發/4.1 物件導向設計/4.1d 設計模式/4.1d4 創建式模式/4.1d4c 單例模式.md",
+                        "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.1%20%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91%E8%A8%AD%E8%A8%88/4.1d%20%E8%A8%AD%E8%A8%88%E6%A8%A1%E5%BC%8F/4.1d4%20%E5%89%B5%E5%BB%BA%E5%BC%8F%E6%A8%A1%E5%BC%8F/4.1d4c%20%E5%96%AE%E4%BE%8B%E6%A8%A1%E5%BC%8F.md"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "4.1d1 設計模式三大分類.md",
+                    "type": "file",
+                    "path": "4. 軟體開發/4.1 物件導向設計/4.1d 設計模式/4.1d1 設計模式三大分類.md",
+                    "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.1%20%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91%E8%A8%AD%E8%A8%88/4.1d%20%E8%A8%AD%E8%A8%88%E6%A8%A1%E5%BC%8F/4.1d1%20%E8%A8%AD%E8%A8%88%E6%A8%A1%E5%BC%8F%E4%B8%89%E5%A4%A7%E5%88%86%E9%A1%9E.md"
+                  }
+                ]
+              },
+              {
+                "name": "4.1e DDD",
+                "type": "directory",
+                "path": "4. 軟體開發/4.1 物件導向設計/4.1e DDD",
+                "children": [
+                  {
+                    "name": "4.1e1a 戰略設計",
+                    "type": "directory",
+                    "path": "4. 軟體開發/4.1 物件導向設計/4.1e DDD/4.1e1a 戰略設計",
+                    "children": []
+                  },
+                  {
+                    "name": "4.1e1b 戰術設計",
+                    "type": "directory",
+                    "path": "4. 軟體開發/4.1 物件導向設計/4.1e DDD/4.1e1b 戰術設計",
+                    "children": [
+                      {
+                        "name": "4.1e1b1 DDD四層結構介紹.md",
+                        "type": "file",
+                        "path": "4. 軟體開發/4.1 物件導向設計/4.1e DDD/4.1e1b 戰術設計/4.1e1b1 DDD四層結構介紹.md",
+                        "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.1%20%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91%E8%A8%AD%E8%A8%88/4.1e%20DDD/4.1e1b%20%E6%88%B0%E8%A1%93%E8%A8%AD%E8%A8%88/4.1e1b1%20DDD%E5%9B%9B%E5%B1%A4%E7%B5%90%E6%A7%8B%E4%BB%8B%E7%B4%B9.md"
+                      },
+                      {
+                        "name": "4.1e1b2 Interface.md",
+                        "type": "file",
+                        "path": "4. 軟體開發/4.1 物件導向設計/4.1e DDD/4.1e1b 戰術設計/4.1e1b2 Interface.md",
+                        "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.1%20%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91%E8%A8%AD%E8%A8%88/4.1e%20DDD/4.1e1b%20%E6%88%B0%E8%A1%93%E8%A8%AD%E8%A8%88/4.1e1b2%20Interface.md"
+                      },
+                      {
+                        "name": "4.1e1b3 Application.md",
+                        "type": "file",
+                        "path": "4. 軟體開發/4.1 物件導向設計/4.1e DDD/4.1e1b 戰術設計/4.1e1b3 Application.md",
+                        "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.1%20%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91%E8%A8%AD%E8%A8%88/4.1e%20DDD/4.1e1b%20%E6%88%B0%E8%A1%93%E8%A8%AD%E8%A8%88/4.1e1b3%20Application.md"
+                      },
+                      {
+                        "name": "4.1e1b4 Domain.md",
+                        "type": "file",
+                        "path": "4. 軟體開發/4.1 物件導向設計/4.1e DDD/4.1e1b 戰術設計/4.1e1b4 Domain.md",
+                        "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.1%20%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91%E8%A8%AD%E8%A8%88/4.1e%20DDD/4.1e1b%20%E6%88%B0%E8%A1%93%E8%A8%AD%E8%A8%88/4.1e1b4%20Domain.md"
+                      },
+                      {
+                        "name": "4.1e1b5 Infrastructure.md",
+                        "type": "file",
+                        "path": "4. 軟體開發/4.1 物件導向設計/4.1e DDD/4.1e1b 戰術設計/4.1e1b5 Infrastructure.md",
+                        "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.1%20%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91%E8%A8%AD%E8%A8%88/4.1e%20DDD/4.1e1b%20%E6%88%B0%E8%A1%93%E8%A8%AD%E8%A8%88/4.1e1b5%20Infrastructure.md"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "4.1e1c EDEP案例",
+                    "type": "directory",
+                    "path": "4. 軟體開發/4.1 物件導向設計/4.1e DDD/4.1e1c EDEP案例",
+                    "children": [
+                      {
+                        "name": "4.1e1c EDEP介紹.md",
+                        "type": "file",
+                        "path": "4. 軟體開發/4.1 物件導向設計/4.1e DDD/4.1e1c EDEP案例/4.1e1c EDEP介紹.md",
+                        "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.1%20%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91%E8%A8%AD%E8%A8%88/4.1e%20DDD/4.1e1c%20EDEP%E6%A1%88%E4%BE%8B/4.1e1c%20EDEP%E4%BB%8B%E7%B4%B9.md"
+                      },
+                      {
+                        "name": "4.1e1c1 微服務架構.md",
+                        "type": "file",
+                        "path": "4. 軟體開發/4.1 物件導向設計/4.1e DDD/4.1e1c EDEP案例/4.1e1c1 微服務架構.md",
+                        "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.1%20%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91%E8%A8%AD%E8%A8%88/4.1e%20DDD/4.1e1c%20EDEP%E6%A1%88%E4%BE%8B/4.1e1c1%20%E5%BE%AE%E6%9C%8D%E5%8B%99%E6%9E%B6%E6%A7%8B.md"
+                      },
+                      {
+                        "name": "4.1e1c3 mission與job層級.md",
+                        "type": "file",
+                        "path": "4. 軟體開發/4.1 物件導向設計/4.1e DDD/4.1e1c EDEP案例/4.1e1c3 mission與job層級.md",
+                        "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.1%20%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91%E8%A8%AD%E8%A8%88/4.1e%20DDD/4.1e1c%20EDEP%E6%A1%88%E4%BE%8B/4.1e1c3%20mission%E8%88%87job%E5%B1%A4%E7%B4%9A.md"
+                      },
+                      {
+                        "name": "4.1e1c4 微服務內各層工作.md",
+                        "type": "file",
+                        "path": "4. 軟體開發/4.1 物件導向設計/4.1e DDD/4.1e1c EDEP案例/4.1e1c4 微服務內各層工作.md",
+                        "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.1%20%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91%E8%A8%AD%E8%A8%88/4.1e%20DDD/4.1e1c%20EDEP%E6%A1%88%E4%BE%8B/4.1e1c4%20%E5%BE%AE%E6%9C%8D%E5%8B%99%E5%85%A7%E5%90%84%E5%B1%A4%E5%B7%A5%E4%BD%9C.md"
+                      },
+                      {
+                        "name": "4.1e1c5 做依賴反轉注入.md",
+                        "type": "file",
+                        "path": "4. 軟體開發/4.1 物件導向設計/4.1e DDD/4.1e1c EDEP案例/4.1e1c5 做依賴反轉注入.md",
+                        "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.1%20%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91%E8%A8%AD%E8%A8%88/4.1e%20DDD/4.1e1c%20EDEP%E6%A1%88%E4%BE%8B/4.1e1c5%20%E5%81%9A%E4%BE%9D%E8%B3%B4%E5%8F%8D%E8%BD%89%E6%B3%A8%E5%85%A5.md"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "4.1e1 戰略設計與戰術設計.md",
+                    "type": "file",
+                    "path": "4. 軟體開發/4.1 物件導向設計/4.1e DDD/4.1e1 戰略設計與戰術設計.md",
+                    "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.1%20%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91%E8%A8%AD%E8%A8%88/4.1e%20DDD/4.1e1%20%E6%88%B0%E7%95%A5%E8%A8%AD%E8%A8%88%E8%88%87%E6%88%B0%E8%A1%93%E8%A8%AD%E8%A8%88.md"
+                  }
+                ]
+              },
+              {
+                "name": "4.1a 物件、類別、方法和屬性.md",
+                "type": "file",
+                "path": "4. 軟體開發/4.1 物件導向設計/4.1a 物件、類別、方法和屬性.md",
+                "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.1%20%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91%E8%A8%AD%E8%A8%88/4.1a%20%E7%89%A9%E4%BB%B6%E3%80%81%E9%A1%9E%E5%88%A5%E3%80%81%E6%96%B9%E6%B3%95%E5%92%8C%E5%B1%AC%E6%80%A7.md"
+              },
+              {
+                "name": "4.1a1 物件(object)與實例(instance)的差別.md",
+                "type": "file",
+                "path": "4. 軟體開發/4.1 物件導向設計/4.1a1 物件(object)與實例(instance)的差別.md",
+                "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.1%20%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91%E8%A8%AD%E8%A8%88/4.1a1%20%E7%89%A9%E4%BB%B6%28object%29%E8%88%87%E5%AF%A6%E4%BE%8B%28instance%29%E7%9A%84%E5%B7%AE%E5%88%A5.md"
+              }
+            ]
+          },
+          {
+            "name": "4.2 k8s",
+            "type": "directory",
+            "path": "4. 軟體開發/4.2 k8s",
+            "children": [
+              {
+                "name": "4.2d Node",
+                "type": "directory",
+                "path": "4. 軟體開發/4.2 k8s/4.2d Node",
+                "children": [
+                  {
+                    "name": "4.2d1 NodePool.md",
+                    "type": "file",
+                    "path": "4. 軟體開發/4.2 k8s/4.2d Node/4.2d1 NodePool.md",
+                    "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.2%20k8s/4.2d%20Node/4.2d1%20NodePool.md"
+                  }
+                ]
+              },
+              {
+                "name": "4.2e Service",
+                "type": "directory",
+                "path": "4. 軟體開發/4.2 k8s/4.2e Service",
+                "children": []
+              },
+              {
+                "name": "4.2f Controller",
+                "type": "directory",
+                "path": "4. 軟體開發/4.2 k8s/4.2f Controller",
+                "children": [
+                  {
+                    "name": "4.2f1 常見的Controller.md",
+                    "type": "file",
+                    "path": "4. 軟體開發/4.2 k8s/4.2f Controller/4.2f1 常見的Controller.md",
+                    "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.2%20k8s/4.2f%20Controller/4.2f1%20%E5%B8%B8%E8%A6%8B%E7%9A%84Controller.md"
+                  },
+                  {
+                    "name": "4.2f2 Deployment 士官長.md",
+                    "type": "file",
+                    "path": "4. 軟體開發/4.2 k8s/4.2f Controller/4.2f2 Deployment 士官長.md",
+                    "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.2%20k8s/4.2f%20Controller/4.2f2%20Deployment%20%E5%A3%AB%E5%AE%98%E9%95%B7.md"
+                  },
+                  {
+                    "name": "4.2f2a Deployment Max_surage 和 MaxUnavaliable是什麼？.md",
+                    "type": "file",
+                    "path": "4. 軟體開發/4.2 k8s/4.2f Controller/4.2f2a Deployment Max_surage 和 MaxUnavaliable是什麼？.md",
+                    "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.2%20k8s/4.2f%20Controller/4.2f2a%20Deployment%20Max_surage%20%E5%92%8C%20MaxUnavaliable%E6%98%AF%E4%BB%80%E9%BA%BC%EF%BC%9F.md"
+                  },
+                  {
+                    "name": "4.2f3 ReplicaSet(士官).md",
+                    "type": "file",
+                    "path": "4. 軟體開發/4.2 k8s/4.2f Controller/4.2f3 ReplicaSet(士官).md",
+                    "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.2%20k8s/4.2f%20Controller/4.2f3%20ReplicaSet%28%E5%A3%AB%E5%AE%98%29.md"
+                  },
+                  {
+                    "name": "4.2f4 StatefulSet.md",
+                    "type": "file",
+                    "path": "4. 軟體開發/4.2 k8s/4.2f Controller/4.2f4 StatefulSet.md",
+                    "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.2%20k8s/4.2f%20Controller/4.2f4%20StatefulSet.md"
+                  },
+                  {
+                    "name": "4.2f5 Job and CronJob.md",
+                    "type": "file",
+                    "path": "4. 軟體開發/4.2 k8s/4.2f Controller/4.2f5 Job and CronJob.md",
+                    "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.2%20k8s/4.2f%20Controller/4.2f5%20Job%20and%20CronJob.md"
+                  },
+                  {
+                    "name": "4.2f6 DaemonSet.md",
+                    "type": "file",
+                    "path": "4. 軟體開發/4.2 k8s/4.2f Controller/4.2f6 DaemonSet.md",
+                    "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.2%20k8s/4.2f%20Controller/4.2f6%20DaemonSet.md"
+                  },
+                  {
+                    "name": "4.2f7 HPA（Horizontal Pod Autoscaler）.md",
+                    "type": "file",
+                    "path": "4. 軟體開發/4.2 k8s/4.2f Controller/4.2f7 HPA（Horizontal Pod Autoscaler）.md",
+                    "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.2%20k8s/4.2f%20Controller/4.2f7%20HPA%EF%BC%88Horizontal%20Pod%20Autoscaler%EF%BC%89.md"
+                  },
+                  {
+                    "name": "4.2f8 Cluster Autoscaler.md",
+                    "type": "file",
+                    "path": "4. 軟體開發/4.2 k8s/4.2f Controller/4.2f8 Cluster Autoscaler.md",
+                    "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.2%20k8s/4.2f%20Controller/4.2f8%20Cluster%20Autoscaler.md"
+                  },
+                  {
+                    "name": "4.2f8a 擴展 Pod 還是 Node？.md",
+                    "type": "file",
+                    "path": "4. 軟體開發/4.2 k8s/4.2f Controller/4.2f8a 擴展 Pod 還是 Node？.md",
+                    "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.2%20k8s/4.2f%20Controller/4.2f8a%20%E6%93%B4%E5%B1%95%20Pod%20%E9%82%84%E6%98%AF%20Node%EF%BC%9F.md"
+                  },
+                  {
+                    "name": "4.2f9 Controller Manager.md",
+                    "type": "file",
+                    "path": "4. 軟體開發/4.2 k8s/4.2f Controller/4.2f9 Controller Manager.md",
+                    "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.2%20k8s/4.2f%20Controller/4.2f9%20Controller%20Manager.md"
+                  }
+                ]
+              },
+              {
+                "name": "4.2g Pod 調度",
+                "type": "directory",
+                "path": "4. 軟體開發/4.2 k8s/4.2g Pod 調度",
+                "children": [
+                  {
+                    "name": "4.2g1 nodeSelector 根據Lable來調度.md",
+                    "type": "file",
+                    "path": "4. 軟體開發/4.2 k8s/4.2g Pod 調度/4.2g1 nodeSelector 根據Lable來調度.md",
+                    "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.2%20k8s/4.2g%20Pod%20%E8%AA%BF%E5%BA%A6/4.2g1%20nodeSelector%20%E6%A0%B9%E6%93%9ALable%E4%BE%86%E8%AA%BF%E5%BA%A6.md"
+                  },
+                  {
+                    "name": "4.2g2 Affinity Rules.md",
+                    "type": "file",
+                    "path": "4. 軟體開發/4.2 k8s/4.2g Pod 調度/4.2g2 Affinity Rules.md",
+                    "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.2%20k8s/4.2g%20Pod%20%E8%AA%BF%E5%BA%A6/4.2g2%20Affinity%20Rules.md"
+                  },
+                  {
+                    "name": "4.2g3 Taints.md",
+                    "type": "file",
+                    "path": "4. 軟體開發/4.2 k8s/4.2g Pod 調度/4.2g3 Taints.md",
+                    "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.2%20k8s/4.2g%20Pod%20%E8%AA%BF%E5%BA%A6/4.2g3%20Taints.md"
+                  },
+                  {
+                    "name": "4.2g4 Tolerations.md",
+                    "type": "file",
+                    "path": "4. 軟體開發/4.2 k8s/4.2g Pod 調度/4.2g4 Tolerations.md",
+                    "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.2%20k8s/4.2g%20Pod%20%E8%AA%BF%E5%BA%A6/4.2g4%20Tolerations.md"
+                  }
+                ]
+              },
+              {
+                "name": "4.2h Network",
+                "type": "directory",
+                "path": "4. 軟體開發/4.2 k8s/4.2h Network",
+                "children": [
+                  {
+                    "name": "4.2h1 Service的用途.md",
+                    "type": "file",
+                    "path": "4. 軟體開發/4.2 k8s/4.2h Network/4.2h1 Service的用途.md",
+                    "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.2%20k8s/4.2h%20Network/4.2h1%20Service%E7%9A%84%E7%94%A8%E9%80%94.md"
+                  },
+                  {
+                    "name": "4.2h2 Service ClusterIP（預設類型）.md",
+                    "type": "file",
+                    "path": "4. 軟體開發/4.2 k8s/4.2h Network/4.2h2 Service ClusterIP（預設類型）.md",
+                    "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.2%20k8s/4.2h%20Network/4.2h2%20Service%20ClusterIP%EF%BC%88%E9%A0%90%E8%A8%AD%E9%A1%9E%E5%9E%8B%EF%BC%89.md"
+                  },
+                  {
+                    "name": "4.2h3 Service NodePort.md",
+                    "type": "file",
+                    "path": "4. 軟體開發/4.2 k8s/4.2h Network/4.2h3 Service NodePort.md",
+                    "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.2%20k8s/4.2h%20Network/4.2h3%20Service%20NodePort.md"
+                  },
+                  {
+                    "name": "4.2h4 Service LoadBalancer.md",
+                    "type": "file",
+                    "path": "4. 軟體開發/4.2 k8s/4.2h Network/4.2h4 Service LoadBalancer.md",
+                    "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.2%20k8s/4.2h%20Network/4.2h4%20Service%20LoadBalancer.md"
+                  },
+                  {
+                    "name": "4.2h5 Ingress Service for Service.md",
+                    "type": "file",
+                    "path": "4. 軟體開發/4.2 k8s/4.2h Network/4.2h5 Ingress Service for Service.md",
+                    "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.2%20k8s/4.2h%20Network/4.2h5%20Ingress%20Service%20for%20Service.md"
+                  }
+                ]
+              },
+              {
+                "name": "4.2a K8s 是什麼？.md",
+                "type": "file",
+                "path": "4. 軟體開發/4.2 k8s/4.2a K8s 是什麼？.md",
+                "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.2%20k8s/4.2a%20K8s%20%E6%98%AF%E4%BB%80%E9%BA%BC%EF%BC%9F.md"
+              },
+              {
+                "name": "4.2a1 k8s的基本元件們.md",
+                "type": "file",
+                "path": "4. 軟體開發/4.2 k8s/4.2a1 k8s的基本元件們.md",
+                "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.2%20k8s/4.2a1%20k8s%E7%9A%84%E5%9F%BA%E6%9C%AC%E5%85%83%E4%BB%B6%E5%80%91.md"
+              }
+            ]
+          },
+          {
+            "name": "GCP",
+            "type": "directory",
+            "path": "4. 軟體開發/GCP",
+            "children": [
+              {
+                "name": "GKE 部署 LLM (Kserve).md",
+                "type": "file",
+                "path": "4. 軟體開發/GCP/GKE 部署 LLM (Kserve).md",
+                "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/GCP/GKE%20%E9%83%A8%E7%BD%B2%20LLM%20%28Kserve%29.md"
+              },
+              {
+                "name": "KubeLLM.md",
+                "type": "file",
+                "path": "4. 軟體開發/GCP/KubeLLM.md",
+                "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/GCP/KubeLLM.md"
+              }
+            ]
+          },
+          {
+            "name": "git",
+            "type": "directory",
+            "path": "4. 軟體開發/git",
+            "children": [
+              {
+                "name": "Git 工作流程.md",
+                "type": "file",
+                "path": "4. 軟體開發/git/Git 工作流程.md",
+                "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/git/Git%20%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%A8%8B.md"
+              }
+            ]
+          },
+          {
+            "name": "python",
+            "type": "directory",
+            "path": "4. 軟體開發/python",
+            "children": [
+              {
+                "name": "測試對外IP位置的方法.md",
+                "type": "file",
+                "path": "4. 軟體開發/python/測試對外IP位置的方法.md",
+                "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/python/%E6%B8%AC%E8%A9%A6%E5%B0%8D%E5%A4%96IP%E4%BD%8D%E7%BD%AE%E7%9A%84%E6%96%B9%E6%B3%95.md"
+              }
+            ]
+          },
+          {
+            "name": "數據處理微服務",
+            "type": "directory",
+            "path": "4. 軟體開發/數據處理微服務",
+            "children": [
+              {
+                "name": "Liaison 上行電文.md",
+                "type": "file",
+                "path": "4. 軟體開發/數據處理微服務/Liaison 上行電文.md",
+                "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/%E6%95%B8%E6%93%9A%E8%99%95%E7%90%86%E5%BE%AE%E6%9C%8D%E5%8B%99/Liaison%20%E4%B8%8A%E8%A1%8C%E9%9B%BB%E6%96%87.md"
+              },
+              {
+                "name": "sapper 上行電文.md",
+                "type": "file",
+                "path": "4. 軟體開發/數據處理微服務/sapper 上行電文.md",
+                "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/%E6%95%B8%E6%93%9A%E8%99%95%E7%90%86%E5%BE%AE%E6%9C%8D%E5%8B%99/sapper%20%E4%B8%8A%E8%A1%8C%E9%9B%BB%E6%96%87.md"
+              },
+              {
+                "name": "scout上行電文.md",
+                "type": "file",
+                "path": "4. 軟體開發/數據處理微服務/scout上行電文.md",
+                "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/%E6%95%B8%E6%93%9A%E8%99%95%E7%90%86%E5%BE%AE%E6%9C%8D%E5%8B%99/scout%E4%B8%8A%E8%A1%8C%E9%9B%BB%E6%96%87.md"
+              }
+            ]
+          },
+          {
+            "name": "4.3 如何判斷是不是好的抽象化？.md",
+            "type": "file",
+            "path": "4. 軟體開發/4.3 如何判斷是不是好的抽象化？.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.3%20%E5%A6%82%E4%BD%95%E5%88%A4%E6%96%B7%E6%98%AF%E4%B8%8D%E6%98%AF%E5%A5%BD%E7%9A%84%E6%8A%BD%E8%B1%A1%E5%8C%96%EF%BC%9F.md"
+          }
+        ]
+      },
+      {
+        "name": "5. 科普新知",
+        "type": "directory",
+        "path": "5. 科普新知",
+        "children": [
+          {
+            "name": "5.3 基於計算的世界觀",
+            "type": "directory",
+            "path": "5. 科普新知/5.3 基於計算的世界觀",
+            "children": [
+              {
+                "name": "5.3a 世界的本質是計算.md",
+                "type": "file",
+                "path": "5. 科普新知/5.3 基於計算的世界觀/5.3a 世界的本質是計算.md",
+                "url": "https://SamLiaoP.github.io/obsidian_card/5.%20%E7%A7%91%E6%99%AE%E6%96%B0%E7%9F%A5/5.3%20%E5%9F%BA%E6%96%BC%E8%A8%88%E7%AE%97%E7%9A%84%E4%B8%96%E7%95%8C%E8%A7%80/5.3a%20%E4%B8%96%E7%95%8C%E7%9A%84%E6%9C%AC%E8%B3%AA%E6%98%AF%E8%A8%88%E7%AE%97.md"
+              },
+              {
+                "name": "5.3b 計算不可約性.md",
+                "type": "file",
+                "path": "5. 科普新知/5.3 基於計算的世界觀/5.3b 計算不可約性.md",
+                "url": "https://SamLiaoP.github.io/obsidian_card/5.%20%E7%A7%91%E6%99%AE%E6%96%B0%E7%9F%A5/5.3%20%E5%9F%BA%E6%96%BC%E8%A8%88%E7%AE%97%E7%9A%84%E4%B8%96%E7%95%8C%E8%A7%80/5.3b%20%E8%A8%88%E7%AE%97%E4%B8%8D%E5%8F%AF%E7%B4%84%E6%80%A7.md"
+              },
+              {
+                "name": "5.3c 自然湧現.md",
+                "type": "file",
+                "path": "5. 科普新知/5.3 基於計算的世界觀/5.3c 自然湧現.md",
+                "url": "https://SamLiaoP.github.io/obsidian_card/5.%20%E7%A7%91%E6%99%AE%E6%96%B0%E7%9F%A5/5.3%20%E5%9F%BA%E6%96%BC%E8%A8%88%E7%AE%97%E7%9A%84%E4%B8%96%E7%95%8C%E8%A7%80/5.3c%20%E8%87%AA%E7%84%B6%E6%B9%A7%E7%8F%BE.md"
+              },
+              {
+                "name": "5.3d 可約化的口袋.md",
+                "type": "file",
+                "path": "5. 科普新知/5.3 基於計算的世界觀/5.3d 可約化的口袋.md",
+                "url": "https://SamLiaoP.github.io/obsidian_card/5.%20%E7%A7%91%E6%99%AE%E6%96%B0%E7%9F%A5/5.3%20%E5%9F%BA%E6%96%BC%E8%A8%88%E7%AE%97%E7%9A%84%E4%B8%96%E7%95%8C%E8%A7%80/5.3d%20%E5%8F%AF%E7%B4%84%E5%8C%96%E7%9A%84%E5%8F%A3%E8%A2%8B.md"
+              },
+              {
+                "name": "5.3e 意識與知識的計算視角.md",
+                "type": "file",
+                "path": "5. 科普新知/5.3 基於計算的世界觀/5.3e 意識與知識的計算視角.md",
+                "url": "https://SamLiaoP.github.io/obsidian_card/5.%20%E7%A7%91%E6%99%AE%E6%96%B0%E7%9F%A5/5.3%20%E5%9F%BA%E6%96%BC%E8%A8%88%E7%AE%97%E7%9A%84%E4%B8%96%E7%95%8C%E8%A7%80/5.3e%20%E6%84%8F%E8%AD%98%E8%88%87%E7%9F%A5%E8%AD%98%E7%9A%84%E8%A8%88%E7%AE%97%E8%A6%96%E8%A7%92.md"
+              },
+              {
+                "name": "5.3e 物理法則的計算基礎.md",
+                "type": "file",
+                "path": "5. 科普新知/5.3 基於計算的世界觀/5.3e 物理法則的計算基礎.md",
+                "url": "https://SamLiaoP.github.io/obsidian_card/5.%20%E7%A7%91%E6%99%AE%E6%96%B0%E7%9F%A5/5.3%20%E5%9F%BA%E6%96%BC%E8%A8%88%E7%AE%97%E7%9A%84%E4%B8%96%E7%95%8C%E8%A7%80/5.3e%20%E7%89%A9%E7%90%86%E6%B3%95%E5%89%87%E7%9A%84%E8%A8%88%E7%AE%97%E5%9F%BA%E7%A4%8E.md"
+              },
+              {
+                "name": "5.3f 科學探索與人類使命.md",
+                "type": "file",
+                "path": "5. 科普新知/5.3 基於計算的世界觀/5.3f 科學探索與人類使命.md",
+                "url": "https://SamLiaoP.github.io/obsidian_card/5.%20%E7%A7%91%E6%99%AE%E6%96%B0%E7%9F%A5/5.3%20%E5%9F%BA%E6%96%BC%E8%A8%88%E7%AE%97%E7%9A%84%E4%B8%96%E7%95%8C%E8%A7%80/5.3f%20%E7%A7%91%E5%AD%B8%E6%8E%A2%E7%B4%A2%E8%88%87%E4%BA%BA%E9%A1%9E%E4%BD%BF%E5%91%BD.md"
+              },
+              {
+                "name": "5.3g 總結來說....md",
+                "type": "file",
+                "path": "5. 科普新知/5.3 基於計算的世界觀/5.3g 總結來說....md",
+                "url": "https://SamLiaoP.github.io/obsidian_card/5.%20%E7%A7%91%E6%99%AE%E6%96%B0%E7%9F%A5/5.3%20%E5%9F%BA%E6%96%BC%E8%A8%88%E7%AE%97%E7%9A%84%E4%B8%96%E7%95%8C%E8%A7%80/5.3g%20%E7%B8%BD%E7%B5%90%E4%BE%86%E8%AA%AA....md"
+              }
+            ]
+          },
+          {
+            "name": "5.1 黃金(重元素)的由來.md",
+            "type": "file",
+            "path": "5. 科普新知/5.1 黃金(重元素)的由來.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/5.%20%E7%A7%91%E6%99%AE%E6%96%B0%E7%9F%A5/5.1%20%E9%BB%83%E9%87%91%28%E9%87%8D%E5%85%83%E7%B4%A0%29%E7%9A%84%E7%94%B1%E4%BE%86.md"
+          },
+          {
+            "name": "5.2 未開發國家，已開發國家.md",
+            "type": "file",
+            "path": "5. 科普新知/5.2 未開發國家，已開發國家.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/5.%20%E7%A7%91%E6%99%AE%E6%96%B0%E7%9F%A5/5.2%20%E6%9C%AA%E9%96%8B%E7%99%BC%E5%9C%8B%E5%AE%B6%EF%BC%8C%E5%B7%B2%E9%96%8B%E7%99%BC%E5%9C%8B%E5%AE%B6.md"
+          },
+          {
+            "name": "5.4 黑暗人格與光明人格，以及該如何應對.md",
+            "type": "file",
+            "path": "5. 科普新知/5.4 黑暗人格與光明人格，以及該如何應對.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/5.%20%E7%A7%91%E6%99%AE%E6%96%B0%E7%9F%A5/5.4%20%E9%BB%91%E6%9A%97%E4%BA%BA%E6%A0%BC%E8%88%87%E5%85%89%E6%98%8E%E4%BA%BA%E6%A0%BC%EF%BC%8C%E4%BB%A5%E5%8F%8A%E8%A9%B2%E5%A6%82%E4%BD%95%E6%87%89%E5%B0%8D.md"
+          },
+          {
+            "name": "5.6 集體無意識.md",
+            "type": "file",
+            "path": "5. 科普新知/5.6 集體無意識.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/5.%20%E7%A7%91%E6%99%AE%E6%96%B0%E7%9F%A5/5.6%20%E9%9B%86%E9%AB%94%E7%84%A1%E6%84%8F%E8%AD%98.md"
+          },
+          {
+            "name": "5.7 DOSE 效應.md",
+            "type": "file",
+            "path": "5. 科普新知/5.7 DOSE 效應.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/5.%20%E7%A7%91%E6%99%AE%E6%96%B0%E7%9F%A5/5.7%20DOSE%20%E6%95%88%E6%87%89.md"
+          },
+          {
+            "name": "5.7a 多巴胺 Dopamine.md",
+            "type": "file",
+            "path": "5. 科普新知/5.7a 多巴胺 Dopamine.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/5.%20%E7%A7%91%E6%99%AE%E6%96%B0%E7%9F%A5/5.7a%20%E5%A4%9A%E5%B7%B4%E8%83%BA%20Dopamine.md"
+          },
+          {
+            "name": "5.7b 催產素 Oxytocin.md",
+            "type": "file",
+            "path": "5. 科普新知/5.7b 催產素 Oxytocin.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/5.%20%E7%A7%91%E6%99%AE%E6%96%B0%E7%9F%A5/5.7b%20%E5%82%AC%E7%94%A2%E7%B4%A0%20Oxytocin.md"
+          },
+          {
+            "name": "5.7c 血清素 Serotonin.md",
+            "type": "file",
+            "path": "5. 科普新知/5.7c 血清素 Serotonin.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/5.%20%E7%A7%91%E6%99%AE%E6%96%B0%E7%9F%A5/5.7c%20%E8%A1%80%E6%B8%85%E7%B4%A0%20Serotonin.md"
+          },
+          {
+            "name": "5.7d 內啡肽 Endorphin.md",
+            "type": "file",
+            "path": "5. 科普新知/5.7d 內啡肽 Endorphin.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/5.%20%E7%A7%91%E6%99%AE%E6%96%B0%E7%9F%A5/5.7d%20%E5%85%A7%E5%95%A1%E8%82%BD%20Endorphin.md"
+          }
+        ]
+      },
+      {
+        "name": "6. 意識與大腦",
+        "type": "directory",
+        "path": "6. 意識與大腦",
+        "children": [
+          {
+            "name": "6.1 情緒 是你身體的直覺。.md",
+            "type": "file",
+            "path": "6. 意識與大腦/6.1 情緒 是你身體的直覺。.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/6.%20%E6%84%8F%E8%AD%98%E8%88%87%E5%A4%A7%E8%85%A6/6.1%20%E6%83%85%E7%B7%92%20%E6%98%AF%E4%BD%A0%E8%BA%AB%E9%AB%94%E7%9A%84%E7%9B%B4%E8%A6%BA%E3%80%82.md"
+          },
+          {
+            "name": "6.2 內感力越強，直覺就越強.md",
+            "type": "file",
+            "path": "6. 意識與大腦/6.2 內感力越強，直覺就越強.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/6.%20%E6%84%8F%E8%AD%98%E8%88%87%E5%A4%A7%E8%85%A6/6.2%20%E5%85%A7%E6%84%9F%E5%8A%9B%E8%B6%8A%E5%BC%B7%EF%BC%8C%E7%9B%B4%E8%A6%BA%E5%B0%B1%E8%B6%8A%E5%BC%B7.md"
+          },
+          {
+            "name": "6.3 快樂要間隔，痛苦要集中.md",
+            "type": "file",
+            "path": "6. 意識與大腦/6.3 快樂要間隔，痛苦要集中.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/6.%20%E6%84%8F%E8%AD%98%E8%88%87%E5%A4%A7%E8%85%A6/6.3%20%E5%BF%AB%E6%A8%82%E8%A6%81%E9%96%93%E9%9A%94%EF%BC%8C%E7%97%9B%E8%8B%A6%E8%A6%81%E9%9B%86%E4%B8%AD.md"
+          },
+          {
+            "name": "6.4 命名可以幫助模式識別.md",
+            "type": "file",
+            "path": "6. 意識與大腦/6.4 命名可以幫助模式識別.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/6.%20%E6%84%8F%E8%AD%98%E8%88%87%E5%A4%A7%E8%85%A6/6.4%20%E5%91%BD%E5%90%8D%E5%8F%AF%E4%BB%A5%E5%B9%AB%E5%8A%A9%E6%A8%A1%E5%BC%8F%E8%AD%98%E5%88%A5.md"
+          },
+          {
+            "name": "6.5 青少年大腦 - 神經生物學無能模型.md",
+            "type": "file",
+            "path": "6. 意識與大腦/6.5 青少年大腦 - 神經生物學無能模型.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/6.%20%E6%84%8F%E8%AD%98%E8%88%87%E5%A4%A7%E8%85%A6/6.5%20%E9%9D%92%E5%B0%91%E5%B9%B4%E5%A4%A7%E8%85%A6%20-%20%E7%A5%9E%E7%B6%93%E7%94%9F%E7%89%A9%E5%AD%B8%E7%84%A1%E8%83%BD%E6%A8%A1%E5%9E%8B.md"
+          },
+          {
+            "name": "6.5a 反駁無能假說 - 尊重與地位假說.md",
+            "type": "file",
+            "path": "6. 意識與大腦/6.5a 反駁無能假說 - 尊重與地位假說.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/6.%20%E6%84%8F%E8%AD%98%E8%88%87%E5%A4%A7%E8%85%A6/6.5a%20%E5%8F%8D%E9%A7%81%E7%84%A1%E8%83%BD%E5%81%87%E8%AA%AA%20-%20%E5%B0%8A%E9%87%8D%E8%88%87%E5%9C%B0%E4%BD%8D%E5%81%87%E8%AA%AA.md"
+          },
+          {
+            "name": "6.5b 如何激勵青少年？ 導師心態.md",
+            "type": "file",
+            "path": "6. 意識與大腦/6.5b 如何激勵青少年？ 導師心態.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/6.%20%E6%84%8F%E8%AD%98%E8%88%87%E5%A4%A7%E8%85%A6/6.5b%20%E5%A6%82%E4%BD%95%E6%BF%80%E5%8B%B5%E9%9D%92%E5%B0%91%E5%B9%B4%EF%BC%9F%20%E5%B0%8E%E5%B8%AB%E5%BF%83%E6%85%8B.md"
+          },
+          {
+            "name": "6.5b1 如何避免導師困境？智者的回饋.md",
+            "type": "file",
+            "path": "6. 意識與大腦/6.5b1 如何避免導師困境？智者的回饋.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/6.%20%E6%84%8F%E8%AD%98%E8%88%87%E5%A4%A7%E8%85%A6/6.5b1%20%E5%A6%82%E4%BD%95%E9%81%BF%E5%85%8D%E5%B0%8E%E5%B8%AB%E5%9B%B0%E5%A2%83%EF%BC%9F%E6%99%BA%E8%80%85%E7%9A%84%E5%9B%9E%E9%A5%8B.md"
+          },
+          {
+            "name": "6.5b2 導師心態與XY理論.md",
+            "type": "file",
+            "path": "6. 意識與大腦/6.5b2 導師心態與XY理論.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/6.%20%E6%84%8F%E8%AD%98%E8%88%87%E5%A4%A7%E8%85%A6/6.5b2%20%E5%B0%8E%E5%B8%AB%E5%BF%83%E6%85%8B%E8%88%87XY%E7%90%86%E8%AB%96.md"
+          },
+          {
+            "name": "6.6 意識的定義.md",
+            "type": "file",
+            "path": "6. 意識與大腦/6.6 意識的定義.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/6.%20%E6%84%8F%E8%AD%98%E8%88%87%E5%A4%A7%E8%85%A6/6.6%20%E6%84%8F%E8%AD%98%E7%9A%84%E5%AE%9A%E7%BE%A9.md"
+          },
+          {
+            "name": "6.6a 佛教對於意識(我)的解釋 八識.md",
+            "type": "file",
+            "path": "6. 意識與大腦/6.6a 佛教對於意識(我)的解釋 八識.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/6.%20%E6%84%8F%E8%AD%98%E8%88%87%E5%A4%A7%E8%85%A6/6.6a%20%E4%BD%9B%E6%95%99%E5%B0%8D%E6%96%BC%E6%84%8F%E8%AD%98%28%E6%88%91%29%E7%9A%84%E8%A7%A3%E9%87%8B%20%E5%85%AB%E8%AD%98.md"
+          },
+          {
+            "name": "6.6b 達馬西奧的心智四層次.md",
+            "type": "file",
+            "path": "6. 意識與大腦/6.6b 達馬西奧的心智四層次.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/6.%20%E6%84%8F%E8%AD%98%E8%88%87%E5%A4%A7%E8%85%A6/6.6b%20%E9%81%94%E9%A6%AC%E8%A5%BF%E5%A5%A7%E7%9A%84%E5%BF%83%E6%99%BA%E5%9B%9B%E5%B1%A4%E6%AC%A1.md"
+          },
+          {
+            "name": "6.6c AI有意識嗎？或者能夠有意識嗎？.md",
+            "type": "file",
+            "path": "6. 意識與大腦/6.6c AI有意識嗎？或者能夠有意識嗎？.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/6.%20%E6%84%8F%E8%AD%98%E8%88%87%E5%A4%A7%E8%85%A6/6.6c%20AI%E6%9C%89%E6%84%8F%E8%AD%98%E5%97%8E%EF%BC%9F%E6%88%96%E8%80%85%E8%83%BD%E5%A4%A0%E6%9C%89%E6%84%8F%E8%AD%98%E5%97%8E%EF%BC%9F.md"
+          },
+          {
+            "name": "6.6c1 為什麼意識一定要涉及身體？.md",
+            "type": "file",
+            "path": "6. 意識與大腦/6.6c1 為什麼意識一定要涉及身體？.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/6.%20%E6%84%8F%E8%AD%98%E8%88%87%E5%A4%A7%E8%85%A6/6.6c1%20%E7%82%BA%E4%BB%80%E9%BA%BC%E6%84%8F%E8%AD%98%E4%B8%80%E5%AE%9A%E8%A6%81%E6%B6%89%E5%8F%8A%E8%BA%AB%E9%AB%94%EF%BC%9F.md"
+          },
+          {
+            "name": "6.6c2 放下我執，不是沒有我執。石頭不是佛陀.md",
+            "type": "file",
+            "path": "6. 意識與大腦/6.6c2 放下我執，不是沒有我執。石頭不是佛陀.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/6.%20%E6%84%8F%E8%AD%98%E8%88%87%E5%A4%A7%E8%85%A6/6.6c2%20%E6%94%BE%E4%B8%8B%E6%88%91%E5%9F%B7%EF%BC%8C%E4%B8%8D%E6%98%AF%E6%B2%92%E6%9C%89%E6%88%91%E5%9F%B7%E3%80%82%E7%9F%B3%E9%A0%AD%E4%B8%8D%E6%98%AF%E4%BD%9B%E9%99%80.md"
+          },
+          {
+            "name": "6.7 讓.皮亞傑-認知發展理論.md",
+            "type": "file",
+            "path": "6. 意識與大腦/6.7 讓.皮亞傑-認知發展理論.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/6.%20%E6%84%8F%E8%AD%98%E8%88%87%E5%A4%A7%E8%85%A6/6.7%20%E8%AE%93.%E7%9A%AE%E4%BA%9E%E5%82%91-%E8%AA%8D%E7%9F%A5%E7%99%BC%E5%B1%95%E7%90%86%E8%AB%96.md"
+          },
+          {
+            "name": "6.8 羅伯特・凱根的心智成長五階段.md",
+            "type": "file",
+            "path": "6. 意識與大腦/6.8 羅伯特・凱根的心智成長五階段.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/6.%20%E6%84%8F%E8%AD%98%E8%88%87%E5%A4%A7%E8%85%A6/6.8%20%E7%BE%85%E4%BC%AF%E7%89%B9%E3%83%BB%E5%87%B1%E6%A0%B9%E7%9A%84%E5%BF%83%E6%99%BA%E6%88%90%E9%95%B7%E4%BA%94%E9%9A%8E%E6%AE%B5.md"
+          },
+          {
+            "name": "6.8a 主體客體轉化.md",
+            "type": "file",
+            "path": "6. 意識與大腦/6.8a 主體客體轉化.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/6.%20%E6%84%8F%E8%AD%98%E8%88%87%E5%A4%A7%E8%85%A6/6.8a%20%E4%B8%BB%E9%AB%94%E5%AE%A2%E9%AB%94%E8%BD%89%E5%8C%96.md"
+          },
+          {
+            "name": "6.8a1 AI能夠有主體客體嗎？.md",
+            "type": "file",
+            "path": "6. 意識與大腦/6.8a1 AI能夠有主體客體嗎？.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/6.%20%E6%84%8F%E8%AD%98%E8%88%87%E5%A4%A7%E8%85%A6/6.8a1%20AI%E8%83%BD%E5%A4%A0%E6%9C%89%E4%B8%BB%E9%AB%94%E5%AE%A2%E9%AB%94%E5%97%8E%EF%BC%9F.md"
+          },
+          {
+            "name": "6.9 反對者比支持者更痛苦.md",
+            "type": "file",
+            "path": "6. 意識與大腦/6.9 反對者比支持者更痛苦.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/6.%20%E6%84%8F%E8%AD%98%E8%88%87%E5%A4%A7%E8%85%A6/6.9%20%E5%8F%8D%E5%B0%8D%E8%80%85%E6%AF%94%E6%94%AF%E6%8C%81%E8%80%85%E6%9B%B4%E7%97%9B%E8%8B%A6.md"
+          },
+          {
+            "name": "6.9a Frame 的定義.md",
+            "type": "file",
+            "path": "6. 意識與大腦/6.9a Frame 的定義.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/6.%20%E6%84%8F%E8%AD%98%E8%88%87%E5%A4%A7%E8%85%A6/6.9a%20Frame%20%E7%9A%84%E5%AE%9A%E7%BE%A9.md"
+          }
+        ]
+      },
+      {
+        "name": "7. 決策科學",
+        "type": "directory",
+        "path": "7. 決策科學",
+        "children": [
+          {
+            "name": "7.1 雜訊",
+            "type": "directory",
+            "path": "7. 決策科學/7.1 雜訊",
+            "children": [
+              {
+                "name": "7.1 規則 + 直覺 = 決策流程.md",
+                "type": "file",
+                "path": "7. 決策科學/7.1 雜訊/7.1 規則 + 直覺 = 決策流程.md",
+                "url": "https://SamLiaoP.github.io/obsidian_card/7.%20%E6%B1%BA%E7%AD%96%E7%A7%91%E5%AD%B8/7.1%20%E9%9B%9C%E8%A8%8A/7.1%20%E8%A6%8F%E5%89%87%20%2B%20%E7%9B%B4%E8%A6%BA%20%3D%20%E6%B1%BA%E7%AD%96%E6%B5%81%E7%A8%8B.md"
+              },
+              {
+                "name": "7.1a 人類判斷的兩種錯誤，偏誤與雜訊.md",
+                "type": "file",
+                "path": "7. 決策科學/7.1 雜訊/7.1a 人類判斷的兩種錯誤，偏誤與雜訊.md",
+                "url": "https://SamLiaoP.github.io/obsidian_card/7.%20%E6%B1%BA%E7%AD%96%E7%A7%91%E5%AD%B8/7.1%20%E9%9B%9C%E8%A8%8A/7.1a%20%E4%BA%BA%E9%A1%9E%E5%88%A4%E6%96%B7%E7%9A%84%E5%85%A9%E7%A8%AE%E9%8C%AF%E8%AA%A4%EF%BC%8C%E5%81%8F%E8%AA%A4%E8%88%87%E9%9B%9C%E8%A8%8A.md"
+              },
+              {
+                "name": "7.1b 在你不希望看到變異的地方，發現變異，就是雜訊。不必要的變異 vs 有利的多樣性.md",
+                "type": "file",
+                "path": "7. 決策科學/7.1 雜訊/7.1b 在你不希望看到變異的地方，發現變異，就是雜訊。不必要的變異 vs 有利的多樣性.md",
+                "url": "https://SamLiaoP.github.io/obsidian_card/7.%20%E6%B1%BA%E7%AD%96%E7%A7%91%E5%AD%B8/7.1%20%E9%9B%9C%E8%A8%8A/7.1b%20%E5%9C%A8%E4%BD%A0%E4%B8%8D%E5%B8%8C%E6%9C%9B%E7%9C%8B%E5%88%B0%E8%AE%8A%E7%95%B0%E7%9A%84%E5%9C%B0%E6%96%B9%EF%BC%8C%E7%99%BC%E7%8F%BE%E8%AE%8A%E7%95%B0%EF%BC%8C%E5%B0%B1%E6%98%AF%E9%9B%9C%E8%A8%8A%E3%80%82%E4%B8%8D%E5%BF%85%E8%A6%81%E7%9A%84%E8%AE%8A%E7%95%B0%20vs%20%E6%9C%89%E5%88%A9%E7%9A%84%E5%A4%9A%E6%A8%A3%E6%80%A7.md"
+              },
+              {
+                "name": "7.1c 在充滿雜訊的系統中，錯誤不會互相抵銷只會相加.md",
+                "type": "file",
+                "path": "7. 決策科學/7.1 雜訊/7.1c 在充滿雜訊的系統中，錯誤不會互相抵銷只會相加.md",
+                "url": "https://SamLiaoP.github.io/obsidian_card/7.%20%E6%B1%BA%E7%AD%96%E7%A7%91%E5%AD%B8/7.1%20%E9%9B%9C%E8%A8%8A/7.1c%20%E5%9C%A8%E5%85%85%E6%BB%BF%E9%9B%9C%E8%A8%8A%E7%9A%84%E7%B3%BB%E7%B5%B1%E4%B8%AD%EF%BC%8C%E9%8C%AF%E8%AA%A4%E4%B8%8D%E6%9C%83%E4%BA%92%E7%9B%B8%E6%8A%B5%E9%8A%B7%E5%8F%AA%E6%9C%83%E7%9B%B8%E5%8A%A0.md"
+              },
+              {
+                "name": "AI可以負責做預測型判斷.md",
+                "type": "file",
+                "path": "7. 決策科學/7.1 雜訊/AI可以負責做預測型判斷.md",
+                "url": "https://SamLiaoP.github.io/obsidian_card/7.%20%E6%B1%BA%E7%AD%96%E7%A7%91%E5%AD%B8/7.1%20%E9%9B%9C%E8%A8%8A/AI%E5%8F%AF%E4%BB%A5%E8%B2%A0%E8%B2%AC%E5%81%9A%E9%A0%90%E6%B8%AC%E5%9E%8B%E5%88%A4%E6%96%B7.md"
+              },
+              {
+                "name": "先做預測型判斷，再做價值型判斷.md",
+                "type": "file",
+                "path": "7. 決策科學/7.1 雜訊/先做預測型判斷，再做價值型判斷.md",
+                "url": "https://SamLiaoP.github.io/obsidian_card/7.%20%E6%B1%BA%E7%AD%96%E7%A7%91%E5%AD%B8/7.1%20%E9%9B%9C%E8%A8%8A/%E5%85%88%E5%81%9A%E9%A0%90%E6%B8%AC%E5%9E%8B%E5%88%A4%E6%96%B7%EF%BC%8C%E5%86%8D%E5%81%9A%E5%83%B9%E5%80%BC%E5%9E%8B%E5%88%A4%E6%96%B7.md"
+              },
+              {
+                "name": "去除雜訊可以幫助你凸顯偏差.md",
+                "type": "file",
+                "path": "7. 決策科學/7.1 雜訊/去除雜訊可以幫助你凸顯偏差.md",
+                "url": "https://SamLiaoP.github.io/obsidian_card/7.%20%E6%B1%BA%E7%AD%96%E7%A7%91%E5%AD%B8/7.1%20%E9%9B%9C%E8%A8%8A/%E5%8E%BB%E9%99%A4%E9%9B%9C%E8%A8%8A%E5%8F%AF%E4%BB%A5%E5%B9%AB%E5%8A%A9%E4%BD%A0%E5%87%B8%E9%A1%AF%E5%81%8F%E5%B7%AE.md"
+              },
+              {
+                "name": "哪怕只是單純去除雜訊，也比有雜訊又有偏差好.md",
+                "type": "file",
+                "path": "7. 決策科學/7.1 雜訊/哪怕只是單純去除雜訊，也比有雜訊又有偏差好.md",
+                "url": "https://SamLiaoP.github.io/obsidian_card/7.%20%E6%B1%BA%E7%AD%96%E7%A7%91%E5%AD%B8/7.1%20%E9%9B%9C%E8%A8%8A/%E5%93%AA%E6%80%95%E5%8F%AA%E6%98%AF%E5%96%AE%E7%B4%94%E5%8E%BB%E9%99%A4%E9%9B%9C%E8%A8%8A%EF%BC%8C%E4%B9%9F%E6%AF%94%E6%9C%89%E9%9B%9C%E8%A8%8A%E5%8F%88%E6%9C%89%E5%81%8F%E5%B7%AE%E5%A5%BD.md"
+              },
+              {
+                "name": "如果你打算影響判斷，你該關注 穩定型態雜訊.md",
+                "type": "file",
+                "path": "7. 決策科學/7.1 雜訊/如果你打算影響判斷，你該關注 穩定型態雜訊.md",
+                "url": "https://SamLiaoP.github.io/obsidian_card/7.%20%E6%B1%BA%E7%AD%96%E7%A7%91%E5%AD%B8/7.1%20%E9%9B%9C%E8%A8%8A/%E5%A6%82%E6%9E%9C%E4%BD%A0%E6%89%93%E7%AE%97%E5%BD%B1%E9%9F%BF%E5%88%A4%E6%96%B7%EF%BC%8C%E4%BD%A0%E8%A9%B2%E9%97%9C%E6%B3%A8%20%E7%A9%A9%E5%AE%9A%E5%9E%8B%E6%85%8B%E9%9B%9C%E8%A8%8A.md"
+              },
+              {
+                "name": "定義什麼是判斷.md",
+                "type": "file",
+                "path": "7. 決策科學/7.1 雜訊/定義什麼是判斷.md",
+                "url": "https://SamLiaoP.github.io/obsidian_card/7.%20%E6%B1%BA%E7%AD%96%E7%A7%91%E5%AD%B8/7.1%20%E9%9B%9C%E8%A8%8A/%E5%AE%9A%E7%BE%A9%E4%BB%80%E9%BA%BC%E6%98%AF%E5%88%A4%E6%96%B7.md"
+              }
+            ]
+          },
+          {
+            "name": "images",
+            "type": "directory",
+            "path": "7. 決策科學/images",
+            "children": []
+          },
+          {
+            "name": "7.2 Berkson's paradox 柏克森悖論.md",
+            "type": "file",
+            "path": "7. 決策科學/7.2 Berkson's paradox 柏克森悖論.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/7.%20%E6%B1%BA%E7%AD%96%E7%A7%91%E5%AD%B8/7.2%20Berkson%27s%20paradox%20%E6%9F%8F%E5%85%8B%E6%A3%AE%E6%82%96%E8%AB%96.md"
+          },
+          {
+            "name": "創作 = 判斷 + 決策.md",
+            "type": "file",
+            "path": "7. 決策科學/創作 = 判斷 + 決策.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/7.%20%E6%B1%BA%E7%AD%96%E7%A7%91%E5%AD%B8/%E5%89%B5%E4%BD%9C%20%3D%20%E5%88%A4%E6%96%B7%20%2B%20%E6%B1%BA%E7%AD%96.md"
+          }
+        ]
+      },
+      {
+        "name": "8. 人工智能",
+        "type": "directory",
+        "path": "8. 人工智能",
+        "children": [
+          {
+            "name": "8.1 AI服務的組件",
+            "type": "directory",
+            "path": "8. 人工智能/8.1 AI服務的組件",
+            "children": [
+              {
+                "name": "8.1a 一個優秀的AI平台（可能）要有的組件.md",
+                "type": "file",
+                "path": "8. 人工智能/8.1 AI服務的組件/8.1a 一個優秀的AI平台（可能）要有的組件.md",
+                "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.1%20AI%E6%9C%8D%E5%8B%99%E7%9A%84%E7%B5%84%E4%BB%B6/8.1a%20%E4%B8%80%E5%80%8B%E5%84%AA%E7%A7%80%E7%9A%84AI%E5%B9%B3%E5%8F%B0%EF%BC%88%E5%8F%AF%E8%83%BD%EF%BC%89%E8%A6%81%E6%9C%89%E7%9A%84%E7%B5%84%E4%BB%B6.md"
+              },
+              {
+                "name": "8.1b Enhance Context 增強上下文.md",
+                "type": "file",
+                "path": "8. 人工智能/8.1 AI服務的組件/8.1b Enhance Context 增強上下文.md",
+                "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.1%20AI%E6%9C%8D%E5%8B%99%E7%9A%84%E7%B5%84%E4%BB%B6/8.1b%20Enhance%20Context%20%E5%A2%9E%E5%BC%B7%E4%B8%8A%E4%B8%8B%E6%96%87.md"
+              },
+              {
+                "name": "8.1b1 Chunker.md",
+                "type": "file",
+                "path": "8. 人工智能/8.1 AI服務的組件/8.1b1 Chunker.md",
+                "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.1%20AI%E6%9C%8D%E5%8B%99%E7%9A%84%E7%B5%84%E4%BB%B6/8.1b1%20Chunker.md"
+              },
+              {
+                "name": "8.1b2 Embedding Model.md",
+                "type": "file",
+                "path": "8. 人工智能/8.1 AI服務的組件/8.1b2 Embedding Model.md",
+                "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.1%20AI%E6%9C%8D%E5%8B%99%E7%9A%84%E7%B5%84%E4%BB%B6/8.1b2%20Embedding%20Model.md"
+              },
+              {
+                "name": "8.1b3 Vector Database.md",
+                "type": "file",
+                "path": "8. 人工智能/8.1 AI服務的組件/8.1b3 Vector Database.md",
+                "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.1%20AI%E6%9C%8D%E5%8B%99%E7%9A%84%E7%B5%84%E4%BB%B6/8.1b3%20Vector%20Database.md"
+              },
+              {
+                "name": "8.1c Guardrails 護欄.md",
+                "type": "file",
+                "path": "8. 人工智能/8.1 AI服務的組件/8.1c Guardrails 護欄.md",
+                "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.1%20AI%E6%9C%8D%E5%8B%99%E7%9A%84%E7%B5%84%E4%BB%B6/8.1c%20Guardrails%20%E8%AD%B7%E6%AC%84.md"
+              },
+              {
+                "name": "8.1d Router and Gateway 路由和閘道.md",
+                "type": "file",
+                "path": "8. 人工智能/8.1 AI服務的組件/8.1d Router and Gateway 路由和閘道.md",
+                "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.1%20AI%E6%9C%8D%E5%8B%99%E7%9A%84%E7%B5%84%E4%BB%B6/8.1d%20Router%20and%20Gateway%20%E8%B7%AF%E7%94%B1%E5%92%8C%E9%96%98%E9%81%93.md"
+              },
+              {
+                "name": "8.1e Cache 緩存.md",
+                "type": "file",
+                "path": "8. 人工智能/8.1 AI服務的組件/8.1e Cache 緩存.md",
+                "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.1%20AI%E6%9C%8D%E5%8B%99%E7%9A%84%E7%B5%84%E4%BB%B6/8.1e%20Cache%20%E7%B7%A9%E5%AD%98.md"
+              },
+              {
+                "name": "8.1f Logic and Actions 複雜邏輯操作.md",
+                "type": "file",
+                "path": "8. 人工智能/8.1 AI服務的組件/8.1f Logic and Actions 複雜邏輯操作.md",
+                "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.1%20AI%E6%9C%8D%E5%8B%99%E7%9A%84%E7%B5%84%E4%BB%B6/8.1f%20Logic%20and%20Actions%20%E8%A4%87%E9%9B%9C%E9%82%8F%E8%BC%AF%E6%93%8D%E4%BD%9C.md"
+              },
+              {
+                "name": "8.1g Observability 可觀測性.md",
+                "type": "file",
+                "path": "8. 人工智能/8.1 AI服務的組件/8.1g Observability 可觀測性.md",
+                "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.1%20AI%E6%9C%8D%E5%8B%99%E7%9A%84%E7%B5%84%E4%BB%B6/8.1g%20Observability%20%E5%8F%AF%E8%A7%80%E6%B8%AC%E6%80%A7.md"
+              },
+              {
+                "name": "8.1h AI Pipeline Orchestration.md",
+                "type": "file",
+                "path": "8. 人工智能/8.1 AI服務的組件/8.1h AI Pipeline Orchestration.md",
+                "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.1%20AI%E6%9C%8D%E5%8B%99%E7%9A%84%E7%B5%84%E4%BB%B6/8.1h%20AI%20Pipeline%20Orchestration.md"
+              }
+            ]
+          },
+          {
+            "name": "8.10 醫療AI",
+            "type": "directory",
+            "path": "8. 人工智能/8.10 醫療AI",
+            "children": [
+              {
+                "name": "images",
+                "type": "directory",
+                "path": "8. 人工智能/8.10 醫療AI/images",
+                "children": []
+              },
+              {
+                "name": "8.10a 如何讓LLM學會單細胞RNA定序的知識C2S-Scale.md",
+                "type": "file",
+                "path": "8. 人工智能/8.10 醫療AI/8.10a 如何讓LLM學會單細胞RNA定序的知識C2S-Scale.md",
+                "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.10%20%E9%86%AB%E7%99%82AI/8.10a%20%E5%A6%82%E4%BD%95%E8%AE%93LLM%E5%AD%B8%E6%9C%83%E5%96%AE%E7%B4%B0%E8%83%9ERNA%E5%AE%9A%E5%BA%8F%E7%9A%84%E7%9F%A5%E8%AD%98C2S-Scale.md"
+              },
+              {
+                "name": "8.10b C2S 一種細胞RNA的有損壓縮.md",
+                "type": "file",
+                "path": "8. 人工智能/8.10 醫療AI/8.10b C2S 一種細胞RNA的有損壓縮.md",
+                "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.10%20%E9%86%AB%E7%99%82AI/8.10b%20C2S%20%E4%B8%80%E7%A8%AE%E7%B4%B0%E8%83%9ERNA%E7%9A%84%E6%9C%89%E6%90%8D%E5%A3%93%E7%B8%AE.md"
+              },
+              {
+                "name": "8.10c C2S-Scale 用了哪些資料集.md",
+                "type": "file",
+                "path": "8. 人工智能/8.10 醫療AI/8.10c C2S-Scale 用了哪些資料集.md",
+                "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.10%20%E9%86%AB%E7%99%82AI/8.10c%20C2S-Scale%20%E7%94%A8%E4%BA%86%E5%93%AA%E4%BA%9B%E8%B3%87%E6%96%99%E9%9B%86.md"
+              }
+            ]
+          },
+          {
+            "name": "8.2 如何優化RAG服務",
+            "type": "directory",
+            "path": "8. 人工智能/8.2 如何優化RAG服務",
+            "children": [
+              {
+                "name": "8.2a1a 優化指標",
+                "type": "directory",
+                "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1a 優化指標",
+                "children": [
+                  {
+                    "name": "8.2a1b Answer Correctness 答案正確性.md",
+                    "type": "file",
+                    "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1a 優化指標/8.2a1b Answer Correctness 答案正確性.md",
+                    "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.2%20%E5%A6%82%E4%BD%95%E5%84%AA%E5%8C%96RAG%E6%9C%8D%E5%8B%99/8.2a1a%20%E5%84%AA%E5%8C%96%E6%8C%87%E6%A8%99/8.2a1b%20Answer%20Correctness%20%E7%AD%94%E6%A1%88%E6%AD%A3%E7%A2%BA%E6%80%A7.md"
+                  },
+                  {
+                    "name": "8.2a1c Context Recall 上下文召回率.md",
+                    "type": "file",
+                    "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1a 優化指標/8.2a1c Context Recall 上下文召回率.md",
+                    "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.2%20%E5%A6%82%E4%BD%95%E5%84%AA%E5%8C%96RAG%E6%9C%8D%E5%8B%99/8.2a1a%20%E5%84%AA%E5%8C%96%E6%8C%87%E6%A8%99/8.2a1c%20Context%20Recall%20%E4%B8%8A%E4%B8%8B%E6%96%87%E5%8F%AC%E5%9B%9E%E7%8E%87.md"
+                  },
+                  {
+                    "name": "8.2a1d Groundedness.md",
+                    "type": "file",
+                    "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1a 優化指標/8.2a1d Groundedness.md",
+                    "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.2%20%E5%A6%82%E4%BD%95%E5%84%AA%E5%8C%96RAG%E6%9C%8D%E5%8B%99/8.2a1a%20%E5%84%AA%E5%8C%96%E6%8C%87%E6%A8%99/8.2a1d%20Groundedness.md"
+                  },
+                  {
+                    "name": "8.2a1e Context Entities Recall.md",
+                    "type": "file",
+                    "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1a 優化指標/8.2a1e Context Entities Recall.md",
+                    "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.2%20%E5%A6%82%E4%BD%95%E5%84%AA%E5%8C%96RAG%E6%9C%8D%E5%8B%99/8.2a1a%20%E5%84%AA%E5%8C%96%E6%8C%87%E6%A8%99/8.2a1e%20Context%20Entities%20Recall.md"
+                  },
+                  {
+                    "name": "8.2a1f Noise Sensitivity 噪聲敏感度.md",
+                    "type": "file",
+                    "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1a 優化指標/8.2a1f Noise Sensitivity 噪聲敏感度.md",
+                    "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.2%20%E5%A6%82%E4%BD%95%E5%84%AA%E5%8C%96RAG%E6%9C%8D%E5%8B%99/8.2a1a%20%E5%84%AA%E5%8C%96%E6%8C%87%E6%A8%99/8.2a1f%20Noise%20Sensitivity%20%E5%99%AA%E8%81%B2%E6%95%8F%E6%84%9F%E5%BA%A6.md"
+                  },
+                  {
+                    "name": "8.2a1g Context Relevance.md",
+                    "type": "file",
+                    "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1a 優化指標/8.2a1g Context Relevance.md",
+                    "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.2%20%E5%A6%82%E4%BD%95%E5%84%AA%E5%8C%96RAG%E6%9C%8D%E5%8B%99/8.2a1a%20%E5%84%AA%E5%8C%96%E6%8C%87%E6%A8%99/8.2a1g%20Context%20Relevance.md"
+                  },
+                  {
+                    "name": "8.2a1h Context Utilization with LLM 上下文利用率.md",
+                    "type": "file",
+                    "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1a 優化指標/8.2a1h Context Utilization with LLM 上下文利用率.md",
+                    "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.2%20%E5%A6%82%E4%BD%95%E5%84%AA%E5%8C%96RAG%E6%9C%8D%E5%8B%99/8.2a1a%20%E5%84%AA%E5%8C%96%E6%8C%87%E6%A8%99/8.2a1h%20Context%20Utilization%20with%20LLM%20%E4%B8%8A%E4%B8%8B%E6%96%87%E5%88%A9%E7%94%A8%E7%8E%87.md"
+                  },
+                  {
+                    "name": "8.2a1i Context Relevance.md",
+                    "type": "file",
+                    "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1a 優化指標/8.2a1i Context Relevance.md",
+                    "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.2%20%E5%A6%82%E4%BD%95%E5%84%AA%E5%8C%96RAG%E6%9C%8D%E5%8B%99/8.2a1a%20%E5%84%AA%E5%8C%96%E6%8C%87%E6%A8%99/8.2a1i%20Context%20Relevance.md"
+                  },
+                  {
+                    "name": "8.2a1j Context Precision 上下文精確性.md",
+                    "type": "file",
+                    "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1a 優化指標/8.2a1j Context Precision 上下文精確性.md",
+                    "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.2%20%E5%A6%82%E4%BD%95%E5%84%AA%E5%8C%96RAG%E6%9C%8D%E5%8B%99/8.2a1a%20%E5%84%AA%E5%8C%96%E6%8C%87%E6%A8%99/8.2a1j%20Context%20Precision%20%E4%B8%8A%E4%B8%8B%E6%96%87%E7%B2%BE%E7%A2%BA%E6%80%A7.md"
+                  },
+                  {
+                    "name": "8.2a1k Answer Relevance.md",
+                    "type": "file",
+                    "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1a 優化指標/8.2a1k Answer Relevance.md",
+                    "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.2%20%E5%A6%82%E4%BD%95%E5%84%AA%E5%8C%96RAG%E6%9C%8D%E5%8B%99/8.2a1a%20%E5%84%AA%E5%8C%96%E6%8C%87%E6%A8%99/8.2a1k%20Answer%20Relevance.md"
+                  },
+                  {
+                    "name": "8.2a1l Summarization 摘要指標.md",
+                    "type": "file",
+                    "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1a 優化指標/8.2a1l Summarization 摘要指標.md",
+                    "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.2%20%E5%A6%82%E4%BD%95%E5%84%AA%E5%8C%96RAG%E6%9C%8D%E5%8B%99/8.2a1a%20%E5%84%AA%E5%8C%96%E6%8C%87%E6%A8%99/8.2a1l%20Summarization%20%E6%91%98%E8%A6%81%E6%8C%87%E6%A8%99.md"
+                  },
+                  {
+                    "name": "8.2a1m Response Completeness.md",
+                    "type": "file",
+                    "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1a 優化指標/8.2a1m Response Completeness.md",
+                    "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.2%20%E5%A6%82%E4%BD%95%E5%84%AA%E5%8C%96RAG%E6%9C%8D%E5%8B%99/8.2a1a%20%E5%84%AA%E5%8C%96%E6%8C%87%E6%A8%99/8.2a1m%20Response%20Completeness.md"
+                  },
+                  {
+                    "name": "8.2a1n Response Consistency 回應一致性.md",
+                    "type": "file",
+                    "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1a 優化指標/8.2a1n Response Consistency 回應一致性.md",
+                    "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.2%20%E5%A6%82%E4%BD%95%E5%84%AA%E5%8C%96RAG%E6%9C%8D%E5%8B%99/8.2a1a%20%E5%84%AA%E5%8C%96%E6%8C%87%E6%A8%99/8.2a1n%20Response%20Consistency%20%E5%9B%9E%E6%87%89%E4%B8%80%E8%87%B4%E6%80%A7.md"
+                  },
+                  {
+                    "name": "8.2a1o Faithfulness 忠實性分數.md",
+                    "type": "file",
+                    "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1a 優化指標/8.2a1o Faithfulness 忠實性分數.md",
+                    "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.2%20%E5%A6%82%E4%BD%95%E5%84%AA%E5%8C%96RAG%E6%9C%8D%E5%8B%99/8.2a1a%20%E5%84%AA%E5%8C%96%E6%8C%87%E6%A8%99/8.2a1o%20Faithfulness%20%E5%BF%A0%E5%AF%A6%E6%80%A7%E5%88%86%E6%95%B8.md"
+                  },
+                  {
+                    "name": "8.2a1p Factual Accuracy 事實準確性.md",
+                    "type": "file",
+                    "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1a 優化指標/8.2a1p Factual Accuracy 事實準確性.md",
+                    "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.2%20%E5%A6%82%E4%BD%95%E5%84%AA%E5%8C%96RAG%E6%9C%8D%E5%8B%99/8.2a1a%20%E5%84%AA%E5%8C%96%E6%8C%87%E6%A8%99/8.2a1p%20Factual%20Accuracy%20%E4%BA%8B%E5%AF%A6%E6%BA%96%E7%A2%BA%E6%80%A7.md"
+                  }
+                ]
+              },
+              {
+                "name": "8.2a 評估驅動設計.md",
+                "type": "file",
+                "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a 評估驅動設計.md",
+                "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.2%20%E5%A6%82%E4%BD%95%E5%84%AA%E5%8C%96RAG%E6%9C%8D%E5%8B%99/8.2a%20%E8%A9%95%E4%BC%B0%E9%A9%85%E5%8B%95%E8%A8%AD%E8%A8%88.md"
+              },
+              {
+                "name": "8.2a1 優化指標索引.md",
+                "type": "file",
+                "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1 優化指標索引.md",
+                "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.2%20%E5%A6%82%E4%BD%95%E5%84%AA%E5%8C%96RAG%E6%9C%8D%E5%8B%99/8.2a1%20%E5%84%AA%E5%8C%96%E6%8C%87%E6%A8%99%E7%B4%A2%E5%BC%95.md"
+              },
+              {
+                "name": "8.2a1h Context Utilization 上下文利用率.md",
+                "type": "file",
+                "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1h Context Utilization 上下文利用率.md",
+                "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.2%20%E5%A6%82%E4%BD%95%E5%84%AA%E5%8C%96RAG%E6%9C%8D%E5%8B%99/8.2a1h%20Context%20Utilization%20%E4%B8%8A%E4%B8%8B%E6%96%87%E5%88%A9%E7%94%A8%E7%8E%87.md"
+              },
+              {
+                "name": "8.2a1j Context Precision with LLM with Reference 上下文精確性.md",
+                "type": "file",
+                "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1j Context Precision with LLM with Reference 上下文精確性.md",
+                "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.2%20%E5%A6%82%E4%BD%95%E5%84%AA%E5%8C%96RAG%E6%9C%8D%E5%8B%99/8.2a1j%20Context%20Precision%20with%20LLM%20with%20Reference%20%E4%B8%8A%E4%B8%8B%E6%96%87%E7%B2%BE%E7%A2%BA%E6%80%A7.md"
+              },
+              {
+                "name": "8.2a1j Context Precision with LLM without Reference 上下文精確性.md",
+                "type": "file",
+                "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1j Context Precision with LLM without Reference 上下文精確性.md",
+                "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.2%20%E5%A6%82%E4%BD%95%E5%84%AA%E5%8C%96RAG%E6%9C%8D%E5%8B%99/8.2a1j%20Context%20Precision%20with%20LLM%20without%20Reference%20%E4%B8%8A%E4%B8%8B%E6%96%87%E7%B2%BE%E7%A2%BA%E6%80%A7.md"
+              },
+              {
+                "name": "8.2a1j Contextual Precision 上下文精確度.md",
+                "type": "file",
+                "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1j Contextual Precision 上下文精確度.md",
+                "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.2%20%E5%A6%82%E4%BD%95%E5%84%AA%E5%8C%96RAG%E6%9C%8D%E5%8B%99/8.2a1j%20Contextual%20Precision%20%E4%B8%8A%E4%B8%8B%E6%96%87%E7%B2%BE%E7%A2%BA%E5%BA%A6.md"
+              },
+              {
+                "name": "8.2a1k Response Relevance 回應相關性.md",
+                "type": "file",
+                "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1k Response Relevance 回應相關性.md",
+                "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.2%20%E5%A6%82%E4%BD%95%E5%84%AA%E5%8C%96RAG%E6%9C%8D%E5%8B%99/8.2a1k%20Response%20Relevance%20%E5%9B%9E%E6%87%89%E7%9B%B8%E9%97%9C%E6%80%A7.md"
+              },
+              {
+                "name": "8.2a1o FaithfulnessMetric 忠實性分數.md",
+                "type": "file",
+                "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1o FaithfulnessMetric 忠實性分數.md",
+                "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.2%20%E5%A6%82%E4%BD%95%E5%84%AA%E5%8C%96RAG%E6%9C%8D%E5%8B%99/8.2a1o%20FaithfulnessMetric%20%E5%BF%A0%E5%AF%A6%E6%80%A7%E5%88%86%E6%95%B8.md"
+              },
+              {
+                "name": "8.2a1o Response Validity 回應有效性.md",
+                "type": "file",
+                "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1o Response Validity 回應有效性.md",
+                "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.2%20%E5%A6%82%E4%BD%95%E5%84%AA%E5%8C%96RAG%E6%9C%8D%E5%8B%99/8.2a1o%20Response%20Validity%20%E5%9B%9E%E6%87%89%E6%9C%89%E6%95%88%E6%80%A7.md"
+              },
+              {
+                "name": "8.2a1p Hallucination 幻覺分數.md",
+                "type": "file",
+                "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1p Hallucination 幻覺分數.md",
+                "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.2%20%E5%A6%82%E4%BD%95%E5%84%AA%E5%8C%96RAG%E6%9C%8D%E5%8B%99/8.2a1p%20Hallucination%20%E5%B9%BB%E8%A6%BA%E5%88%86%E6%95%B8.md"
+              },
+              {
+                "name": "8.2a1p Response Conciseness 回應簡潔性.md",
+                "type": "file",
+                "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1p Response Conciseness 回應簡潔性.md",
+                "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.2%20%E5%A6%82%E4%BD%95%E5%84%AA%E5%8C%96RAG%E6%9C%8D%E5%8B%99/8.2a1p%20Response%20Conciseness%20%E5%9B%9E%E6%87%89%E7%B0%A1%E6%BD%94%E6%80%A7.md"
+              }
+            ]
+          },
+          {
+            "name": "8.4 Agentic System",
+            "type": "directory",
+            "path": "8. 人工智能/8.4 Agentic System",
+            "children": [
+              {
+                "name": "images",
+                "type": "directory",
+                "path": "8. 人工智能/8.4 Agentic System/images",
+                "children": []
+              },
+              {
+                "name": "8.4a ReAct 架構 反應與行為.md",
+                "type": "file",
+                "path": "8. 人工智能/8.4 Agentic System/8.4a ReAct 架構 反應與行為.md",
+                "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.4%20Agentic%20System/8.4a%20ReAct%20%E6%9E%B6%E6%A7%8B%20%E5%8F%8D%E6%87%89%E8%88%87%E8%A1%8C%E7%82%BA.md"
+              },
+              {
+                "name": "8.4b LangGraph 基本組件.md",
+                "type": "file",
+                "path": "8. 人工智能/8.4 Agentic System/8.4b LangGraph 基本組件.md",
+                "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.4%20Agentic%20System/8.4b%20LangGraph%20%E5%9F%BA%E6%9C%AC%E7%B5%84%E4%BB%B6.md"
+              },
+              {
+                "name": "8.4b1 DAG 和 AG.md",
+                "type": "file",
+                "path": "8. 人工智能/8.4 Agentic System/8.4b1 DAG 和 AG.md",
+                "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.4%20Agentic%20System/8.4b1%20DAG%20%E5%92%8C%20AG.md"
+              },
+              {
+                "name": "8.4c Tool Calling.md",
+                "type": "file",
+                "path": "8. 人工智能/8.4 Agentic System/8.4c Tool Calling.md",
+                "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.4%20Agentic%20System/8.4c%20Tool%20Calling.md"
+              },
+              {
+                "name": "8.4c1 非同步的Tool Calling.md",
+                "type": "file",
+                "path": "8. 人工智能/8.4 Agentic System/8.4c1 非同步的Tool Calling.md",
+                "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.4%20Agentic%20System/8.4c1%20%E9%9D%9E%E5%90%8C%E6%AD%A5%E7%9A%84Tool%20Calling.md"
+              }
+            ]
+          },
+          {
+            "name": "8.8 負責任AI",
+            "type": "directory",
+            "path": "8. 人工智能/8.8 負責任AI",
+            "children": [
+              {
+                "name": "8.8a 衛福部AI法規",
+                "type": "directory",
+                "path": "8. 人工智能/8.8 負責任AI/8.8a 衛福部AI法規",
+                "children": [
+                  {
+                    "name": "images",
+                    "type": "directory",
+                    "path": "8. 人工智能/8.8 負責任AI/8.8a 衛福部AI法規/images",
+                    "children": []
+                  },
+                  {
+                    "name": "8.8a1 CADe&CADx 技術指引.md",
+                    "type": "file",
+                    "path": "8. 人工智能/8.8 負責任AI/8.8a 衛福部AI法規/8.8a1 CADe&CADx 技術指引.md",
+                    "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.8%20%E8%B2%A0%E8%B2%AC%E4%BB%BBAI/8.8a%20%E8%A1%9B%E7%A6%8F%E9%83%A8AI%E6%B3%95%E8%A6%8F/8.8a1%20CADe%26CADx%20%E6%8A%80%E8%A1%93%E6%8C%87%E5%BC%95.md"
+                  },
+                  {
+                    "name": "8.8a2  獨立性能評估 SPA 常見問答集.md",
+                    "type": "file",
+                    "path": "8. 人工智能/8.8 負責任AI/8.8a 衛福部AI法規/8.8a2  獨立性能評估 SPA 常見問答集.md",
+                    "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.8%20%E8%B2%A0%E8%B2%AC%E4%BB%BBAI/8.8a%20%E8%A1%9B%E7%A6%8F%E9%83%A8AI%E6%B3%95%E8%A6%8F/8.8a2%20%20%E7%8D%A8%E7%AB%8B%E6%80%A7%E8%83%BD%E8%A9%95%E4%BC%B0%20SPA%20%E5%B8%B8%E8%A6%8B%E5%95%8F%E7%AD%94%E9%9B%86.md"
+                  },
+                  {
+                    "name": "8.8a3 九大透明性原則.md",
+                    "type": "file",
+                    "path": "8. 人工智能/8.8 負責任AI/8.8a 衛福部AI法規/8.8a3 九大透明性原則.md",
+                    "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.8%20%E8%B2%A0%E8%B2%AC%E4%BB%BBAI/8.8a%20%E8%A1%9B%E7%A6%8F%E9%83%A8AI%E6%B3%95%E8%A6%8F/8.8a3%20%E4%B9%9D%E5%A4%A7%E9%80%8F%E6%98%8E%E6%80%A7%E5%8E%9F%E5%89%87.md"
+                  }
+                ]
+              },
+              {
+                "name": "8.8b 美國醫療演算法偏見案.md",
+                "type": "file",
+                "path": "8. 人工智能/8.8 負責任AI/8.8b 美國醫療演算法偏見案.md",
+                "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.8%20%E8%B2%A0%E8%B2%AC%E4%BB%BBAI/8.8b%20%E7%BE%8E%E5%9C%8B%E9%86%AB%E7%99%82%E6%BC%94%E7%AE%97%E6%B3%95%E5%81%8F%E8%A6%8B%E6%A1%88.md"
+              }
+            ]
+          },
+          {
+            "name": "8.9 XAI",
+            "type": "directory",
+            "path": "8. 人工智能/8.9 XAI",
+            "children": [
+              {
+                "name": "8.9a LIME and SHAP.md",
+                "type": "file",
+                "path": "8. 人工智能/8.9 XAI/8.9a LIME and SHAP.md",
+                "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.9%20XAI/8.9a%20LIME%20and%20SHAP.md"
+              }
+            ]
+          },
+          {
+            "name": "8.3 身為一個工程師，沒有考慮成本的 AI Agent 架構是沒有意義的。.md",
+            "type": "file",
+            "path": "8. 人工智能/8.3 身為一個工程師，沒有考慮成本的 AI Agent 架構是沒有意義的。.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.3%20%E8%BA%AB%E7%82%BA%E4%B8%80%E5%80%8B%E5%B7%A5%E7%A8%8B%E5%B8%AB%EF%BC%8C%E6%B2%92%E6%9C%89%E8%80%83%E6%85%AE%E6%88%90%E6%9C%AC%E7%9A%84%20AI%20Agent%20%E6%9E%B6%E6%A7%8B%E6%98%AF%E6%B2%92%E6%9C%89%E6%84%8F%E7%BE%A9%E7%9A%84%E3%80%82.md"
+          },
+          {
+            "name": "8.4 在notebook環境中安裝ollama.md",
+            "type": "file",
+            "path": "8. 人工智能/8.4 在notebook環境中安裝ollama.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.4%20%E5%9C%A8notebook%E7%92%B0%E5%A2%83%E4%B8%AD%E5%AE%89%E8%A3%9Dollama.md"
+          },
+          {
+            "name": "8.5 建立有效的反饋機制.md",
+            "type": "file",
+            "path": "8. 人工智能/8.5 建立有效的反饋機制.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.5%20%E5%BB%BA%E7%AB%8B%E6%9C%89%E6%95%88%E7%9A%84%E5%8F%8D%E9%A5%8B%E6%A9%9F%E5%88%B6.md"
+          },
+          {
+            "name": "8.7 Speculative Decoding LLM加速服務.md",
+            "type": "file",
+            "path": "8. 人工智能/8.7 Speculative Decoding LLM加速服務.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.7%20Speculative%20Decoding%20LLM%E5%8A%A0%E9%80%9F%E6%9C%8D%E5%8B%99.md"
+          }
+        ]
+      },
+      {
+        "name": "9. 專案管理",
+        "type": "directory",
+        "path": "9. 專案管理",
+        "children": [
+          {
+            "name": "9.1 敏捷和瀑布的出路，Hybrid 專案管理.md",
+            "type": "file",
+            "path": "9. 專案管理/9.1 敏捷和瀑布的出路，Hybrid 專案管理.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/9.%20%E5%B0%88%E6%A1%88%E7%AE%A1%E7%90%86/9.1%20%E6%95%8F%E6%8D%B7%E5%92%8C%E7%80%91%E5%B8%83%E7%9A%84%E5%87%BA%E8%B7%AF%EF%BC%8CHybrid%20%E5%B0%88%E6%A1%88%E7%AE%A1%E7%90%86.md"
+          },
+          {
+            "name": "9.1a 如果我們的動作很難快，例如很難快速上線，或是快速更版，快速重構，那還適合敏捷嗎？.md",
+            "type": "file",
+            "path": "9. 專案管理/9.1a 如果我們的動作很難快，例如很難快速上線，或是快速更版，快速重構，那還適合敏捷嗎？.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/9.%20%E5%B0%88%E6%A1%88%E7%AE%A1%E7%90%86/9.1a%20%E5%A6%82%E6%9E%9C%E6%88%91%E5%80%91%E7%9A%84%E5%8B%95%E4%BD%9C%E5%BE%88%E9%9B%A3%E5%BF%AB%EF%BC%8C%E4%BE%8B%E5%A6%82%E5%BE%88%E9%9B%A3%E5%BF%AB%E9%80%9F%E4%B8%8A%E7%B7%9A%EF%BC%8C%E6%88%96%E6%98%AF%E5%BF%AB%E9%80%9F%E6%9B%B4%E7%89%88%EF%BC%8C%E5%BF%AB%E9%80%9F%E9%87%8D%E6%A7%8B%EF%BC%8C%E9%82%A3%E9%82%84%E9%81%A9%E5%90%88%E6%95%8F%E6%8D%B7%E5%97%8E%EF%BC%9F.md"
+          },
+          {
+            "name": "9.1b 敏捷式的軟體架構，是不是要更有“彈性”？.md",
+            "type": "file",
+            "path": "9. 專案管理/9.1b 敏捷式的軟體架構，是不是要更有“彈性”？.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/9.%20%E5%B0%88%E6%A1%88%E7%AE%A1%E7%90%86/9.1b%20%E6%95%8F%E6%8D%B7%E5%BC%8F%E7%9A%84%E8%BB%9F%E9%AB%94%E6%9E%B6%E6%A7%8B%EF%BC%8C%E6%98%AF%E4%B8%8D%E6%98%AF%E8%A6%81%E6%9B%B4%E6%9C%89%E2%80%9C%E5%BD%88%E6%80%A7%E2%80%9D%EF%BC%9F.md"
+          },
+          {
+            "name": "9.2 溝通型簡報和表演型簡報.md",
+            "type": "file",
+            "path": "9. 專案管理/9.2 溝通型簡報和表演型簡報.md",
+            "url": "https://SamLiaoP.github.io/obsidian_card/9.%20%E5%B0%88%E6%A1%88%E7%AE%A1%E7%90%86/9.2%20%E6%BA%9D%E9%80%9A%E5%9E%8B%E7%B0%A1%E5%A0%B1%E5%92%8C%E8%A1%A8%E6%BC%94%E5%9E%8B%E7%B0%A1%E5%A0%B1.md"
+          }
+        ]
+      },
+      {
+        "name": "DEPLOY_GUIDE.md",
+        "type": "file",
+        "path": "DEPLOY_GUIDE.md",
+        "url": "https://SamLiaoP.github.io/obsidian_card/DEPLOY_GUIDE.md"
+      }
+    ]
+  },
+  "files": [
+    {
+      "name": "1.1a Why? 卡片盒筆記是想法的串連.md",
+      "path": "1. 個人知識管理/1.1 卡片盒筆記/1.1a Why? 卡片盒筆記是想法的串連.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/1.%20%E5%80%8B%E4%BA%BA%E7%9F%A5%E8%AD%98%E7%AE%A1%E7%90%86/1.1%20%E5%8D%A1%E7%89%87%E7%9B%92%E7%AD%86%E8%A8%98/1.1a%20Why%3F%20%E5%8D%A1%E7%89%87%E7%9B%92%E7%AD%86%E8%A8%98%E6%98%AF%E6%83%B3%E6%B3%95%E7%9A%84%E4%B8%B2%E9%80%A3.md"
+    },
+    {
+      "name": "1.1a1 什麼時候要寫卡片？當你「在意」時。.md",
+      "path": "1. 個人知識管理/1.1 卡片盒筆記/1.1a1 什麼時候要寫卡片？當你「在意」時。.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/1.%20%E5%80%8B%E4%BA%BA%E7%9F%A5%E8%AD%98%E7%AE%A1%E7%90%86/1.1%20%E5%8D%A1%E7%89%87%E7%9B%92%E7%AD%86%E8%A8%98/1.1a1%20%E4%BB%80%E9%BA%BC%E6%99%82%E5%80%99%E8%A6%81%E5%AF%AB%E5%8D%A1%E7%89%87%EF%BC%9F%E7%95%B6%E4%BD%A0%E3%80%8C%E5%9C%A8%E6%84%8F%E3%80%8D%E6%99%82%E3%80%82.md"
+    },
+    {
+      "name": "1.1a2 我覺得既使還不知道為什麼要，也該紀錄.md",
+      "path": "1. 個人知識管理/1.1 卡片盒筆記/1.1a2 我覺得既使還不知道為什麼要，也該紀錄.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/1.%20%E5%80%8B%E4%BA%BA%E7%9F%A5%E8%AD%98%E7%AE%A1%E7%90%86/1.1%20%E5%8D%A1%E7%89%87%E7%9B%92%E7%AD%86%E8%A8%98/1.1a2%20%E6%88%91%E8%A6%BA%E5%BE%97%E6%97%A2%E4%BD%BF%E9%82%84%E4%B8%8D%E7%9F%A5%E9%81%93%E7%82%BA%E4%BB%80%E9%BA%BC%E8%A6%81%EF%BC%8C%E4%B9%9F%E8%A9%B2%E7%B4%80%E9%8C%84.md"
+    },
+    {
+      "name": "1.1b How? 如何產出卡片盒筆記？.md",
+      "path": "1. 個人知識管理/1.1 卡片盒筆記/1.1b How? 如何產出卡片盒筆記？.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/1.%20%E5%80%8B%E4%BA%BA%E7%9F%A5%E8%AD%98%E7%AE%A1%E7%90%86/1.1%20%E5%8D%A1%E7%89%87%E7%9B%92%E7%AD%86%E8%A8%98/1.1b%20How%3F%20%E5%A6%82%E4%BD%95%E7%94%A2%E5%87%BA%E5%8D%A1%E7%89%87%E7%9B%92%E7%AD%86%E8%A8%98%EF%BC%9F.md"
+    },
+    {
+      "name": "1.1b1 筆記怎麼寫？.md",
+      "path": "1. 個人知識管理/1.1 卡片盒筆記/1.1b1 筆記怎麼寫？.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/1.%20%E5%80%8B%E4%BA%BA%E7%9F%A5%E8%AD%98%E7%AE%A1%E7%90%86/1.1%20%E5%8D%A1%E7%89%87%E7%9B%92%E7%AD%86%E8%A8%98/1.1b1%20%E7%AD%86%E8%A8%98%E6%80%8E%E9%BA%BC%E5%AF%AB%EF%BC%9F.md"
+    },
+    {
+      "name": "1.1b2 卡片怎麼寫？.md",
+      "path": "1. 個人知識管理/1.1 卡片盒筆記/1.1b2 卡片怎麼寫？.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/1.%20%E5%80%8B%E4%BA%BA%E7%9F%A5%E8%AD%98%E7%AE%A1%E7%90%86/1.1%20%E5%8D%A1%E7%89%87%E7%9B%92%E7%AD%86%E8%A8%98/1.1b2%20%E5%8D%A1%E7%89%87%E6%80%8E%E9%BA%BC%E5%AF%AB%EF%BC%9F.md"
+    },
+    {
+      "name": "1.1b2a 什麼時候要把筆記變成卡片.md",
+      "path": "1. 個人知識管理/1.1 卡片盒筆記/1.1b2a 什麼時候要把筆記變成卡片.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/1.%20%E5%80%8B%E4%BA%BA%E7%9F%A5%E8%AD%98%E7%AE%A1%E7%90%86/1.1%20%E5%8D%A1%E7%89%87%E7%9B%92%E7%AD%86%E8%A8%98/1.1b2a%20%E4%BB%80%E9%BA%BC%E6%99%82%E5%80%99%E8%A6%81%E6%8A%8A%E7%AD%86%E8%A8%98%E8%AE%8A%E6%88%90%E5%8D%A1%E7%89%87.md"
+    },
+    {
+      "name": "1.1b3 如何分類卡片？.md",
+      "path": "1. 個人知識管理/1.1 卡片盒筆記/1.1b3 如何分類卡片？.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/1.%20%E5%80%8B%E4%BA%BA%E7%9F%A5%E8%AD%98%E7%AE%A1%E7%90%86/1.1%20%E5%8D%A1%E7%89%87%E7%9B%92%E7%AD%86%E8%A8%98/1.1b3%20%E5%A6%82%E4%BD%95%E5%88%86%E9%A1%9E%E5%8D%A1%E7%89%87%EF%BC%9F.md"
+    },
+    {
+      "name": "1.1b3a ACCESS筆記分類法.md",
+      "path": "1. 個人知識管理/1.1 卡片盒筆記/1.1b3a ACCESS筆記分類法.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/1.%20%E5%80%8B%E4%BA%BA%E7%9F%A5%E8%AD%98%E7%AE%A1%E7%90%86/1.1%20%E5%8D%A1%E7%89%87%E7%9B%92%E7%AD%86%E8%A8%98/1.1b3a%20ACCESS%E7%AD%86%E8%A8%98%E5%88%86%E9%A1%9E%E6%B3%95.md"
+    },
+    {
+      "name": "1.1b3b 魯曼卡片索引法.md",
+      "path": "1. 個人知識管理/1.1 卡片盒筆記/1.1b3b 魯曼卡片索引法.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/1.%20%E5%80%8B%E4%BA%BA%E7%9F%A5%E8%AD%98%E7%AE%A1%E7%90%86/1.1%20%E5%8D%A1%E7%89%87%E7%9B%92%E7%AD%86%E8%A8%98/1.1b3b%20%E9%AD%AF%E6%9B%BC%E5%8D%A1%E7%89%87%E7%B4%A2%E5%BC%95%E6%B3%95.md"
+    },
+    {
+      "name": "1.1c1 What? 如何使用卡片？ 產出MOC.md",
+      "path": "1. 個人知識管理/1.1 卡片盒筆記/1.1c1 What? 如何使用卡片？ 產出MOC.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/1.%20%E5%80%8B%E4%BA%BA%E7%9F%A5%E8%AD%98%E7%AE%A1%E7%90%86/1.1%20%E5%8D%A1%E7%89%87%E7%9B%92%E7%AD%86%E8%A8%98/1.1c1%20What%3F%20%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E5%8D%A1%E7%89%87%EF%BC%9F%20%E7%94%A2%E5%87%BAMOC.md"
+    },
+    {
+      "name": "10.1 主街致富法 - 擁有某物，比出售時間更有價值.md",
+      "path": "10. 投資/10.1 主街致富法 - 擁有某物，比出售時間更有價值.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/10.%20%E6%8A%95%E8%B3%87/10.1%20%E4%B8%BB%E8%A1%97%E8%87%B4%E5%AF%8C%E6%B3%95%20-%20%E6%93%81%E6%9C%89%E6%9F%90%E7%89%A9%EF%BC%8C%E6%AF%94%E5%87%BA%E5%94%AE%E6%99%82%E9%96%93%E6%9B%B4%E6%9C%89%E5%83%B9%E5%80%BC.md"
+    },
+    {
+      "name": "10.1a 如何選擇標的？絕對不是夢想.md",
+      "path": "10. 投資/10.1a 如何選擇標的？絕對不是夢想.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/10.%20%E6%8A%95%E8%B3%87/10.1a%20%E5%A6%82%E4%BD%95%E9%81%B8%E6%93%87%E6%A8%99%E7%9A%84%EF%BC%9F%E7%B5%95%E5%B0%8D%E4%B8%8D%E6%98%AF%E5%A4%A2%E6%83%B3.md"
+    },
+    {
+      "name": "10.1b 收購最好走利潤回饋法.md",
+      "path": "10. 投資/10.1b 收購最好走利潤回饋法.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/10.%20%E6%8A%95%E8%B3%87/10.1b%20%E6%94%B6%E8%B3%BC%E6%9C%80%E5%A5%BD%E8%B5%B0%E5%88%A9%E6%BD%A4%E5%9B%9E%E9%A5%8B%E6%B3%95.md"
+    },
+    {
+      "name": "10.1c 管理的目標是讓自己不用管理.md",
+      "path": "10. 投資/10.1c 管理的目標是讓自己不用管理.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/10.%20%E6%8A%95%E8%B3%87/10.1c%20%E7%AE%A1%E7%90%86%E7%9A%84%E7%9B%AE%E6%A8%99%E6%98%AF%E8%AE%93%E8%87%AA%E5%B7%B1%E4%B8%8D%E7%94%A8%E7%AE%A1%E7%90%86.md"
+    },
+    {
+      "name": "2.1 條件式入學是一個成本高但可以避免成績不夠的入學方式.md",
+      "path": "2. 海外工作計畫/2.1 條件式入學是一個成本高但可以避免成績不夠的入學方式.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/2.%20%E6%B5%B7%E5%A4%96%E5%B7%A5%E4%BD%9C%E8%A8%88%E7%95%AB/2.1%20%E6%A2%9D%E4%BB%B6%E5%BC%8F%E5%85%A5%E5%AD%B8%E6%98%AF%E4%B8%80%E5%80%8B%E6%88%90%E6%9C%AC%E9%AB%98%E4%BD%86%E5%8F%AF%E4%BB%A5%E9%81%BF%E5%85%8D%E6%88%90%E7%B8%BE%E4%B8%8D%E5%A4%A0%E7%9A%84%E5%85%A5%E5%AD%B8%E6%96%B9%E5%BC%8F.md"
+    },
+    {
+      "name": "2.2 出國預算盤點.md",
+      "path": "2. 海外工作計畫/2.2 出國預算盤點.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/2.%20%E6%B5%B7%E5%A4%96%E5%B7%A5%E4%BD%9C%E8%A8%88%E7%95%AB/2.2%20%E5%87%BA%E5%9C%8B%E9%A0%90%E7%AE%97%E7%9B%A4%E9%BB%9E.md"
+    },
+    {
+      "name": "2.3 海外求職管道.md",
+      "path": "2. 海外工作計畫/2.3 海外求職管道.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/2.%20%E6%B5%B7%E5%A4%96%E5%B7%A5%E4%BD%9C%E8%A8%88%E7%95%AB/2.3%20%E6%B5%B7%E5%A4%96%E6%B1%82%E8%81%B7%E7%AE%A1%E9%81%93.md"
+    },
+    {
+      "name": "2.4 出國工作的LIST循環.md",
+      "path": "2. 海外工作計畫/2.4 出國工作的LIST循環.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/2.%20%E6%B5%B7%E5%A4%96%E5%B7%A5%E4%BD%9C%E8%A8%88%E7%95%AB/2.4%20%E5%87%BA%E5%9C%8B%E5%B7%A5%E4%BD%9C%E7%9A%84LIST%E5%BE%AA%E7%92%B0.md"
+    },
+    {
+      "name": "2.4a Localize 融入當地.md",
+      "path": "2. 海外工作計畫/2.4a Localize 融入當地.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/2.%20%E6%B5%B7%E5%A4%96%E5%B7%A5%E4%BD%9C%E8%A8%88%E7%95%AB/2.4a%20Localize%20%E8%9E%8D%E5%85%A5%E7%95%B6%E5%9C%B0.md"
+    },
+    {
+      "name": "2.4a1 如何決定地點？.md",
+      "path": "2. 海外工作計畫/2.4a1 如何決定地點？.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/2.%20%E6%B5%B7%E5%A4%96%E5%B7%A5%E4%BD%9C%E8%A8%88%E7%95%AB/2.4a1%20%E5%A6%82%E4%BD%95%E6%B1%BA%E5%AE%9A%E5%9C%B0%E9%BB%9E%EF%BC%9F.md"
+    },
+    {
+      "name": "2.4a2 有關簽證.md",
+      "path": "2. 海外工作計畫/2.4a2 有關簽證.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/2.%20%E6%B5%B7%E5%A4%96%E5%B7%A5%E4%BD%9C%E8%A8%88%E7%95%AB/2.4a2%20%E6%9C%89%E9%97%9C%E7%B0%BD%E8%AD%89.md"
+    },
+    {
+      "name": "2.4a3 外語能力.md",
+      "path": "2. 海外工作計畫/2.4a3 外語能力.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/2.%20%E6%B5%B7%E5%A4%96%E5%B7%A5%E4%BD%9C%E8%A8%88%E7%95%AB/2.4a3%20%E5%A4%96%E8%AA%9E%E8%83%BD%E5%8A%9B.md"
+    },
+    {
+      "name": "2.4b Internationalize 跨出國界.md",
+      "path": "2. 海外工作計畫/2.4b Internationalize 跨出國界.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/2.%20%E6%B5%B7%E5%A4%96%E5%B7%A5%E4%BD%9C%E8%A8%88%E7%95%AB/2.4b%20Internationalize%20%E8%B7%A8%E5%87%BA%E5%9C%8B%E7%95%8C.md"
+    },
+    {
+      "name": "2.4b1 撰寫一頁式履歷.md",
+      "path": "2. 海外工作計畫/2.4b1 撰寫一頁式履歷.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/2.%20%E6%B5%B7%E5%A4%96%E5%B7%A5%E4%BD%9C%E8%A8%88%E7%95%AB/2.4b1%20%E6%92%B0%E5%AF%AB%E4%B8%80%E9%A0%81%E5%BC%8F%E5%B1%A5%E6%AD%B7.md"
+    },
+    {
+      "name": "2.4b2 Linkdin 經營.md",
+      "path": "2. 海外工作計畫/2.4b2 Linkdin 經營.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/2.%20%E6%B5%B7%E5%A4%96%E5%B7%A5%E4%BD%9C%E8%A8%88%E7%95%AB/2.4b2%20Linkdin%20%E7%B6%93%E7%87%9F.md"
+    },
+    {
+      "name": "2.4c Strengthen 強化專業.md",
+      "path": "2. 海外工作計畫/2.4c Strengthen 強化專業.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/2.%20%E6%B5%B7%E5%A4%96%E5%B7%A5%E4%BD%9C%E8%A8%88%E7%95%AB/2.4c%20Strengthen%20%E5%BC%B7%E5%8C%96%E5%B0%88%E6%A5%AD.md"
+    },
+    {
+      "name": "2.4d Test 不斷測試.md",
+      "path": "2. 海外工作計畫/2.4d Test 不斷測試.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/2.%20%E6%B5%B7%E5%A4%96%E5%B7%A5%E4%BD%9C%E8%A8%88%E7%95%AB/2.4d%20Test%20%E4%B8%8D%E6%96%B7%E6%B8%AC%E8%A9%A6.md"
+    },
+    {
+      "name": "2.4z Why?為什麼要出國？.md",
+      "path": "2. 海外工作計畫/2.4z Why?為什麼要出國？.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/2.%20%E6%B5%B7%E5%A4%96%E5%B7%A5%E4%BD%9C%E8%A8%88%E7%95%AB/2.4z%20Why%3F%E7%82%BA%E4%BB%80%E9%BA%BC%E8%A6%81%E5%87%BA%E5%9C%8B%EF%BC%9F.md"
+    },
+    {
+      "name": "軟體工程師在愛爾蘭.md",
+      "path": "2. 海外工作計畫/軟體工程師在愛爾蘭.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/2.%20%E6%B5%B7%E5%A4%96%E5%B7%A5%E4%BD%9C%E8%A8%88%E7%95%AB/%E8%BB%9F%E9%AB%94%E5%B7%A5%E7%A8%8B%E5%B8%AB%E5%9C%A8%E6%84%9B%E7%88%BE%E8%98%AD.md"
+    },
+    {
+      "name": "3.1 把投票當成職業運動比賽.md",
+      "path": "3. 人生的價值觀/3.1 把投票當成職業運動比賽.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/3.%20%E4%BA%BA%E7%94%9F%E7%9A%84%E5%83%B9%E5%80%BC%E8%A7%80/3.1%20%E6%8A%8A%E6%8A%95%E7%A5%A8%E7%95%B6%E6%88%90%E8%81%B7%E6%A5%AD%E9%81%8B%E5%8B%95%E6%AF%94%E8%B3%BD.md"
+    },
+    {
+      "name": "3.10 自我觀察，我似乎蠻擅長講故事？.md",
+      "path": "3. 人生的價值觀/3.10 自我觀察，我似乎蠻擅長講故事？.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/3.%20%E4%BA%BA%E7%94%9F%E7%9A%84%E5%83%B9%E5%80%BC%E8%A7%80/3.10%20%E8%87%AA%E6%88%91%E8%A7%80%E5%AF%9F%EF%BC%8C%E6%88%91%E4%BC%BC%E4%B9%8E%E8%A0%BB%E6%93%85%E9%95%B7%E8%AC%9B%E6%95%85%E4%BA%8B%EF%BC%9F.md"
+    },
+    {
+      "name": "3.11 Goal, Purpose, Mission, and Telos.md",
+      "path": "3. 人生的價值觀/3.11 Goal, Purpose, Mission, and Telos.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/3.%20%E4%BA%BA%E7%94%9F%E7%9A%84%E5%83%B9%E5%80%BC%E8%A7%80/3.11%20Goal%2C%20Purpose%2C%20Mission%2C%20and%20Telos.md"
+    },
+    {
+      "name": "3.11a 四者的關係.md",
+      "path": "3. 人生的價值觀/3.11a 四者的關係.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/3.%20%E4%BA%BA%E7%94%9F%E7%9A%84%E5%83%B9%E5%80%BC%E8%A7%80/3.11a%20%E5%9B%9B%E8%80%85%E7%9A%84%E9%97%9C%E4%BF%82.md"
+    },
+    {
+      "name": "3.12 野生問題 - 那些不做不知道的事情.md",
+      "path": "3. 人生的價值觀/3.12 野生問題 - 那些不做不知道的事情.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/3.%20%E4%BA%BA%E7%94%9F%E7%9A%84%E5%83%B9%E5%80%BC%E8%A7%80/3.12%20%E9%87%8E%E7%94%9F%E5%95%8F%E9%A1%8C%20-%20%E9%82%A3%E4%BA%9B%E4%B8%8D%E5%81%9A%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E4%BA%8B%E6%83%85.md"
+    },
+    {
+      "name": "3.13 Eudaimonia 追求繁榮的人 - 發揮個人潛能、實現意義與成就.md",
+      "path": "3. 人生的價值觀/3.13 Eudaimonia 追求繁榮的人 - 發揮個人潛能、實現意義與成就.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/3.%20%E4%BA%BA%E7%94%9F%E7%9A%84%E5%83%B9%E5%80%BC%E8%A7%80/3.13%20Eudaimonia%20%E8%BF%BD%E6%B1%82%E7%B9%81%E6%A6%AE%E7%9A%84%E4%BA%BA%20-%20%E7%99%BC%E6%8F%AE%E5%80%8B%E4%BA%BA%E6%BD%9B%E8%83%BD%E3%80%81%E5%AF%A6%E7%8F%BE%E6%84%8F%E7%BE%A9%E8%88%87%E6%88%90%E5%B0%B1.md"
+    },
+    {
+      "name": "3.14 一切都是被決定好的，但放心，你還是獨一無二且無法被預測的.md",
+      "path": "3. 人生的價值觀/3.14 一切都是被決定好的，但放心，你還是獨一無二且無法被預測的.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/3.%20%E4%BA%BA%E7%94%9F%E7%9A%84%E5%83%B9%E5%80%BC%E8%A7%80/3.14%20%E4%B8%80%E5%88%87%E9%83%BD%E6%98%AF%E8%A2%AB%E6%B1%BA%E5%AE%9A%E5%A5%BD%E7%9A%84%EF%BC%8C%E4%BD%86%E6%94%BE%E5%BF%83%EF%BC%8C%E4%BD%A0%E9%82%84%E6%98%AF%E7%8D%A8%E4%B8%80%E7%84%A1%E4%BA%8C%E4%B8%94%E7%84%A1%E6%B3%95%E8%A2%AB%E9%A0%90%E6%B8%AC%E7%9A%84.md"
+    },
+    {
+      "name": "3.15 關於我的擇偶條件和愛情觀.md",
+      "path": "3. 人生的價值觀/3.15 關於我的擇偶條件和愛情觀.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/3.%20%E4%BA%BA%E7%94%9F%E7%9A%84%E5%83%B9%E5%80%BC%E8%A7%80/3.15%20%E9%97%9C%E6%96%BC%E6%88%91%E7%9A%84%E6%93%87%E5%81%B6%E6%A2%9D%E4%BB%B6%E5%92%8C%E6%84%9B%E6%83%85%E8%A7%80.md"
+    },
+    {
+      "name": "3.15a 感情不用一開始就傾盡所有，但只要我認定對方值得，我會毫無保留。因為我寧願受傷，也不要遺憾。.md",
+      "path": "3. 人生的價值觀/3.15a 感情不用一開始就傾盡所有，但只要我認定對方值得，我會毫無保留。因為我寧願受傷，也不要遺憾。.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/3.%20%E4%BA%BA%E7%94%9F%E7%9A%84%E5%83%B9%E5%80%BC%E8%A7%80/3.15a%20%E6%84%9F%E6%83%85%E4%B8%8D%E7%94%A8%E4%B8%80%E9%96%8B%E5%A7%8B%E5%B0%B1%E5%82%BE%E7%9B%A1%E6%89%80%E6%9C%89%EF%BC%8C%E4%BD%86%E5%8F%AA%E8%A6%81%E6%88%91%E8%AA%8D%E5%AE%9A%E5%B0%8D%E6%96%B9%E5%80%BC%E5%BE%97%EF%BC%8C%E6%88%91%E6%9C%83%E6%AF%AB%E7%84%A1%E4%BF%9D%E7%95%99%E3%80%82%E5%9B%A0%E7%82%BA%E6%88%91%E5%AF%A7%E9%A1%98%E5%8F%97%E5%82%B7%EF%BC%8C%E4%B9%9F%E4%B8%8D%E8%A6%81%E9%81%BA%E6%86%BE%E3%80%82.md"
+    },
+    {
+      "name": "3.15b 延伸：感情不用一開始就傾盡所有，但只要我認定對方值得，我會毫無保留。因為我寧願受傷，也不要遺憾跟後悔。但我也該學著保留點空間，接受他人的愛，讓對方有機會來愛我。.md",
+      "path": "3. 人生的價值觀/3.15b 延伸：感情不用一開始就傾盡所有，但只要我認定對方值得，我會毫無保留。因為我寧願受傷，也不要遺憾跟後悔。但我也該學著保留點空間，接受他人的愛，讓對方有機會來愛我。.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/3.%20%E4%BA%BA%E7%94%9F%E7%9A%84%E5%83%B9%E5%80%BC%E8%A7%80/3.15b%20%E5%BB%B6%E4%BC%B8%EF%BC%9A%E6%84%9F%E6%83%85%E4%B8%8D%E7%94%A8%E4%B8%80%E9%96%8B%E5%A7%8B%E5%B0%B1%E5%82%BE%E7%9B%A1%E6%89%80%E6%9C%89%EF%BC%8C%E4%BD%86%E5%8F%AA%E8%A6%81%E6%88%91%E8%AA%8D%E5%AE%9A%E5%B0%8D%E6%96%B9%E5%80%BC%E5%BE%97%EF%BC%8C%E6%88%91%E6%9C%83%E6%AF%AB%E7%84%A1%E4%BF%9D%E7%95%99%E3%80%82%E5%9B%A0%E7%82%BA%E6%88%91%E5%AF%A7%E9%A1%98%E5%8F%97%E5%82%B7%EF%BC%8C%E4%B9%9F%E4%B8%8D%E8%A6%81%E9%81%BA%E6%86%BE%E8%B7%9F%E5%BE%8C%E6%82%94%E3%80%82%E4%BD%86%E6%88%91%E4%B9%9F%E8%A9%B2%E5%AD%B8%E8%91%97%E4%BF%9D%E7%95%99%E9%BB%9E%E7%A9%BA%E9%96%93%EF%BC%8C%E6%8E%A5%E5%8F%97%E4%BB%96%E4%BA%BA%E7%9A%84%E6%84%9B%EF%BC%8C%E8%AE%93%E5%B0%8D%E6%96%B9%E6%9C%89%E6%A9%9F%E6%9C%83%E4%BE%86%E6%84%9B%E6%88%91%E3%80%82.md"
+    },
+    {
+      "name": "3.16 新發現！我會用文字結構來思考，但疲倦時不一樣.md",
+      "path": "3. 人生的價值觀/3.16 新發現！我會用文字結構來思考，但疲倦時不一樣.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/3.%20%E4%BA%BA%E7%94%9F%E7%9A%84%E5%83%B9%E5%80%BC%E8%A7%80/3.16%20%E6%96%B0%E7%99%BC%E7%8F%BE%EF%BC%81%E6%88%91%E6%9C%83%E7%94%A8%E6%96%87%E5%AD%97%E7%B5%90%E6%A7%8B%E4%BE%86%E6%80%9D%E8%80%83%EF%BC%8C%E4%BD%86%E7%96%B2%E5%80%A6%E6%99%82%E4%B8%8D%E4%B8%80%E6%A8%A3.md"
+    },
+    {
+      "name": "3.17 認知閉合需要與認知需要.md",
+      "path": "3. 人生的價值觀/3.17 認知閉合需要與認知需要.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/3.%20%E4%BA%BA%E7%94%9F%E7%9A%84%E5%83%B9%E5%80%BC%E8%A7%80/3.17%20%E8%AA%8D%E7%9F%A5%E9%96%89%E5%90%88%E9%9C%80%E8%A6%81%E8%88%87%E8%AA%8D%E7%9F%A5%E9%9C%80%E8%A6%81.md"
+    },
+    {
+      "name": "3.17a 認知閉合 X 安全感 X 焦慮.md",
+      "path": "3. 人生的價值觀/3.17a 認知閉合 X 安全感 X 焦慮.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/3.%20%E4%BA%BA%E7%94%9F%E7%9A%84%E5%83%B9%E5%80%BC%E8%A7%80/3.17a%20%E8%AA%8D%E7%9F%A5%E9%96%89%E5%90%88%20X%20%E5%AE%89%E5%85%A8%E6%84%9F%20X%20%E7%84%A6%E6%85%AE.md"
+    },
+    {
+      "name": "3.18 原始世界信念 Primal World Beliefs.md",
+      "path": "3. 人生的價值觀/3.18 原始世界信念 Primal World Beliefs.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/3.%20%E4%BA%BA%E7%94%9F%E7%9A%84%E5%83%B9%E5%80%BC%E8%A7%80/3.18%20%E5%8E%9F%E5%A7%8B%E4%B8%96%E7%95%8C%E4%BF%A1%E5%BF%B5%20Primal%20World%20Beliefs.md"
+    },
+    {
+      "name": "3.19 不只要找到自己不要什麼，也要找到自己要什麼。.md",
+      "path": "3. 人生的價值觀/3.19 不只要找到自己不要什麼，也要找到自己要什麼。.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/3.%20%E4%BA%BA%E7%94%9F%E7%9A%84%E5%83%B9%E5%80%BC%E8%A7%80/3.19%20%E4%B8%8D%E5%8F%AA%E8%A6%81%E6%89%BE%E5%88%B0%E8%87%AA%E5%B7%B1%E4%B8%8D%E8%A6%81%E4%BB%80%E9%BA%BC%EF%BC%8C%E4%B9%9F%E8%A6%81%E6%89%BE%E5%88%B0%E8%87%AA%E5%B7%B1%E8%A6%81%E4%BB%80%E9%BA%BC%E3%80%82.md"
+    },
+    {
+      "name": "3.1a 每個人都是含淚投票，因為沒有人是完人。.md",
+      "path": "3. 人生的價值觀/3.1a 每個人都是含淚投票，因為沒有人是完人。.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/3.%20%E4%BA%BA%E7%94%9F%E7%9A%84%E5%83%B9%E5%80%BC%E8%A7%80/3.1a%20%E6%AF%8F%E5%80%8B%E4%BA%BA%E9%83%BD%E6%98%AF%E5%90%AB%E6%B7%9A%E6%8A%95%E7%A5%A8%EF%BC%8C%E5%9B%A0%E7%82%BA%E6%B2%92%E6%9C%89%E4%BA%BA%E6%98%AF%E5%AE%8C%E4%BA%BA%E3%80%82.md"
+    },
+    {
+      "name": "3.1b 該支持的是民主，而不是台灣？.md",
+      "path": "3. 人生的價值觀/3.1b 該支持的是民主，而不是台灣？.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/3.%20%E4%BA%BA%E7%94%9F%E7%9A%84%E5%83%B9%E5%80%BC%E8%A7%80/3.1b%20%E8%A9%B2%E6%94%AF%E6%8C%81%E7%9A%84%E6%98%AF%E6%B0%91%E4%B8%BB%EF%BC%8C%E8%80%8C%E4%B8%8D%E6%98%AF%E5%8F%B0%E7%81%A3%EF%BC%9F.md"
+    },
+    {
+      "name": "3.2 對於媒體娛樂業有不明所以的厭惡.md",
+      "path": "3. 人生的價值觀/3.2 對於媒體娛樂業有不明所以的厭惡.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/3.%20%E4%BA%BA%E7%94%9F%E7%9A%84%E5%83%B9%E5%80%BC%E8%A7%80/3.2%20%E5%B0%8D%E6%96%BC%E5%AA%92%E9%AB%94%E5%A8%9B%E6%A8%82%E6%A5%AD%E6%9C%89%E4%B8%8D%E6%98%8E%E6%89%80%E4%BB%A5%E7%9A%84%E5%8E%AD%E6%83%A1.md"
+    },
+    {
+      "name": "3.3 一邊自我實現，一邊自我發現。.md",
+      "path": "3. 人生的價值觀/3.3 一邊自我實現，一邊自我發現。.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/3.%20%E4%BA%BA%E7%94%9F%E7%9A%84%E5%83%B9%E5%80%BC%E8%A7%80/3.3%20%E4%B8%80%E9%82%8A%E8%87%AA%E6%88%91%E5%AF%A6%E7%8F%BE%EF%BC%8C%E4%B8%80%E9%82%8A%E8%87%AA%E6%88%91%E7%99%BC%E7%8F%BE%E3%80%82.md"
+    },
+    {
+      "name": "3.4 愛自己是認知到自己被不應得的愛給愛著.md",
+      "path": "3. 人生的價值觀/3.4 愛自己是認知到自己被不應得的愛給愛著.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/3.%20%E4%BA%BA%E7%94%9F%E7%9A%84%E5%83%B9%E5%80%BC%E8%A7%80/3.4%20%E6%84%9B%E8%87%AA%E5%B7%B1%E6%98%AF%E8%AA%8D%E7%9F%A5%E5%88%B0%E8%87%AA%E5%B7%B1%E8%A2%AB%E4%B8%8D%E6%87%89%E5%BE%97%E7%9A%84%E6%84%9B%E7%B5%A6%E6%84%9B%E8%91%97.md"
+    },
+    {
+      "name": "3.4a 愛自己是照護好自己.md",
+      "path": "3. 人生的價值觀/3.4a 愛自己是照護好自己.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/3.%20%E4%BA%BA%E7%94%9F%E7%9A%84%E5%83%B9%E5%80%BC%E8%A7%80/3.4a%20%E6%84%9B%E8%87%AA%E5%B7%B1%E6%98%AF%E7%85%A7%E8%AD%B7%E5%A5%BD%E8%87%AA%E5%B7%B1.md"
+    },
+    {
+      "name": "3.5 快樂要間隔，因為你不想習慣它；痛苦要集中，因為習慣能減輕痛苦。.md",
+      "path": "3. 人生的價值觀/3.5 快樂要間隔，因為你不想習慣它；痛苦要集中，因為習慣能減輕痛苦。.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/3.%20%E4%BA%BA%E7%94%9F%E7%9A%84%E5%83%B9%E5%80%BC%E8%A7%80/3.5%20%E5%BF%AB%E6%A8%82%E8%A6%81%E9%96%93%E9%9A%94%EF%BC%8C%E5%9B%A0%E7%82%BA%E4%BD%A0%E4%B8%8D%E6%83%B3%E7%BF%92%E6%85%A3%E5%AE%83%EF%BC%9B%E7%97%9B%E8%8B%A6%E8%A6%81%E9%9B%86%E4%B8%AD%EF%BC%8C%E5%9B%A0%E7%82%BA%E7%BF%92%E6%85%A3%E8%83%BD%E6%B8%9B%E8%BC%95%E7%97%9B%E8%8B%A6%E3%80%82.md"
+    },
+    {
+      "name": "3.6 安全感有兩種 位置與自身.md",
+      "path": "3. 人生的價值觀/3.6 安全感有兩種 位置與自身.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/3.%20%E4%BA%BA%E7%94%9F%E7%9A%84%E5%83%B9%E5%80%BC%E8%A7%80/3.6%20%E5%AE%89%E5%85%A8%E6%84%9F%E6%9C%89%E5%85%A9%E7%A8%AE%20%E4%BD%8D%E7%BD%AE%E8%88%87%E8%87%AA%E8%BA%AB.md"
+    },
+    {
+      "name": "3.7 地位跟金錢都該只是副產品.md",
+      "path": "3. 人生的價值觀/3.7 地位跟金錢都該只是副產品.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/3.%20%E4%BA%BA%E7%94%9F%E7%9A%84%E5%83%B9%E5%80%BC%E8%A7%80/3.7%20%E5%9C%B0%E4%BD%8D%E8%B7%9F%E9%87%91%E9%8C%A2%E9%83%BD%E8%A9%B2%E5%8F%AA%E6%98%AF%E5%89%AF%E7%94%A2%E5%93%81.md"
+    },
+    {
+      "name": "3.8 量化是手段而不是目的，它不該是目的.md",
+      "path": "3. 人生的價值觀/3.8 量化是手段而不是目的，它不該是目的.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/3.%20%E4%BA%BA%E7%94%9F%E7%9A%84%E5%83%B9%E5%80%BC%E8%A7%80/3.8%20%E9%87%8F%E5%8C%96%E6%98%AF%E6%89%8B%E6%AE%B5%E8%80%8C%E4%B8%8D%E6%98%AF%E7%9B%AE%E7%9A%84%EF%BC%8C%E5%AE%83%E4%B8%8D%E8%A9%B2%E6%98%AF%E7%9B%AE%E7%9A%84.md"
+    },
+    {
+      "name": "3.9 貝葉斯信念-自我修正的機制.md",
+      "path": "3. 人生的價值觀/3.9 貝葉斯信念-自我修正的機制.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/3.%20%E4%BA%BA%E7%94%9F%E7%9A%84%E5%83%B9%E5%80%BC%E8%A7%80/3.9%20%E8%B2%9D%E8%91%89%E6%96%AF%E4%BF%A1%E5%BF%B5-%E8%87%AA%E6%88%91%E4%BF%AE%E6%AD%A3%E7%9A%84%E6%A9%9F%E5%88%B6.md"
+    },
+    {
+      "name": "3.9a 民主和科學 - 貝葉斯信念.md",
+      "path": "3. 人生的價值觀/3.9a 民主和科學 - 貝葉斯信念.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/3.%20%E4%BA%BA%E7%94%9F%E7%9A%84%E5%83%B9%E5%80%BC%E8%A7%80/3.9a%20%E6%B0%91%E4%B8%BB%E5%92%8C%E7%A7%91%E5%AD%B8%20-%20%E8%B2%9D%E8%91%89%E6%96%AF%E4%BF%A1%E5%BF%B5.md"
+    },
+    {
+      "name": "3.9a1 罷免制度真的有必要嗎？.md",
+      "path": "3. 人生的價值觀/3.9a1 罷免制度真的有必要嗎？.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/3.%20%E4%BA%BA%E7%94%9F%E7%9A%84%E5%83%B9%E5%80%BC%E8%A7%80/3.9a1%20%E7%BD%B7%E5%85%8D%E5%88%B6%E5%BA%A6%E7%9C%9F%E7%9A%84%E6%9C%89%E5%BF%85%E8%A6%81%E5%97%8E%EF%BC%9F.md"
+    },
+    {
+      "name": "4.1a 物件、類別、方法和屬性.md",
+      "path": "4. 軟體開發/4.1 物件導向設計/4.1a 物件、類別、方法和屬性.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.1%20%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91%E8%A8%AD%E8%A8%88/4.1a%20%E7%89%A9%E4%BB%B6%E3%80%81%E9%A1%9E%E5%88%A5%E3%80%81%E6%96%B9%E6%B3%95%E5%92%8C%E5%B1%AC%E6%80%A7.md"
+    },
+    {
+      "name": "4.1a1 物件(object)與實例(instance)的差別.md",
+      "path": "4. 軟體開發/4.1 物件導向設計/4.1a1 物件(object)與實例(instance)的差別.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.1%20%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91%E8%A8%AD%E8%A8%88/4.1a1%20%E7%89%A9%E4%BB%B6%28object%29%E8%88%87%E5%AF%A6%E4%BE%8B%28instance%29%E7%9A%84%E5%B7%AE%E5%88%A5.md"
+    },
+    {
+      "name": "4.1b1 SOLID 原則.md",
+      "path": "4. 軟體開發/4.1 物件導向設計/4.1b SOLID/4.1b1 SOLID 原則.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.1%20%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91%E8%A8%AD%E8%A8%88/4.1b%20SOLID/4.1b1%20SOLID%20%E5%8E%9F%E5%89%87.md"
+    },
+    {
+      "name": "4.1b2 OCP 開放封閉原則.md",
+      "path": "4. 軟體開發/4.1 物件導向設計/4.1b SOLID/4.1b2 OCP 開放封閉原則.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.1%20%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91%E8%A8%AD%E8%A8%88/4.1b%20SOLID/4.1b2%20OCP%20%E9%96%8B%E6%94%BE%E5%B0%81%E9%96%89%E5%8E%9F%E5%89%87.md"
+    },
+    {
+      "name": "4.1b3 SRP 單一職責原則.md",
+      "path": "4. 軟體開發/4.1 物件導向設計/4.1b SOLID/4.1b3 SRP 單一職責原則.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.1%20%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91%E8%A8%AD%E8%A8%88/4.1b%20SOLID/4.1b3%20SRP%20%E5%96%AE%E4%B8%80%E8%81%B7%E8%B2%AC%E5%8E%9F%E5%89%87.md"
+    },
+    {
+      "name": "4.1b4 LSP里氏替換原則.md",
+      "path": "4. 軟體開發/4.1 物件導向設計/4.1b SOLID/4.1b4 LSP里氏替換原則.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.1%20%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91%E8%A8%AD%E8%A8%88/4.1b%20SOLID/4.1b4%20LSP%E9%87%8C%E6%B0%8F%E6%9B%BF%E6%8F%9B%E5%8E%9F%E5%89%87.md"
+    },
+    {
+      "name": "4.1b5 ISP介面隔離原則.md",
+      "path": "4. 軟體開發/4.1 物件導向設計/4.1b SOLID/4.1b5 ISP介面隔離原則.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.1%20%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91%E8%A8%AD%E8%A8%88/4.1b%20SOLID/4.1b5%20ISP%E4%BB%8B%E9%9D%A2%E9%9A%94%E9%9B%A2%E5%8E%9F%E5%89%87.md"
+    },
+    {
+      "name": "4.1b6 DIP 依賴倒置原則.md",
+      "path": "4. 軟體開發/4.1 物件導向設計/4.1b SOLID/4.1b6 DIP 依賴倒置原則.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.1%20%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91%E8%A8%AD%E8%A8%88/4.1b%20SOLID/4.1b6%20DIP%20%E4%BE%9D%E8%B3%B4%E5%80%92%E7%BD%AE%E5%8E%9F%E5%89%87.md"
+    },
+    {
+      "name": "4.1c1 設計模式的六大原則.md",
+      "path": "4. 軟體開發/4.1 物件導向設計/4.1c 設計模式原則/4.1c1 設計模式的六大原則.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.1%20%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91%E8%A8%AD%E8%A8%88/4.1c%20%E8%A8%AD%E8%A8%88%E6%A8%A1%E5%BC%8F%E5%8E%9F%E5%89%87/4.1c1%20%E8%A8%AD%E8%A8%88%E6%A8%A1%E5%BC%8F%E7%9A%84%E5%85%AD%E5%A4%A7%E5%8E%9F%E5%89%87.md"
+    },
+    {
+      "name": "4.1c2 LoD原則.md",
+      "path": "4. 軟體開發/4.1 物件導向設計/4.1c 設計模式原則/4.1c2 LoD原則.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.1%20%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91%E8%A8%AD%E8%A8%88/4.1c%20%E8%A8%AD%E8%A8%88%E6%A8%A1%E5%BC%8F%E5%8E%9F%E5%89%87/4.1c2%20LoD%E5%8E%9F%E5%89%87.md"
+    },
+    {
+      "name": "4.1c3 DRY原則.md",
+      "path": "4. 軟體開發/4.1 物件導向設計/4.1c 設計模式原則/4.1c3 DRY原則.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.1%20%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91%E8%A8%AD%E8%A8%88/4.1c%20%E8%A8%AD%E8%A8%88%E6%A8%A1%E5%BC%8F%E5%8E%9F%E5%89%87/4.1c3%20DRY%E5%8E%9F%E5%89%87.md"
+    },
+    {
+      "name": "4.1c4 KISS原則.md",
+      "path": "4. 軟體開發/4.1 物件導向設計/4.1c 設計模式原則/4.1c4 KISS原則.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.1%20%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91%E8%A8%AD%E8%A8%88/4.1c%20%E8%A8%AD%E8%A8%88%E6%A8%A1%E5%BC%8F%E5%8E%9F%E5%89%87/4.1c4%20KISS%E5%8E%9F%E5%89%87.md"
+    },
+    {
+      "name": "4.1c5 YAGNI原則.md",
+      "path": "4. 軟體開發/4.1 物件導向設計/4.1c 設計模式原則/4.1c5 YAGNI原則.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.1%20%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91%E8%A8%AD%E8%A8%88/4.1c%20%E8%A8%AD%E8%A8%88%E6%A8%A1%E5%BC%8F%E5%8E%9F%E5%89%87/4.1c5%20YAGNI%E5%8E%9F%E5%89%87.md"
+    },
+    {
+      "name": "4.1c6 CQS原則.md",
+      "path": "4. 軟體開發/4.1 物件導向設計/4.1c 設計模式原則/4.1c6 CQS原則.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.1%20%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91%E8%A8%AD%E8%A8%88/4.1c%20%E8%A8%AD%E8%A8%88%E6%A8%A1%E5%BC%8F%E5%8E%9F%E5%89%87/4.1c6%20CQS%E5%8E%9F%E5%89%87.md"
+    },
+    {
+      "name": "4.1c7 Rule Of Three原則.md",
+      "path": "4. 軟體開發/4.1 物件導向設計/4.1c 設計模式原則/4.1c7 Rule Of Three原則.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.1%20%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91%E8%A8%AD%E8%A8%88/4.1c%20%E8%A8%AD%E8%A8%88%E6%A8%A1%E5%BC%8F%E5%8E%9F%E5%89%87/4.1c7%20Rule%20Of%20Three%E5%8E%9F%E5%89%87.md"
+    },
+    {
+      "name": "4.1d1 設計模式三大分類.md",
+      "path": "4. 軟體開發/4.1 物件導向設計/4.1d 設計模式/4.1d1 設計模式三大分類.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.1%20%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91%E8%A8%AD%E8%A8%88/4.1d%20%E8%A8%AD%E8%A8%88%E6%A8%A1%E5%BC%8F/4.1d1%20%E8%A8%AD%E8%A8%88%E6%A8%A1%E5%BC%8F%E4%B8%89%E5%A4%A7%E5%88%86%E9%A1%9E.md"
+    },
+    {
+      "name": "4.1d2a 職責鏈模式.md",
+      "path": "4. 軟體開發/4.1 物件導向設計/4.1d 設計模式/4.1d2 行為型模式/4.1d2a 職責鏈模式.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.1%20%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91%E8%A8%AD%E8%A8%88/4.1d%20%E8%A8%AD%E8%A8%88%E6%A8%A1%E5%BC%8F/4.1d2%20%E8%A1%8C%E7%82%BA%E5%9E%8B%E6%A8%A1%E5%BC%8F/4.1d2a%20%E8%81%B7%E8%B2%AC%E9%8F%88%E6%A8%A1%E5%BC%8F.md"
+    },
+    {
+      "name": "4.1d2b 策略模式.md",
+      "path": "4. 軟體開發/4.1 物件導向設計/4.1d 設計模式/4.1d2 行為型模式/4.1d2b 策略模式.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.1%20%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91%E8%A8%AD%E8%A8%88/4.1d%20%E8%A8%AD%E8%A8%88%E6%A8%A1%E5%BC%8F/4.1d2%20%E8%A1%8C%E7%82%BA%E5%9E%8B%E6%A8%A1%E5%BC%8F/4.1d2b%20%E7%AD%96%E7%95%A5%E6%A8%A1%E5%BC%8F.md"
+    },
+    {
+      "name": "4.1d2b1 策略模式跟工廠模式很像？.md",
+      "path": "4. 軟體開發/4.1 物件導向設計/4.1d 設計模式/4.1d2 行為型模式/4.1d2b1 策略模式跟工廠模式很像？.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.1%20%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91%E8%A8%AD%E8%A8%88/4.1d%20%E8%A8%AD%E8%A8%88%E6%A8%A1%E5%BC%8F/4.1d2%20%E8%A1%8C%E7%82%BA%E5%9E%8B%E6%A8%A1%E5%BC%8F/4.1d2b1%20%E7%AD%96%E7%95%A5%E6%A8%A1%E5%BC%8F%E8%B7%9F%E5%B7%A5%E5%BB%A0%E6%A8%A1%E5%BC%8F%E5%BE%88%E5%83%8F%EF%BC%9F.md"
+    },
+    {
+      "name": "4.1d2c 觀察者模式.md",
+      "path": "4. 軟體開發/4.1 物件導向設計/4.1d 設計模式/4.1d2 行為型模式/4.1d2c 觀察者模式.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.1%20%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91%E8%A8%AD%E8%A8%88/4.1d%20%E8%A8%AD%E8%A8%88%E6%A8%A1%E5%BC%8F/4.1d2%20%E8%A1%8C%E7%82%BA%E5%9E%8B%E6%A8%A1%E5%BC%8F/4.1d2c%20%E8%A7%80%E5%AF%9F%E8%80%85%E6%A8%A1%E5%BC%8F.md"
+    },
+    {
+      "name": "4.1d3a 適配器模式.md",
+      "path": "4. 軟體開發/4.1 物件導向設計/4.1d 設計模式/4.1d3 結構型模式/4.1d3a 適配器模式.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.1%20%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91%E8%A8%AD%E8%A8%88/4.1d%20%E8%A8%AD%E8%A8%88%E6%A8%A1%E5%BC%8F/4.1d3%20%E7%B5%90%E6%A7%8B%E5%9E%8B%E6%A8%A1%E5%BC%8F/4.1d3a%20%E9%81%A9%E9%85%8D%E5%99%A8%E6%A8%A1%E5%BC%8F.md"
+    },
+    {
+      "name": "4.1d3b 組合模式.md",
+      "path": "4. 軟體開發/4.1 物件導向設計/4.1d 設計模式/4.1d3 結構型模式/4.1d3b 組合模式.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.1%20%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91%E8%A8%AD%E8%A8%88/4.1d%20%E8%A8%AD%E8%A8%88%E6%A8%A1%E5%BC%8F/4.1d3%20%E7%B5%90%E6%A7%8B%E5%9E%8B%E6%A8%A1%E5%BC%8F/4.1d3b%20%E7%B5%84%E5%90%88%E6%A8%A1%E5%BC%8F.md"
+    },
+    {
+      "name": "4.1d3c 代理模式.md",
+      "path": "4. 軟體開發/4.1 物件導向設計/4.1d 設計模式/4.1d3 結構型模式/4.1d3c 代理模式.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.1%20%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91%E8%A8%AD%E8%A8%88/4.1d%20%E8%A8%AD%E8%A8%88%E6%A8%A1%E5%BC%8F/4.1d3%20%E7%B5%90%E6%A7%8B%E5%9E%8B%E6%A8%A1%E5%BC%8F/4.1d3c%20%E4%BB%A3%E7%90%86%E6%A8%A1%E5%BC%8F.md"
+    },
+    {
+      "name": "4.1d3d 裝飾模式.md",
+      "path": "4. 軟體開發/4.1 物件導向設計/4.1d 設計模式/4.1d3 結構型模式/4.1d3d 裝飾模式.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.1%20%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91%E8%A8%AD%E8%A8%88/4.1d%20%E8%A8%AD%E8%A8%88%E6%A8%A1%E5%BC%8F/4.1d3%20%E7%B5%90%E6%A7%8B%E5%9E%8B%E6%A8%A1%E5%BC%8F/4.1d3d%20%E8%A3%9D%E9%A3%BE%E6%A8%A1%E5%BC%8F.md"
+    },
+    {
+      "name": "4.1d4a 工廠模式.md",
+      "path": "4. 軟體開發/4.1 物件導向設計/4.1d 設計模式/4.1d4 創建式模式/4.1d4a 工廠模式.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.1%20%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91%E8%A8%AD%E8%A8%88/4.1d%20%E8%A8%AD%E8%A8%88%E6%A8%A1%E5%BC%8F/4.1d4%20%E5%89%B5%E5%BB%BA%E5%BC%8F%E6%A8%A1%E5%BC%8F/4.1d4a%20%E5%B7%A5%E5%BB%A0%E6%A8%A1%E5%BC%8F.md"
+    },
+    {
+      "name": "4.1d4b 虛擬工廠模式.md",
+      "path": "4. 軟體開發/4.1 物件導向設計/4.1d 設計模式/4.1d4 創建式模式/4.1d4b 虛擬工廠模式.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.1%20%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91%E8%A8%AD%E8%A8%88/4.1d%20%E8%A8%AD%E8%A8%88%E6%A8%A1%E5%BC%8F/4.1d4%20%E5%89%B5%E5%BB%BA%E5%BC%8F%E6%A8%A1%E5%BC%8F/4.1d4b%20%E8%99%9B%E6%93%AC%E5%B7%A5%E5%BB%A0%E6%A8%A1%E5%BC%8F.md"
+    },
+    {
+      "name": "4.1d4c 單例模式.md",
+      "path": "4. 軟體開發/4.1 物件導向設計/4.1d 設計模式/4.1d4 創建式模式/4.1d4c 單例模式.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.1%20%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91%E8%A8%AD%E8%A8%88/4.1d%20%E8%A8%AD%E8%A8%88%E6%A8%A1%E5%BC%8F/4.1d4%20%E5%89%B5%E5%BB%BA%E5%BC%8F%E6%A8%A1%E5%BC%8F/4.1d4c%20%E5%96%AE%E4%BE%8B%E6%A8%A1%E5%BC%8F.md"
+    },
+    {
+      "name": "4.1e1 戰略設計與戰術設計.md",
+      "path": "4. 軟體開發/4.1 物件導向設計/4.1e DDD/4.1e1 戰略設計與戰術設計.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.1%20%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91%E8%A8%AD%E8%A8%88/4.1e%20DDD/4.1e1%20%E6%88%B0%E7%95%A5%E8%A8%AD%E8%A8%88%E8%88%87%E6%88%B0%E8%A1%93%E8%A8%AD%E8%A8%88.md"
+    },
+    {
+      "name": "4.1e1b1 DDD四層結構介紹.md",
+      "path": "4. 軟體開發/4.1 物件導向設計/4.1e DDD/4.1e1b 戰術設計/4.1e1b1 DDD四層結構介紹.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.1%20%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91%E8%A8%AD%E8%A8%88/4.1e%20DDD/4.1e1b%20%E6%88%B0%E8%A1%93%E8%A8%AD%E8%A8%88/4.1e1b1%20DDD%E5%9B%9B%E5%B1%A4%E7%B5%90%E6%A7%8B%E4%BB%8B%E7%B4%B9.md"
+    },
+    {
+      "name": "4.1e1b2 Interface.md",
+      "path": "4. 軟體開發/4.1 物件導向設計/4.1e DDD/4.1e1b 戰術設計/4.1e1b2 Interface.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.1%20%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91%E8%A8%AD%E8%A8%88/4.1e%20DDD/4.1e1b%20%E6%88%B0%E8%A1%93%E8%A8%AD%E8%A8%88/4.1e1b2%20Interface.md"
+    },
+    {
+      "name": "4.1e1b3 Application.md",
+      "path": "4. 軟體開發/4.1 物件導向設計/4.1e DDD/4.1e1b 戰術設計/4.1e1b3 Application.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.1%20%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91%E8%A8%AD%E8%A8%88/4.1e%20DDD/4.1e1b%20%E6%88%B0%E8%A1%93%E8%A8%AD%E8%A8%88/4.1e1b3%20Application.md"
+    },
+    {
+      "name": "4.1e1b4 Domain.md",
+      "path": "4. 軟體開發/4.1 物件導向設計/4.1e DDD/4.1e1b 戰術設計/4.1e1b4 Domain.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.1%20%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91%E8%A8%AD%E8%A8%88/4.1e%20DDD/4.1e1b%20%E6%88%B0%E8%A1%93%E8%A8%AD%E8%A8%88/4.1e1b4%20Domain.md"
+    },
+    {
+      "name": "4.1e1b5 Infrastructure.md",
+      "path": "4. 軟體開發/4.1 物件導向設計/4.1e DDD/4.1e1b 戰術設計/4.1e1b5 Infrastructure.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.1%20%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91%E8%A8%AD%E8%A8%88/4.1e%20DDD/4.1e1b%20%E6%88%B0%E8%A1%93%E8%A8%AD%E8%A8%88/4.1e1b5%20Infrastructure.md"
+    },
+    {
+      "name": "4.1e1c EDEP介紹.md",
+      "path": "4. 軟體開發/4.1 物件導向設計/4.1e DDD/4.1e1c EDEP案例/4.1e1c EDEP介紹.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.1%20%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91%E8%A8%AD%E8%A8%88/4.1e%20DDD/4.1e1c%20EDEP%E6%A1%88%E4%BE%8B/4.1e1c%20EDEP%E4%BB%8B%E7%B4%B9.md"
+    },
+    {
+      "name": "4.1e1c1 微服務架構.md",
+      "path": "4. 軟體開發/4.1 物件導向設計/4.1e DDD/4.1e1c EDEP案例/4.1e1c1 微服務架構.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.1%20%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91%E8%A8%AD%E8%A8%88/4.1e%20DDD/4.1e1c%20EDEP%E6%A1%88%E4%BE%8B/4.1e1c1%20%E5%BE%AE%E6%9C%8D%E5%8B%99%E6%9E%B6%E6%A7%8B.md"
+    },
+    {
+      "name": "4.1e1c3 mission與job層級.md",
+      "path": "4. 軟體開發/4.1 物件導向設計/4.1e DDD/4.1e1c EDEP案例/4.1e1c3 mission與job層級.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.1%20%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91%E8%A8%AD%E8%A8%88/4.1e%20DDD/4.1e1c%20EDEP%E6%A1%88%E4%BE%8B/4.1e1c3%20mission%E8%88%87job%E5%B1%A4%E7%B4%9A.md"
+    },
+    {
+      "name": "4.1e1c4 微服務內各層工作.md",
+      "path": "4. 軟體開發/4.1 物件導向設計/4.1e DDD/4.1e1c EDEP案例/4.1e1c4 微服務內各層工作.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.1%20%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91%E8%A8%AD%E8%A8%88/4.1e%20DDD/4.1e1c%20EDEP%E6%A1%88%E4%BE%8B/4.1e1c4%20%E5%BE%AE%E6%9C%8D%E5%8B%99%E5%85%A7%E5%90%84%E5%B1%A4%E5%B7%A5%E4%BD%9C.md"
+    },
+    {
+      "name": "4.1e1c5 做依賴反轉注入.md",
+      "path": "4. 軟體開發/4.1 物件導向設計/4.1e DDD/4.1e1c EDEP案例/4.1e1c5 做依賴反轉注入.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.1%20%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91%E8%A8%AD%E8%A8%88/4.1e%20DDD/4.1e1c%20EDEP%E6%A1%88%E4%BE%8B/4.1e1c5%20%E5%81%9A%E4%BE%9D%E8%B3%B4%E5%8F%8D%E8%BD%89%E6%B3%A8%E5%85%A5.md"
+    },
+    {
+      "name": "4.2a K8s 是什麼？.md",
+      "path": "4. 軟體開發/4.2 k8s/4.2a K8s 是什麼？.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.2%20k8s/4.2a%20K8s%20%E6%98%AF%E4%BB%80%E9%BA%BC%EF%BC%9F.md"
+    },
+    {
+      "name": "4.2a1 k8s的基本元件們.md",
+      "path": "4. 軟體開發/4.2 k8s/4.2a1 k8s的基本元件們.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.2%20k8s/4.2a1%20k8s%E7%9A%84%E5%9F%BA%E6%9C%AC%E5%85%83%E4%BB%B6%E5%80%91.md"
+    },
+    {
+      "name": "4.2d1 NodePool.md",
+      "path": "4. 軟體開發/4.2 k8s/4.2d Node/4.2d1 NodePool.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.2%20k8s/4.2d%20Node/4.2d1%20NodePool.md"
+    },
+    {
+      "name": "4.2f1 常見的Controller.md",
+      "path": "4. 軟體開發/4.2 k8s/4.2f Controller/4.2f1 常見的Controller.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.2%20k8s/4.2f%20Controller/4.2f1%20%E5%B8%B8%E8%A6%8B%E7%9A%84Controller.md"
+    },
+    {
+      "name": "4.2f2 Deployment 士官長.md",
+      "path": "4. 軟體開發/4.2 k8s/4.2f Controller/4.2f2 Deployment 士官長.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.2%20k8s/4.2f%20Controller/4.2f2%20Deployment%20%E5%A3%AB%E5%AE%98%E9%95%B7.md"
+    },
+    {
+      "name": "4.2f2a Deployment Max_surage 和 MaxUnavaliable是什麼？.md",
+      "path": "4. 軟體開發/4.2 k8s/4.2f Controller/4.2f2a Deployment Max_surage 和 MaxUnavaliable是什麼？.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.2%20k8s/4.2f%20Controller/4.2f2a%20Deployment%20Max_surage%20%E5%92%8C%20MaxUnavaliable%E6%98%AF%E4%BB%80%E9%BA%BC%EF%BC%9F.md"
+    },
+    {
+      "name": "4.2f3 ReplicaSet(士官).md",
+      "path": "4. 軟體開發/4.2 k8s/4.2f Controller/4.2f3 ReplicaSet(士官).md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.2%20k8s/4.2f%20Controller/4.2f3%20ReplicaSet%28%E5%A3%AB%E5%AE%98%29.md"
+    },
+    {
+      "name": "4.2f4 StatefulSet.md",
+      "path": "4. 軟體開發/4.2 k8s/4.2f Controller/4.2f4 StatefulSet.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.2%20k8s/4.2f%20Controller/4.2f4%20StatefulSet.md"
+    },
+    {
+      "name": "4.2f5 Job and CronJob.md",
+      "path": "4. 軟體開發/4.2 k8s/4.2f Controller/4.2f5 Job and CronJob.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.2%20k8s/4.2f%20Controller/4.2f5%20Job%20and%20CronJob.md"
+    },
+    {
+      "name": "4.2f6 DaemonSet.md",
+      "path": "4. 軟體開發/4.2 k8s/4.2f Controller/4.2f6 DaemonSet.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.2%20k8s/4.2f%20Controller/4.2f6%20DaemonSet.md"
+    },
+    {
+      "name": "4.2f7 HPA（Horizontal Pod Autoscaler）.md",
+      "path": "4. 軟體開發/4.2 k8s/4.2f Controller/4.2f7 HPA（Horizontal Pod Autoscaler）.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.2%20k8s/4.2f%20Controller/4.2f7%20HPA%EF%BC%88Horizontal%20Pod%20Autoscaler%EF%BC%89.md"
+    },
+    {
+      "name": "4.2f8 Cluster Autoscaler.md",
+      "path": "4. 軟體開發/4.2 k8s/4.2f Controller/4.2f8 Cluster Autoscaler.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.2%20k8s/4.2f%20Controller/4.2f8%20Cluster%20Autoscaler.md"
+    },
+    {
+      "name": "4.2f8a 擴展 Pod 還是 Node？.md",
+      "path": "4. 軟體開發/4.2 k8s/4.2f Controller/4.2f8a 擴展 Pod 還是 Node？.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.2%20k8s/4.2f%20Controller/4.2f8a%20%E6%93%B4%E5%B1%95%20Pod%20%E9%82%84%E6%98%AF%20Node%EF%BC%9F.md"
+    },
+    {
+      "name": "4.2f9 Controller Manager.md",
+      "path": "4. 軟體開發/4.2 k8s/4.2f Controller/4.2f9 Controller Manager.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.2%20k8s/4.2f%20Controller/4.2f9%20Controller%20Manager.md"
+    },
+    {
+      "name": "4.2g1 nodeSelector 根據Lable來調度.md",
+      "path": "4. 軟體開發/4.2 k8s/4.2g Pod 調度/4.2g1 nodeSelector 根據Lable來調度.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.2%20k8s/4.2g%20Pod%20%E8%AA%BF%E5%BA%A6/4.2g1%20nodeSelector%20%E6%A0%B9%E6%93%9ALable%E4%BE%86%E8%AA%BF%E5%BA%A6.md"
+    },
+    {
+      "name": "4.2g2 Affinity Rules.md",
+      "path": "4. 軟體開發/4.2 k8s/4.2g Pod 調度/4.2g2 Affinity Rules.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.2%20k8s/4.2g%20Pod%20%E8%AA%BF%E5%BA%A6/4.2g2%20Affinity%20Rules.md"
+    },
+    {
+      "name": "4.2g3 Taints.md",
+      "path": "4. 軟體開發/4.2 k8s/4.2g Pod 調度/4.2g3 Taints.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.2%20k8s/4.2g%20Pod%20%E8%AA%BF%E5%BA%A6/4.2g3%20Taints.md"
+    },
+    {
+      "name": "4.2g4 Tolerations.md",
+      "path": "4. 軟體開發/4.2 k8s/4.2g Pod 調度/4.2g4 Tolerations.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.2%20k8s/4.2g%20Pod%20%E8%AA%BF%E5%BA%A6/4.2g4%20Tolerations.md"
+    },
+    {
+      "name": "4.2h1 Service的用途.md",
+      "path": "4. 軟體開發/4.2 k8s/4.2h Network/4.2h1 Service的用途.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.2%20k8s/4.2h%20Network/4.2h1%20Service%E7%9A%84%E7%94%A8%E9%80%94.md"
+    },
+    {
+      "name": "4.2h2 Service ClusterIP（預設類型）.md",
+      "path": "4. 軟體開發/4.2 k8s/4.2h Network/4.2h2 Service ClusterIP（預設類型）.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.2%20k8s/4.2h%20Network/4.2h2%20Service%20ClusterIP%EF%BC%88%E9%A0%90%E8%A8%AD%E9%A1%9E%E5%9E%8B%EF%BC%89.md"
+    },
+    {
+      "name": "4.2h3 Service NodePort.md",
+      "path": "4. 軟體開發/4.2 k8s/4.2h Network/4.2h3 Service NodePort.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.2%20k8s/4.2h%20Network/4.2h3%20Service%20NodePort.md"
+    },
+    {
+      "name": "4.2h4 Service LoadBalancer.md",
+      "path": "4. 軟體開發/4.2 k8s/4.2h Network/4.2h4 Service LoadBalancer.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.2%20k8s/4.2h%20Network/4.2h4%20Service%20LoadBalancer.md"
+    },
+    {
+      "name": "4.2h5 Ingress Service for Service.md",
+      "path": "4. 軟體開發/4.2 k8s/4.2h Network/4.2h5 Ingress Service for Service.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.2%20k8s/4.2h%20Network/4.2h5%20Ingress%20Service%20for%20Service.md"
+    },
+    {
+      "name": "4.3 如何判斷是不是好的抽象化？.md",
+      "path": "4. 軟體開發/4.3 如何判斷是不是好的抽象化？.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/4.3%20%E5%A6%82%E4%BD%95%E5%88%A4%E6%96%B7%E6%98%AF%E4%B8%8D%E6%98%AF%E5%A5%BD%E7%9A%84%E6%8A%BD%E8%B1%A1%E5%8C%96%EF%BC%9F.md"
+    },
+    {
+      "name": "GKE 部署 LLM (Kserve).md",
+      "path": "4. 軟體開發/GCP/GKE 部署 LLM (Kserve).md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/GCP/GKE%20%E9%83%A8%E7%BD%B2%20LLM%20%28Kserve%29.md"
+    },
+    {
+      "name": "KubeLLM.md",
+      "path": "4. 軟體開發/GCP/KubeLLM.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/GCP/KubeLLM.md"
+    },
+    {
+      "name": "Git 工作流程.md",
+      "path": "4. 軟體開發/git/Git 工作流程.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/git/Git%20%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%A8%8B.md"
+    },
+    {
+      "name": "測試對外IP位置的方法.md",
+      "path": "4. 軟體開發/python/測試對外IP位置的方法.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/python/%E6%B8%AC%E8%A9%A6%E5%B0%8D%E5%A4%96IP%E4%BD%8D%E7%BD%AE%E7%9A%84%E6%96%B9%E6%B3%95.md"
+    },
+    {
+      "name": "Liaison 上行電文.md",
+      "path": "4. 軟體開發/數據處理微服務/Liaison 上行電文.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/%E6%95%B8%E6%93%9A%E8%99%95%E7%90%86%E5%BE%AE%E6%9C%8D%E5%8B%99/Liaison%20%E4%B8%8A%E8%A1%8C%E9%9B%BB%E6%96%87.md"
+    },
+    {
+      "name": "sapper 上行電文.md",
+      "path": "4. 軟體開發/數據處理微服務/sapper 上行電文.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/%E6%95%B8%E6%93%9A%E8%99%95%E7%90%86%E5%BE%AE%E6%9C%8D%E5%8B%99/sapper%20%E4%B8%8A%E8%A1%8C%E9%9B%BB%E6%96%87.md"
+    },
+    {
+      "name": "scout上行電文.md",
+      "path": "4. 軟體開發/數據處理微服務/scout上行電文.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/4.%20%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/%E6%95%B8%E6%93%9A%E8%99%95%E7%90%86%E5%BE%AE%E6%9C%8D%E5%8B%99/scout%E4%B8%8A%E8%A1%8C%E9%9B%BB%E6%96%87.md"
+    },
+    {
+      "name": "5.1 黃金(重元素)的由來.md",
+      "path": "5. 科普新知/5.1 黃金(重元素)的由來.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/5.%20%E7%A7%91%E6%99%AE%E6%96%B0%E7%9F%A5/5.1%20%E9%BB%83%E9%87%91%28%E9%87%8D%E5%85%83%E7%B4%A0%29%E7%9A%84%E7%94%B1%E4%BE%86.md"
+    },
+    {
+      "name": "5.2 未開發國家，已開發國家.md",
+      "path": "5. 科普新知/5.2 未開發國家，已開發國家.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/5.%20%E7%A7%91%E6%99%AE%E6%96%B0%E7%9F%A5/5.2%20%E6%9C%AA%E9%96%8B%E7%99%BC%E5%9C%8B%E5%AE%B6%EF%BC%8C%E5%B7%B2%E9%96%8B%E7%99%BC%E5%9C%8B%E5%AE%B6.md"
+    },
+    {
+      "name": "5.3a 世界的本質是計算.md",
+      "path": "5. 科普新知/5.3 基於計算的世界觀/5.3a 世界的本質是計算.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/5.%20%E7%A7%91%E6%99%AE%E6%96%B0%E7%9F%A5/5.3%20%E5%9F%BA%E6%96%BC%E8%A8%88%E7%AE%97%E7%9A%84%E4%B8%96%E7%95%8C%E8%A7%80/5.3a%20%E4%B8%96%E7%95%8C%E7%9A%84%E6%9C%AC%E8%B3%AA%E6%98%AF%E8%A8%88%E7%AE%97.md"
+    },
+    {
+      "name": "5.3b 計算不可約性.md",
+      "path": "5. 科普新知/5.3 基於計算的世界觀/5.3b 計算不可約性.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/5.%20%E7%A7%91%E6%99%AE%E6%96%B0%E7%9F%A5/5.3%20%E5%9F%BA%E6%96%BC%E8%A8%88%E7%AE%97%E7%9A%84%E4%B8%96%E7%95%8C%E8%A7%80/5.3b%20%E8%A8%88%E7%AE%97%E4%B8%8D%E5%8F%AF%E7%B4%84%E6%80%A7.md"
+    },
+    {
+      "name": "5.3c 自然湧現.md",
+      "path": "5. 科普新知/5.3 基於計算的世界觀/5.3c 自然湧現.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/5.%20%E7%A7%91%E6%99%AE%E6%96%B0%E7%9F%A5/5.3%20%E5%9F%BA%E6%96%BC%E8%A8%88%E7%AE%97%E7%9A%84%E4%B8%96%E7%95%8C%E8%A7%80/5.3c%20%E8%87%AA%E7%84%B6%E6%B9%A7%E7%8F%BE.md"
+    },
+    {
+      "name": "5.3d 可約化的口袋.md",
+      "path": "5. 科普新知/5.3 基於計算的世界觀/5.3d 可約化的口袋.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/5.%20%E7%A7%91%E6%99%AE%E6%96%B0%E7%9F%A5/5.3%20%E5%9F%BA%E6%96%BC%E8%A8%88%E7%AE%97%E7%9A%84%E4%B8%96%E7%95%8C%E8%A7%80/5.3d%20%E5%8F%AF%E7%B4%84%E5%8C%96%E7%9A%84%E5%8F%A3%E8%A2%8B.md"
+    },
+    {
+      "name": "5.3e 意識與知識的計算視角.md",
+      "path": "5. 科普新知/5.3 基於計算的世界觀/5.3e 意識與知識的計算視角.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/5.%20%E7%A7%91%E6%99%AE%E6%96%B0%E7%9F%A5/5.3%20%E5%9F%BA%E6%96%BC%E8%A8%88%E7%AE%97%E7%9A%84%E4%B8%96%E7%95%8C%E8%A7%80/5.3e%20%E6%84%8F%E8%AD%98%E8%88%87%E7%9F%A5%E8%AD%98%E7%9A%84%E8%A8%88%E7%AE%97%E8%A6%96%E8%A7%92.md"
+    },
+    {
+      "name": "5.3e 物理法則的計算基礎.md",
+      "path": "5. 科普新知/5.3 基於計算的世界觀/5.3e 物理法則的計算基礎.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/5.%20%E7%A7%91%E6%99%AE%E6%96%B0%E7%9F%A5/5.3%20%E5%9F%BA%E6%96%BC%E8%A8%88%E7%AE%97%E7%9A%84%E4%B8%96%E7%95%8C%E8%A7%80/5.3e%20%E7%89%A9%E7%90%86%E6%B3%95%E5%89%87%E7%9A%84%E8%A8%88%E7%AE%97%E5%9F%BA%E7%A4%8E.md"
+    },
+    {
+      "name": "5.3f 科學探索與人類使命.md",
+      "path": "5. 科普新知/5.3 基於計算的世界觀/5.3f 科學探索與人類使命.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/5.%20%E7%A7%91%E6%99%AE%E6%96%B0%E7%9F%A5/5.3%20%E5%9F%BA%E6%96%BC%E8%A8%88%E7%AE%97%E7%9A%84%E4%B8%96%E7%95%8C%E8%A7%80/5.3f%20%E7%A7%91%E5%AD%B8%E6%8E%A2%E7%B4%A2%E8%88%87%E4%BA%BA%E9%A1%9E%E4%BD%BF%E5%91%BD.md"
+    },
+    {
+      "name": "5.3g 總結來說....md",
+      "path": "5. 科普新知/5.3 基於計算的世界觀/5.3g 總結來說....md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/5.%20%E7%A7%91%E6%99%AE%E6%96%B0%E7%9F%A5/5.3%20%E5%9F%BA%E6%96%BC%E8%A8%88%E7%AE%97%E7%9A%84%E4%B8%96%E7%95%8C%E8%A7%80/5.3g%20%E7%B8%BD%E7%B5%90%E4%BE%86%E8%AA%AA....md"
+    },
+    {
+      "name": "5.4 黑暗人格與光明人格，以及該如何應對.md",
+      "path": "5. 科普新知/5.4 黑暗人格與光明人格，以及該如何應對.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/5.%20%E7%A7%91%E6%99%AE%E6%96%B0%E7%9F%A5/5.4%20%E9%BB%91%E6%9A%97%E4%BA%BA%E6%A0%BC%E8%88%87%E5%85%89%E6%98%8E%E4%BA%BA%E6%A0%BC%EF%BC%8C%E4%BB%A5%E5%8F%8A%E8%A9%B2%E5%A6%82%E4%BD%95%E6%87%89%E5%B0%8D.md"
+    },
+    {
+      "name": "5.6 集體無意識.md",
+      "path": "5. 科普新知/5.6 集體無意識.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/5.%20%E7%A7%91%E6%99%AE%E6%96%B0%E7%9F%A5/5.6%20%E9%9B%86%E9%AB%94%E7%84%A1%E6%84%8F%E8%AD%98.md"
+    },
+    {
+      "name": "5.7 DOSE 效應.md",
+      "path": "5. 科普新知/5.7 DOSE 效應.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/5.%20%E7%A7%91%E6%99%AE%E6%96%B0%E7%9F%A5/5.7%20DOSE%20%E6%95%88%E6%87%89.md"
+    },
+    {
+      "name": "5.7a 多巴胺 Dopamine.md",
+      "path": "5. 科普新知/5.7a 多巴胺 Dopamine.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/5.%20%E7%A7%91%E6%99%AE%E6%96%B0%E7%9F%A5/5.7a%20%E5%A4%9A%E5%B7%B4%E8%83%BA%20Dopamine.md"
+    },
+    {
+      "name": "5.7b 催產素 Oxytocin.md",
+      "path": "5. 科普新知/5.7b 催產素 Oxytocin.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/5.%20%E7%A7%91%E6%99%AE%E6%96%B0%E7%9F%A5/5.7b%20%E5%82%AC%E7%94%A2%E7%B4%A0%20Oxytocin.md"
+    },
+    {
+      "name": "5.7c 血清素 Serotonin.md",
+      "path": "5. 科普新知/5.7c 血清素 Serotonin.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/5.%20%E7%A7%91%E6%99%AE%E6%96%B0%E7%9F%A5/5.7c%20%E8%A1%80%E6%B8%85%E7%B4%A0%20Serotonin.md"
+    },
+    {
+      "name": "5.7d 內啡肽 Endorphin.md",
+      "path": "5. 科普新知/5.7d 內啡肽 Endorphin.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/5.%20%E7%A7%91%E6%99%AE%E6%96%B0%E7%9F%A5/5.7d%20%E5%85%A7%E5%95%A1%E8%82%BD%20Endorphin.md"
+    },
+    {
+      "name": "6.1 情緒 是你身體的直覺。.md",
+      "path": "6. 意識與大腦/6.1 情緒 是你身體的直覺。.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/6.%20%E6%84%8F%E8%AD%98%E8%88%87%E5%A4%A7%E8%85%A6/6.1%20%E6%83%85%E7%B7%92%20%E6%98%AF%E4%BD%A0%E8%BA%AB%E9%AB%94%E7%9A%84%E7%9B%B4%E8%A6%BA%E3%80%82.md"
+    },
+    {
+      "name": "6.2 內感力越強，直覺就越強.md",
+      "path": "6. 意識與大腦/6.2 內感力越強，直覺就越強.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/6.%20%E6%84%8F%E8%AD%98%E8%88%87%E5%A4%A7%E8%85%A6/6.2%20%E5%85%A7%E6%84%9F%E5%8A%9B%E8%B6%8A%E5%BC%B7%EF%BC%8C%E7%9B%B4%E8%A6%BA%E5%B0%B1%E8%B6%8A%E5%BC%B7.md"
+    },
+    {
+      "name": "6.3 快樂要間隔，痛苦要集中.md",
+      "path": "6. 意識與大腦/6.3 快樂要間隔，痛苦要集中.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/6.%20%E6%84%8F%E8%AD%98%E8%88%87%E5%A4%A7%E8%85%A6/6.3%20%E5%BF%AB%E6%A8%82%E8%A6%81%E9%96%93%E9%9A%94%EF%BC%8C%E7%97%9B%E8%8B%A6%E8%A6%81%E9%9B%86%E4%B8%AD.md"
+    },
+    {
+      "name": "6.4 命名可以幫助模式識別.md",
+      "path": "6. 意識與大腦/6.4 命名可以幫助模式識別.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/6.%20%E6%84%8F%E8%AD%98%E8%88%87%E5%A4%A7%E8%85%A6/6.4%20%E5%91%BD%E5%90%8D%E5%8F%AF%E4%BB%A5%E5%B9%AB%E5%8A%A9%E6%A8%A1%E5%BC%8F%E8%AD%98%E5%88%A5.md"
+    },
+    {
+      "name": "6.5 青少年大腦 - 神經生物學無能模型.md",
+      "path": "6. 意識與大腦/6.5 青少年大腦 - 神經生物學無能模型.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/6.%20%E6%84%8F%E8%AD%98%E8%88%87%E5%A4%A7%E8%85%A6/6.5%20%E9%9D%92%E5%B0%91%E5%B9%B4%E5%A4%A7%E8%85%A6%20-%20%E7%A5%9E%E7%B6%93%E7%94%9F%E7%89%A9%E5%AD%B8%E7%84%A1%E8%83%BD%E6%A8%A1%E5%9E%8B.md"
+    },
+    {
+      "name": "6.5a 反駁無能假說 - 尊重與地位假說.md",
+      "path": "6. 意識與大腦/6.5a 反駁無能假說 - 尊重與地位假說.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/6.%20%E6%84%8F%E8%AD%98%E8%88%87%E5%A4%A7%E8%85%A6/6.5a%20%E5%8F%8D%E9%A7%81%E7%84%A1%E8%83%BD%E5%81%87%E8%AA%AA%20-%20%E5%B0%8A%E9%87%8D%E8%88%87%E5%9C%B0%E4%BD%8D%E5%81%87%E8%AA%AA.md"
+    },
+    {
+      "name": "6.5b 如何激勵青少年？ 導師心態.md",
+      "path": "6. 意識與大腦/6.5b 如何激勵青少年？ 導師心態.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/6.%20%E6%84%8F%E8%AD%98%E8%88%87%E5%A4%A7%E8%85%A6/6.5b%20%E5%A6%82%E4%BD%95%E6%BF%80%E5%8B%B5%E9%9D%92%E5%B0%91%E5%B9%B4%EF%BC%9F%20%E5%B0%8E%E5%B8%AB%E5%BF%83%E6%85%8B.md"
+    },
+    {
+      "name": "6.5b1 如何避免導師困境？智者的回饋.md",
+      "path": "6. 意識與大腦/6.5b1 如何避免導師困境？智者的回饋.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/6.%20%E6%84%8F%E8%AD%98%E8%88%87%E5%A4%A7%E8%85%A6/6.5b1%20%E5%A6%82%E4%BD%95%E9%81%BF%E5%85%8D%E5%B0%8E%E5%B8%AB%E5%9B%B0%E5%A2%83%EF%BC%9F%E6%99%BA%E8%80%85%E7%9A%84%E5%9B%9E%E9%A5%8B.md"
+    },
+    {
+      "name": "6.5b2 導師心態與XY理論.md",
+      "path": "6. 意識與大腦/6.5b2 導師心態與XY理論.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/6.%20%E6%84%8F%E8%AD%98%E8%88%87%E5%A4%A7%E8%85%A6/6.5b2%20%E5%B0%8E%E5%B8%AB%E5%BF%83%E6%85%8B%E8%88%87XY%E7%90%86%E8%AB%96.md"
+    },
+    {
+      "name": "6.6 意識的定義.md",
+      "path": "6. 意識與大腦/6.6 意識的定義.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/6.%20%E6%84%8F%E8%AD%98%E8%88%87%E5%A4%A7%E8%85%A6/6.6%20%E6%84%8F%E8%AD%98%E7%9A%84%E5%AE%9A%E7%BE%A9.md"
+    },
+    {
+      "name": "6.6a 佛教對於意識(我)的解釋 八識.md",
+      "path": "6. 意識與大腦/6.6a 佛教對於意識(我)的解釋 八識.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/6.%20%E6%84%8F%E8%AD%98%E8%88%87%E5%A4%A7%E8%85%A6/6.6a%20%E4%BD%9B%E6%95%99%E5%B0%8D%E6%96%BC%E6%84%8F%E8%AD%98%28%E6%88%91%29%E7%9A%84%E8%A7%A3%E9%87%8B%20%E5%85%AB%E8%AD%98.md"
+    },
+    {
+      "name": "6.6b 達馬西奧的心智四層次.md",
+      "path": "6. 意識與大腦/6.6b 達馬西奧的心智四層次.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/6.%20%E6%84%8F%E8%AD%98%E8%88%87%E5%A4%A7%E8%85%A6/6.6b%20%E9%81%94%E9%A6%AC%E8%A5%BF%E5%A5%A7%E7%9A%84%E5%BF%83%E6%99%BA%E5%9B%9B%E5%B1%A4%E6%AC%A1.md"
+    },
+    {
+      "name": "6.6c AI有意識嗎？或者能夠有意識嗎？.md",
+      "path": "6. 意識與大腦/6.6c AI有意識嗎？或者能夠有意識嗎？.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/6.%20%E6%84%8F%E8%AD%98%E8%88%87%E5%A4%A7%E8%85%A6/6.6c%20AI%E6%9C%89%E6%84%8F%E8%AD%98%E5%97%8E%EF%BC%9F%E6%88%96%E8%80%85%E8%83%BD%E5%A4%A0%E6%9C%89%E6%84%8F%E8%AD%98%E5%97%8E%EF%BC%9F.md"
+    },
+    {
+      "name": "6.6c1 為什麼意識一定要涉及身體？.md",
+      "path": "6. 意識與大腦/6.6c1 為什麼意識一定要涉及身體？.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/6.%20%E6%84%8F%E8%AD%98%E8%88%87%E5%A4%A7%E8%85%A6/6.6c1%20%E7%82%BA%E4%BB%80%E9%BA%BC%E6%84%8F%E8%AD%98%E4%B8%80%E5%AE%9A%E8%A6%81%E6%B6%89%E5%8F%8A%E8%BA%AB%E9%AB%94%EF%BC%9F.md"
+    },
+    {
+      "name": "6.6c2 放下我執，不是沒有我執。石頭不是佛陀.md",
+      "path": "6. 意識與大腦/6.6c2 放下我執，不是沒有我執。石頭不是佛陀.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/6.%20%E6%84%8F%E8%AD%98%E8%88%87%E5%A4%A7%E8%85%A6/6.6c2%20%E6%94%BE%E4%B8%8B%E6%88%91%E5%9F%B7%EF%BC%8C%E4%B8%8D%E6%98%AF%E6%B2%92%E6%9C%89%E6%88%91%E5%9F%B7%E3%80%82%E7%9F%B3%E9%A0%AD%E4%B8%8D%E6%98%AF%E4%BD%9B%E9%99%80.md"
+    },
+    {
+      "name": "6.7 讓.皮亞傑-認知發展理論.md",
+      "path": "6. 意識與大腦/6.7 讓.皮亞傑-認知發展理論.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/6.%20%E6%84%8F%E8%AD%98%E8%88%87%E5%A4%A7%E8%85%A6/6.7%20%E8%AE%93.%E7%9A%AE%E4%BA%9E%E5%82%91-%E8%AA%8D%E7%9F%A5%E7%99%BC%E5%B1%95%E7%90%86%E8%AB%96.md"
+    },
+    {
+      "name": "6.8 羅伯特・凱根的心智成長五階段.md",
+      "path": "6. 意識與大腦/6.8 羅伯特・凱根的心智成長五階段.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/6.%20%E6%84%8F%E8%AD%98%E8%88%87%E5%A4%A7%E8%85%A6/6.8%20%E7%BE%85%E4%BC%AF%E7%89%B9%E3%83%BB%E5%87%B1%E6%A0%B9%E7%9A%84%E5%BF%83%E6%99%BA%E6%88%90%E9%95%B7%E4%BA%94%E9%9A%8E%E6%AE%B5.md"
+    },
+    {
+      "name": "6.8a 主體客體轉化.md",
+      "path": "6. 意識與大腦/6.8a 主體客體轉化.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/6.%20%E6%84%8F%E8%AD%98%E8%88%87%E5%A4%A7%E8%85%A6/6.8a%20%E4%B8%BB%E9%AB%94%E5%AE%A2%E9%AB%94%E8%BD%89%E5%8C%96.md"
+    },
+    {
+      "name": "6.8a1 AI能夠有主體客體嗎？.md",
+      "path": "6. 意識與大腦/6.8a1 AI能夠有主體客體嗎？.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/6.%20%E6%84%8F%E8%AD%98%E8%88%87%E5%A4%A7%E8%85%A6/6.8a1%20AI%E8%83%BD%E5%A4%A0%E6%9C%89%E4%B8%BB%E9%AB%94%E5%AE%A2%E9%AB%94%E5%97%8E%EF%BC%9F.md"
+    },
+    {
+      "name": "6.9 反對者比支持者更痛苦.md",
+      "path": "6. 意識與大腦/6.9 反對者比支持者更痛苦.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/6.%20%E6%84%8F%E8%AD%98%E8%88%87%E5%A4%A7%E8%85%A6/6.9%20%E5%8F%8D%E5%B0%8D%E8%80%85%E6%AF%94%E6%94%AF%E6%8C%81%E8%80%85%E6%9B%B4%E7%97%9B%E8%8B%A6.md"
+    },
+    {
+      "name": "6.9a Frame 的定義.md",
+      "path": "6. 意識與大腦/6.9a Frame 的定義.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/6.%20%E6%84%8F%E8%AD%98%E8%88%87%E5%A4%A7%E8%85%A6/6.9a%20Frame%20%E7%9A%84%E5%AE%9A%E7%BE%A9.md"
+    },
+    {
+      "name": "7.1 規則 + 直覺 = 決策流程.md",
+      "path": "7. 決策科學/7.1 雜訊/7.1 規則 + 直覺 = 決策流程.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/7.%20%E6%B1%BA%E7%AD%96%E7%A7%91%E5%AD%B8/7.1%20%E9%9B%9C%E8%A8%8A/7.1%20%E8%A6%8F%E5%89%87%20%2B%20%E7%9B%B4%E8%A6%BA%20%3D%20%E6%B1%BA%E7%AD%96%E6%B5%81%E7%A8%8B.md"
+    },
+    {
+      "name": "7.1a 人類判斷的兩種錯誤，偏誤與雜訊.md",
+      "path": "7. 決策科學/7.1 雜訊/7.1a 人類判斷的兩種錯誤，偏誤與雜訊.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/7.%20%E6%B1%BA%E7%AD%96%E7%A7%91%E5%AD%B8/7.1%20%E9%9B%9C%E8%A8%8A/7.1a%20%E4%BA%BA%E9%A1%9E%E5%88%A4%E6%96%B7%E7%9A%84%E5%85%A9%E7%A8%AE%E9%8C%AF%E8%AA%A4%EF%BC%8C%E5%81%8F%E8%AA%A4%E8%88%87%E9%9B%9C%E8%A8%8A.md"
+    },
+    {
+      "name": "7.1b 在你不希望看到變異的地方，發現變異，就是雜訊。不必要的變異 vs 有利的多樣性.md",
+      "path": "7. 決策科學/7.1 雜訊/7.1b 在你不希望看到變異的地方，發現變異，就是雜訊。不必要的變異 vs 有利的多樣性.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/7.%20%E6%B1%BA%E7%AD%96%E7%A7%91%E5%AD%B8/7.1%20%E9%9B%9C%E8%A8%8A/7.1b%20%E5%9C%A8%E4%BD%A0%E4%B8%8D%E5%B8%8C%E6%9C%9B%E7%9C%8B%E5%88%B0%E8%AE%8A%E7%95%B0%E7%9A%84%E5%9C%B0%E6%96%B9%EF%BC%8C%E7%99%BC%E7%8F%BE%E8%AE%8A%E7%95%B0%EF%BC%8C%E5%B0%B1%E6%98%AF%E9%9B%9C%E8%A8%8A%E3%80%82%E4%B8%8D%E5%BF%85%E8%A6%81%E7%9A%84%E8%AE%8A%E7%95%B0%20vs%20%E6%9C%89%E5%88%A9%E7%9A%84%E5%A4%9A%E6%A8%A3%E6%80%A7.md"
+    },
+    {
+      "name": "7.1c 在充滿雜訊的系統中，錯誤不會互相抵銷只會相加.md",
+      "path": "7. 決策科學/7.1 雜訊/7.1c 在充滿雜訊的系統中，錯誤不會互相抵銷只會相加.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/7.%20%E6%B1%BA%E7%AD%96%E7%A7%91%E5%AD%B8/7.1%20%E9%9B%9C%E8%A8%8A/7.1c%20%E5%9C%A8%E5%85%85%E6%BB%BF%E9%9B%9C%E8%A8%8A%E7%9A%84%E7%B3%BB%E7%B5%B1%E4%B8%AD%EF%BC%8C%E9%8C%AF%E8%AA%A4%E4%B8%8D%E6%9C%83%E4%BA%92%E7%9B%B8%E6%8A%B5%E9%8A%B7%E5%8F%AA%E6%9C%83%E7%9B%B8%E5%8A%A0.md"
+    },
+    {
+      "name": "AI可以負責做預測型判斷.md",
+      "path": "7. 決策科學/7.1 雜訊/AI可以負責做預測型判斷.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/7.%20%E6%B1%BA%E7%AD%96%E7%A7%91%E5%AD%B8/7.1%20%E9%9B%9C%E8%A8%8A/AI%E5%8F%AF%E4%BB%A5%E8%B2%A0%E8%B2%AC%E5%81%9A%E9%A0%90%E6%B8%AC%E5%9E%8B%E5%88%A4%E6%96%B7.md"
+    },
+    {
+      "name": "先做預測型判斷，再做價值型判斷.md",
+      "path": "7. 決策科學/7.1 雜訊/先做預測型判斷，再做價值型判斷.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/7.%20%E6%B1%BA%E7%AD%96%E7%A7%91%E5%AD%B8/7.1%20%E9%9B%9C%E8%A8%8A/%E5%85%88%E5%81%9A%E9%A0%90%E6%B8%AC%E5%9E%8B%E5%88%A4%E6%96%B7%EF%BC%8C%E5%86%8D%E5%81%9A%E5%83%B9%E5%80%BC%E5%9E%8B%E5%88%A4%E6%96%B7.md"
+    },
+    {
+      "name": "去除雜訊可以幫助你凸顯偏差.md",
+      "path": "7. 決策科學/7.1 雜訊/去除雜訊可以幫助你凸顯偏差.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/7.%20%E6%B1%BA%E7%AD%96%E7%A7%91%E5%AD%B8/7.1%20%E9%9B%9C%E8%A8%8A/%E5%8E%BB%E9%99%A4%E9%9B%9C%E8%A8%8A%E5%8F%AF%E4%BB%A5%E5%B9%AB%E5%8A%A9%E4%BD%A0%E5%87%B8%E9%A1%AF%E5%81%8F%E5%B7%AE.md"
+    },
+    {
+      "name": "哪怕只是單純去除雜訊，也比有雜訊又有偏差好.md",
+      "path": "7. 決策科學/7.1 雜訊/哪怕只是單純去除雜訊，也比有雜訊又有偏差好.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/7.%20%E6%B1%BA%E7%AD%96%E7%A7%91%E5%AD%B8/7.1%20%E9%9B%9C%E8%A8%8A/%E5%93%AA%E6%80%95%E5%8F%AA%E6%98%AF%E5%96%AE%E7%B4%94%E5%8E%BB%E9%99%A4%E9%9B%9C%E8%A8%8A%EF%BC%8C%E4%B9%9F%E6%AF%94%E6%9C%89%E9%9B%9C%E8%A8%8A%E5%8F%88%E6%9C%89%E5%81%8F%E5%B7%AE%E5%A5%BD.md"
+    },
+    {
+      "name": "如果你打算影響判斷，你該關注 穩定型態雜訊.md",
+      "path": "7. 決策科學/7.1 雜訊/如果你打算影響判斷，你該關注 穩定型態雜訊.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/7.%20%E6%B1%BA%E7%AD%96%E7%A7%91%E5%AD%B8/7.1%20%E9%9B%9C%E8%A8%8A/%E5%A6%82%E6%9E%9C%E4%BD%A0%E6%89%93%E7%AE%97%E5%BD%B1%E9%9F%BF%E5%88%A4%E6%96%B7%EF%BC%8C%E4%BD%A0%E8%A9%B2%E9%97%9C%E6%B3%A8%20%E7%A9%A9%E5%AE%9A%E5%9E%8B%E6%85%8B%E9%9B%9C%E8%A8%8A.md"
+    },
+    {
+      "name": "定義什麼是判斷.md",
+      "path": "7. 決策科學/7.1 雜訊/定義什麼是判斷.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/7.%20%E6%B1%BA%E7%AD%96%E7%A7%91%E5%AD%B8/7.1%20%E9%9B%9C%E8%A8%8A/%E5%AE%9A%E7%BE%A9%E4%BB%80%E9%BA%BC%E6%98%AF%E5%88%A4%E6%96%B7.md"
+    },
+    {
+      "name": "7.2 Berkson's paradox 柏克森悖論.md",
+      "path": "7. 決策科學/7.2 Berkson's paradox 柏克森悖論.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/7.%20%E6%B1%BA%E7%AD%96%E7%A7%91%E5%AD%B8/7.2%20Berkson%27s%20paradox%20%E6%9F%8F%E5%85%8B%E6%A3%AE%E6%82%96%E8%AB%96.md"
+    },
+    {
+      "name": "創作 = 判斷 + 決策.md",
+      "path": "7. 決策科學/創作 = 判斷 + 決策.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/7.%20%E6%B1%BA%E7%AD%96%E7%A7%91%E5%AD%B8/%E5%89%B5%E4%BD%9C%20%3D%20%E5%88%A4%E6%96%B7%20%2B%20%E6%B1%BA%E7%AD%96.md"
+    },
+    {
+      "name": "8.1a 一個優秀的AI平台（可能）要有的組件.md",
+      "path": "8. 人工智能/8.1 AI服務的組件/8.1a 一個優秀的AI平台（可能）要有的組件.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.1%20AI%E6%9C%8D%E5%8B%99%E7%9A%84%E7%B5%84%E4%BB%B6/8.1a%20%E4%B8%80%E5%80%8B%E5%84%AA%E7%A7%80%E7%9A%84AI%E5%B9%B3%E5%8F%B0%EF%BC%88%E5%8F%AF%E8%83%BD%EF%BC%89%E8%A6%81%E6%9C%89%E7%9A%84%E7%B5%84%E4%BB%B6.md"
+    },
+    {
+      "name": "8.1b Enhance Context 增強上下文.md",
+      "path": "8. 人工智能/8.1 AI服務的組件/8.1b Enhance Context 增強上下文.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.1%20AI%E6%9C%8D%E5%8B%99%E7%9A%84%E7%B5%84%E4%BB%B6/8.1b%20Enhance%20Context%20%E5%A2%9E%E5%BC%B7%E4%B8%8A%E4%B8%8B%E6%96%87.md"
+    },
+    {
+      "name": "8.1b1 Chunker.md",
+      "path": "8. 人工智能/8.1 AI服務的組件/8.1b1 Chunker.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.1%20AI%E6%9C%8D%E5%8B%99%E7%9A%84%E7%B5%84%E4%BB%B6/8.1b1%20Chunker.md"
+    },
+    {
+      "name": "8.1b2 Embedding Model.md",
+      "path": "8. 人工智能/8.1 AI服務的組件/8.1b2 Embedding Model.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.1%20AI%E6%9C%8D%E5%8B%99%E7%9A%84%E7%B5%84%E4%BB%B6/8.1b2%20Embedding%20Model.md"
+    },
+    {
+      "name": "8.1b3 Vector Database.md",
+      "path": "8. 人工智能/8.1 AI服務的組件/8.1b3 Vector Database.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.1%20AI%E6%9C%8D%E5%8B%99%E7%9A%84%E7%B5%84%E4%BB%B6/8.1b3%20Vector%20Database.md"
+    },
+    {
+      "name": "8.1c Guardrails 護欄.md",
+      "path": "8. 人工智能/8.1 AI服務的組件/8.1c Guardrails 護欄.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.1%20AI%E6%9C%8D%E5%8B%99%E7%9A%84%E7%B5%84%E4%BB%B6/8.1c%20Guardrails%20%E8%AD%B7%E6%AC%84.md"
+    },
+    {
+      "name": "8.1d Router and Gateway 路由和閘道.md",
+      "path": "8. 人工智能/8.1 AI服務的組件/8.1d Router and Gateway 路由和閘道.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.1%20AI%E6%9C%8D%E5%8B%99%E7%9A%84%E7%B5%84%E4%BB%B6/8.1d%20Router%20and%20Gateway%20%E8%B7%AF%E7%94%B1%E5%92%8C%E9%96%98%E9%81%93.md"
+    },
+    {
+      "name": "8.1e Cache 緩存.md",
+      "path": "8. 人工智能/8.1 AI服務的組件/8.1e Cache 緩存.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.1%20AI%E6%9C%8D%E5%8B%99%E7%9A%84%E7%B5%84%E4%BB%B6/8.1e%20Cache%20%E7%B7%A9%E5%AD%98.md"
+    },
+    {
+      "name": "8.1f Logic and Actions 複雜邏輯操作.md",
+      "path": "8. 人工智能/8.1 AI服務的組件/8.1f Logic and Actions 複雜邏輯操作.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.1%20AI%E6%9C%8D%E5%8B%99%E7%9A%84%E7%B5%84%E4%BB%B6/8.1f%20Logic%20and%20Actions%20%E8%A4%87%E9%9B%9C%E9%82%8F%E8%BC%AF%E6%93%8D%E4%BD%9C.md"
+    },
+    {
+      "name": "8.1g Observability 可觀測性.md",
+      "path": "8. 人工智能/8.1 AI服務的組件/8.1g Observability 可觀測性.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.1%20AI%E6%9C%8D%E5%8B%99%E7%9A%84%E7%B5%84%E4%BB%B6/8.1g%20Observability%20%E5%8F%AF%E8%A7%80%E6%B8%AC%E6%80%A7.md"
+    },
+    {
+      "name": "8.1h AI Pipeline Orchestration.md",
+      "path": "8. 人工智能/8.1 AI服務的組件/8.1h AI Pipeline Orchestration.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.1%20AI%E6%9C%8D%E5%8B%99%E7%9A%84%E7%B5%84%E4%BB%B6/8.1h%20AI%20Pipeline%20Orchestration.md"
+    },
+    {
+      "name": "8.10a 如何讓LLM學會單細胞RNA定序的知識C2S-Scale.md",
+      "path": "8. 人工智能/8.10 醫療AI/8.10a 如何讓LLM學會單細胞RNA定序的知識C2S-Scale.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.10%20%E9%86%AB%E7%99%82AI/8.10a%20%E5%A6%82%E4%BD%95%E8%AE%93LLM%E5%AD%B8%E6%9C%83%E5%96%AE%E7%B4%B0%E8%83%9ERNA%E5%AE%9A%E5%BA%8F%E7%9A%84%E7%9F%A5%E8%AD%98C2S-Scale.md"
+    },
+    {
+      "name": "8.10b C2S 一種細胞RNA的有損壓縮.md",
+      "path": "8. 人工智能/8.10 醫療AI/8.10b C2S 一種細胞RNA的有損壓縮.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.10%20%E9%86%AB%E7%99%82AI/8.10b%20C2S%20%E4%B8%80%E7%A8%AE%E7%B4%B0%E8%83%9ERNA%E7%9A%84%E6%9C%89%E6%90%8D%E5%A3%93%E7%B8%AE.md"
+    },
+    {
+      "name": "8.10c C2S-Scale 用了哪些資料集.md",
+      "path": "8. 人工智能/8.10 醫療AI/8.10c C2S-Scale 用了哪些資料集.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.10%20%E9%86%AB%E7%99%82AI/8.10c%20C2S-Scale%20%E7%94%A8%E4%BA%86%E5%93%AA%E4%BA%9B%E8%B3%87%E6%96%99%E9%9B%86.md"
+    },
+    {
+      "name": "8.2a 評估驅動設計.md",
+      "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a 評估驅動設計.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.2%20%E5%A6%82%E4%BD%95%E5%84%AA%E5%8C%96RAG%E6%9C%8D%E5%8B%99/8.2a%20%E8%A9%95%E4%BC%B0%E9%A9%85%E5%8B%95%E8%A8%AD%E8%A8%88.md"
+    },
+    {
+      "name": "8.2a1 優化指標索引.md",
+      "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1 優化指標索引.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.2%20%E5%A6%82%E4%BD%95%E5%84%AA%E5%8C%96RAG%E6%9C%8D%E5%8B%99/8.2a1%20%E5%84%AA%E5%8C%96%E6%8C%87%E6%A8%99%E7%B4%A2%E5%BC%95.md"
+    },
+    {
+      "name": "8.2a1b Answer Correctness 答案正確性.md",
+      "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1a 優化指標/8.2a1b Answer Correctness 答案正確性.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.2%20%E5%A6%82%E4%BD%95%E5%84%AA%E5%8C%96RAG%E6%9C%8D%E5%8B%99/8.2a1a%20%E5%84%AA%E5%8C%96%E6%8C%87%E6%A8%99/8.2a1b%20Answer%20Correctness%20%E7%AD%94%E6%A1%88%E6%AD%A3%E7%A2%BA%E6%80%A7.md"
+    },
+    {
+      "name": "8.2a1c Context Recall 上下文召回率.md",
+      "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1a 優化指標/8.2a1c Context Recall 上下文召回率.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.2%20%E5%A6%82%E4%BD%95%E5%84%AA%E5%8C%96RAG%E6%9C%8D%E5%8B%99/8.2a1a%20%E5%84%AA%E5%8C%96%E6%8C%87%E6%A8%99/8.2a1c%20Context%20Recall%20%E4%B8%8A%E4%B8%8B%E6%96%87%E5%8F%AC%E5%9B%9E%E7%8E%87.md"
+    },
+    {
+      "name": "8.2a1d Groundedness.md",
+      "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1a 優化指標/8.2a1d Groundedness.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.2%20%E5%A6%82%E4%BD%95%E5%84%AA%E5%8C%96RAG%E6%9C%8D%E5%8B%99/8.2a1a%20%E5%84%AA%E5%8C%96%E6%8C%87%E6%A8%99/8.2a1d%20Groundedness.md"
+    },
+    {
+      "name": "8.2a1e Context Entities Recall.md",
+      "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1a 優化指標/8.2a1e Context Entities Recall.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.2%20%E5%A6%82%E4%BD%95%E5%84%AA%E5%8C%96RAG%E6%9C%8D%E5%8B%99/8.2a1a%20%E5%84%AA%E5%8C%96%E6%8C%87%E6%A8%99/8.2a1e%20Context%20Entities%20Recall.md"
+    },
+    {
+      "name": "8.2a1f Noise Sensitivity 噪聲敏感度.md",
+      "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1a 優化指標/8.2a1f Noise Sensitivity 噪聲敏感度.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.2%20%E5%A6%82%E4%BD%95%E5%84%AA%E5%8C%96RAG%E6%9C%8D%E5%8B%99/8.2a1a%20%E5%84%AA%E5%8C%96%E6%8C%87%E6%A8%99/8.2a1f%20Noise%20Sensitivity%20%E5%99%AA%E8%81%B2%E6%95%8F%E6%84%9F%E5%BA%A6.md"
+    },
+    {
+      "name": "8.2a1g Context Relevance.md",
+      "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1a 優化指標/8.2a1g Context Relevance.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.2%20%E5%A6%82%E4%BD%95%E5%84%AA%E5%8C%96RAG%E6%9C%8D%E5%8B%99/8.2a1a%20%E5%84%AA%E5%8C%96%E6%8C%87%E6%A8%99/8.2a1g%20Context%20Relevance.md"
+    },
+    {
+      "name": "8.2a1h Context Utilization with LLM 上下文利用率.md",
+      "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1a 優化指標/8.2a1h Context Utilization with LLM 上下文利用率.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.2%20%E5%A6%82%E4%BD%95%E5%84%AA%E5%8C%96RAG%E6%9C%8D%E5%8B%99/8.2a1a%20%E5%84%AA%E5%8C%96%E6%8C%87%E6%A8%99/8.2a1h%20Context%20Utilization%20with%20LLM%20%E4%B8%8A%E4%B8%8B%E6%96%87%E5%88%A9%E7%94%A8%E7%8E%87.md"
+    },
+    {
+      "name": "8.2a1i Context Relevance.md",
+      "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1a 優化指標/8.2a1i Context Relevance.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.2%20%E5%A6%82%E4%BD%95%E5%84%AA%E5%8C%96RAG%E6%9C%8D%E5%8B%99/8.2a1a%20%E5%84%AA%E5%8C%96%E6%8C%87%E6%A8%99/8.2a1i%20Context%20Relevance.md"
+    },
+    {
+      "name": "8.2a1j Context Precision 上下文精確性.md",
+      "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1a 優化指標/8.2a1j Context Precision 上下文精確性.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.2%20%E5%A6%82%E4%BD%95%E5%84%AA%E5%8C%96RAG%E6%9C%8D%E5%8B%99/8.2a1a%20%E5%84%AA%E5%8C%96%E6%8C%87%E6%A8%99/8.2a1j%20Context%20Precision%20%E4%B8%8A%E4%B8%8B%E6%96%87%E7%B2%BE%E7%A2%BA%E6%80%A7.md"
+    },
+    {
+      "name": "8.2a1k Answer Relevance.md",
+      "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1a 優化指標/8.2a1k Answer Relevance.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.2%20%E5%A6%82%E4%BD%95%E5%84%AA%E5%8C%96RAG%E6%9C%8D%E5%8B%99/8.2a1a%20%E5%84%AA%E5%8C%96%E6%8C%87%E6%A8%99/8.2a1k%20Answer%20Relevance.md"
+    },
+    {
+      "name": "8.2a1l Summarization 摘要指標.md",
+      "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1a 優化指標/8.2a1l Summarization 摘要指標.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.2%20%E5%A6%82%E4%BD%95%E5%84%AA%E5%8C%96RAG%E6%9C%8D%E5%8B%99/8.2a1a%20%E5%84%AA%E5%8C%96%E6%8C%87%E6%A8%99/8.2a1l%20Summarization%20%E6%91%98%E8%A6%81%E6%8C%87%E6%A8%99.md"
+    },
+    {
+      "name": "8.2a1m Response Completeness.md",
+      "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1a 優化指標/8.2a1m Response Completeness.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.2%20%E5%A6%82%E4%BD%95%E5%84%AA%E5%8C%96RAG%E6%9C%8D%E5%8B%99/8.2a1a%20%E5%84%AA%E5%8C%96%E6%8C%87%E6%A8%99/8.2a1m%20Response%20Completeness.md"
+    },
+    {
+      "name": "8.2a1n Response Consistency 回應一致性.md",
+      "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1a 優化指標/8.2a1n Response Consistency 回應一致性.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.2%20%E5%A6%82%E4%BD%95%E5%84%AA%E5%8C%96RAG%E6%9C%8D%E5%8B%99/8.2a1a%20%E5%84%AA%E5%8C%96%E6%8C%87%E6%A8%99/8.2a1n%20Response%20Consistency%20%E5%9B%9E%E6%87%89%E4%B8%80%E8%87%B4%E6%80%A7.md"
+    },
+    {
+      "name": "8.2a1o Faithfulness 忠實性分數.md",
+      "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1a 優化指標/8.2a1o Faithfulness 忠實性分數.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.2%20%E5%A6%82%E4%BD%95%E5%84%AA%E5%8C%96RAG%E6%9C%8D%E5%8B%99/8.2a1a%20%E5%84%AA%E5%8C%96%E6%8C%87%E6%A8%99/8.2a1o%20Faithfulness%20%E5%BF%A0%E5%AF%A6%E6%80%A7%E5%88%86%E6%95%B8.md"
+    },
+    {
+      "name": "8.2a1p Factual Accuracy 事實準確性.md",
+      "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1a 優化指標/8.2a1p Factual Accuracy 事實準確性.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.2%20%E5%A6%82%E4%BD%95%E5%84%AA%E5%8C%96RAG%E6%9C%8D%E5%8B%99/8.2a1a%20%E5%84%AA%E5%8C%96%E6%8C%87%E6%A8%99/8.2a1p%20Factual%20Accuracy%20%E4%BA%8B%E5%AF%A6%E6%BA%96%E7%A2%BA%E6%80%A7.md"
+    },
+    {
+      "name": "8.2a1h Context Utilization 上下文利用率.md",
+      "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1h Context Utilization 上下文利用率.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.2%20%E5%A6%82%E4%BD%95%E5%84%AA%E5%8C%96RAG%E6%9C%8D%E5%8B%99/8.2a1h%20Context%20Utilization%20%E4%B8%8A%E4%B8%8B%E6%96%87%E5%88%A9%E7%94%A8%E7%8E%87.md"
+    },
+    {
+      "name": "8.2a1j Context Precision with LLM with Reference 上下文精確性.md",
+      "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1j Context Precision with LLM with Reference 上下文精確性.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.2%20%E5%A6%82%E4%BD%95%E5%84%AA%E5%8C%96RAG%E6%9C%8D%E5%8B%99/8.2a1j%20Context%20Precision%20with%20LLM%20with%20Reference%20%E4%B8%8A%E4%B8%8B%E6%96%87%E7%B2%BE%E7%A2%BA%E6%80%A7.md"
+    },
+    {
+      "name": "8.2a1j Context Precision with LLM without Reference 上下文精確性.md",
+      "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1j Context Precision with LLM without Reference 上下文精確性.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.2%20%E5%A6%82%E4%BD%95%E5%84%AA%E5%8C%96RAG%E6%9C%8D%E5%8B%99/8.2a1j%20Context%20Precision%20with%20LLM%20without%20Reference%20%E4%B8%8A%E4%B8%8B%E6%96%87%E7%B2%BE%E7%A2%BA%E6%80%A7.md"
+    },
+    {
+      "name": "8.2a1j Contextual Precision 上下文精確度.md",
+      "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1j Contextual Precision 上下文精確度.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.2%20%E5%A6%82%E4%BD%95%E5%84%AA%E5%8C%96RAG%E6%9C%8D%E5%8B%99/8.2a1j%20Contextual%20Precision%20%E4%B8%8A%E4%B8%8B%E6%96%87%E7%B2%BE%E7%A2%BA%E5%BA%A6.md"
+    },
+    {
+      "name": "8.2a1k Response Relevance 回應相關性.md",
+      "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1k Response Relevance 回應相關性.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.2%20%E5%A6%82%E4%BD%95%E5%84%AA%E5%8C%96RAG%E6%9C%8D%E5%8B%99/8.2a1k%20Response%20Relevance%20%E5%9B%9E%E6%87%89%E7%9B%B8%E9%97%9C%E6%80%A7.md"
+    },
+    {
+      "name": "8.2a1o FaithfulnessMetric 忠實性分數.md",
+      "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1o FaithfulnessMetric 忠實性分數.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.2%20%E5%A6%82%E4%BD%95%E5%84%AA%E5%8C%96RAG%E6%9C%8D%E5%8B%99/8.2a1o%20FaithfulnessMetric%20%E5%BF%A0%E5%AF%A6%E6%80%A7%E5%88%86%E6%95%B8.md"
+    },
+    {
+      "name": "8.2a1o Response Validity 回應有效性.md",
+      "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1o Response Validity 回應有效性.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.2%20%E5%A6%82%E4%BD%95%E5%84%AA%E5%8C%96RAG%E6%9C%8D%E5%8B%99/8.2a1o%20Response%20Validity%20%E5%9B%9E%E6%87%89%E6%9C%89%E6%95%88%E6%80%A7.md"
+    },
+    {
+      "name": "8.2a1p Hallucination 幻覺分數.md",
+      "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1p Hallucination 幻覺分數.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.2%20%E5%A6%82%E4%BD%95%E5%84%AA%E5%8C%96RAG%E6%9C%8D%E5%8B%99/8.2a1p%20Hallucination%20%E5%B9%BB%E8%A6%BA%E5%88%86%E6%95%B8.md"
+    },
+    {
+      "name": "8.2a1p Response Conciseness 回應簡潔性.md",
+      "path": "8. 人工智能/8.2 如何優化RAG服務/8.2a1p Response Conciseness 回應簡潔性.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.2%20%E5%A6%82%E4%BD%95%E5%84%AA%E5%8C%96RAG%E6%9C%8D%E5%8B%99/8.2a1p%20Response%20Conciseness%20%E5%9B%9E%E6%87%89%E7%B0%A1%E6%BD%94%E6%80%A7.md"
+    },
+    {
+      "name": "8.3 身為一個工程師，沒有考慮成本的 AI Agent 架構是沒有意義的。.md",
+      "path": "8. 人工智能/8.3 身為一個工程師，沒有考慮成本的 AI Agent 架構是沒有意義的。.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.3%20%E8%BA%AB%E7%82%BA%E4%B8%80%E5%80%8B%E5%B7%A5%E7%A8%8B%E5%B8%AB%EF%BC%8C%E6%B2%92%E6%9C%89%E8%80%83%E6%85%AE%E6%88%90%E6%9C%AC%E7%9A%84%20AI%20Agent%20%E6%9E%B6%E6%A7%8B%E6%98%AF%E6%B2%92%E6%9C%89%E6%84%8F%E7%BE%A9%E7%9A%84%E3%80%82.md"
+    },
+    {
+      "name": "8.4a ReAct 架構 反應與行為.md",
+      "path": "8. 人工智能/8.4 Agentic System/8.4a ReAct 架構 反應與行為.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.4%20Agentic%20System/8.4a%20ReAct%20%E6%9E%B6%E6%A7%8B%20%E5%8F%8D%E6%87%89%E8%88%87%E8%A1%8C%E7%82%BA.md"
+    },
+    {
+      "name": "8.4b LangGraph 基本組件.md",
+      "path": "8. 人工智能/8.4 Agentic System/8.4b LangGraph 基本組件.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.4%20Agentic%20System/8.4b%20LangGraph%20%E5%9F%BA%E6%9C%AC%E7%B5%84%E4%BB%B6.md"
+    },
+    {
+      "name": "8.4b1 DAG 和 AG.md",
+      "path": "8. 人工智能/8.4 Agentic System/8.4b1 DAG 和 AG.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.4%20Agentic%20System/8.4b1%20DAG%20%E5%92%8C%20AG.md"
+    },
+    {
+      "name": "8.4c Tool Calling.md",
+      "path": "8. 人工智能/8.4 Agentic System/8.4c Tool Calling.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.4%20Agentic%20System/8.4c%20Tool%20Calling.md"
+    },
+    {
+      "name": "8.4c1 非同步的Tool Calling.md",
+      "path": "8. 人工智能/8.4 Agentic System/8.4c1 非同步的Tool Calling.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.4%20Agentic%20System/8.4c1%20%E9%9D%9E%E5%90%8C%E6%AD%A5%E7%9A%84Tool%20Calling.md"
+    },
+    {
+      "name": "8.4 在notebook環境中安裝ollama.md",
+      "path": "8. 人工智能/8.4 在notebook環境中安裝ollama.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.4%20%E5%9C%A8notebook%E7%92%B0%E5%A2%83%E4%B8%AD%E5%AE%89%E8%A3%9Dollama.md"
+    },
+    {
+      "name": "8.5 建立有效的反饋機制.md",
+      "path": "8. 人工智能/8.5 建立有效的反饋機制.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.5%20%E5%BB%BA%E7%AB%8B%E6%9C%89%E6%95%88%E7%9A%84%E5%8F%8D%E9%A5%8B%E6%A9%9F%E5%88%B6.md"
+    },
+    {
+      "name": "8.7 Speculative Decoding LLM加速服務.md",
+      "path": "8. 人工智能/8.7 Speculative Decoding LLM加速服務.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.7%20Speculative%20Decoding%20LLM%E5%8A%A0%E9%80%9F%E6%9C%8D%E5%8B%99.md"
+    },
+    {
+      "name": "8.8a1 CADe&CADx 技術指引.md",
+      "path": "8. 人工智能/8.8 負責任AI/8.8a 衛福部AI法規/8.8a1 CADe&CADx 技術指引.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.8%20%E8%B2%A0%E8%B2%AC%E4%BB%BBAI/8.8a%20%E8%A1%9B%E7%A6%8F%E9%83%A8AI%E6%B3%95%E8%A6%8F/8.8a1%20CADe%26CADx%20%E6%8A%80%E8%A1%93%E6%8C%87%E5%BC%95.md"
+    },
+    {
+      "name": "8.8a2  獨立性能評估 SPA 常見問答集.md",
+      "path": "8. 人工智能/8.8 負責任AI/8.8a 衛福部AI法規/8.8a2  獨立性能評估 SPA 常見問答集.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.8%20%E8%B2%A0%E8%B2%AC%E4%BB%BBAI/8.8a%20%E8%A1%9B%E7%A6%8F%E9%83%A8AI%E6%B3%95%E8%A6%8F/8.8a2%20%20%E7%8D%A8%E7%AB%8B%E6%80%A7%E8%83%BD%E8%A9%95%E4%BC%B0%20SPA%20%E5%B8%B8%E8%A6%8B%E5%95%8F%E7%AD%94%E9%9B%86.md"
+    },
+    {
+      "name": "8.8a3 九大透明性原則.md",
+      "path": "8. 人工智能/8.8 負責任AI/8.8a 衛福部AI法規/8.8a3 九大透明性原則.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.8%20%E8%B2%A0%E8%B2%AC%E4%BB%BBAI/8.8a%20%E8%A1%9B%E7%A6%8F%E9%83%A8AI%E6%B3%95%E8%A6%8F/8.8a3%20%E4%B9%9D%E5%A4%A7%E9%80%8F%E6%98%8E%E6%80%A7%E5%8E%9F%E5%89%87.md"
+    },
+    {
+      "name": "8.8b 美國醫療演算法偏見案.md",
+      "path": "8. 人工智能/8.8 負責任AI/8.8b 美國醫療演算法偏見案.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.8%20%E8%B2%A0%E8%B2%AC%E4%BB%BBAI/8.8b%20%E7%BE%8E%E5%9C%8B%E9%86%AB%E7%99%82%E6%BC%94%E7%AE%97%E6%B3%95%E5%81%8F%E8%A6%8B%E6%A1%88.md"
+    },
+    {
+      "name": "8.9a LIME and SHAP.md",
+      "path": "8. 人工智能/8.9 XAI/8.9a LIME and SHAP.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/8.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/8.9%20XAI/8.9a%20LIME%20and%20SHAP.md"
+    },
+    {
+      "name": "9.1 敏捷和瀑布的出路，Hybrid 專案管理.md",
+      "path": "9. 專案管理/9.1 敏捷和瀑布的出路，Hybrid 專案管理.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/9.%20%E5%B0%88%E6%A1%88%E7%AE%A1%E7%90%86/9.1%20%E6%95%8F%E6%8D%B7%E5%92%8C%E7%80%91%E5%B8%83%E7%9A%84%E5%87%BA%E8%B7%AF%EF%BC%8CHybrid%20%E5%B0%88%E6%A1%88%E7%AE%A1%E7%90%86.md"
+    },
+    {
+      "name": "9.1a 如果我們的動作很難快，例如很難快速上線，或是快速更版，快速重構，那還適合敏捷嗎？.md",
+      "path": "9. 專案管理/9.1a 如果我們的動作很難快，例如很難快速上線，或是快速更版，快速重構，那還適合敏捷嗎？.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/9.%20%E5%B0%88%E6%A1%88%E7%AE%A1%E7%90%86/9.1a%20%E5%A6%82%E6%9E%9C%E6%88%91%E5%80%91%E7%9A%84%E5%8B%95%E4%BD%9C%E5%BE%88%E9%9B%A3%E5%BF%AB%EF%BC%8C%E4%BE%8B%E5%A6%82%E5%BE%88%E9%9B%A3%E5%BF%AB%E9%80%9F%E4%B8%8A%E7%B7%9A%EF%BC%8C%E6%88%96%E6%98%AF%E5%BF%AB%E9%80%9F%E6%9B%B4%E7%89%88%EF%BC%8C%E5%BF%AB%E9%80%9F%E9%87%8D%E6%A7%8B%EF%BC%8C%E9%82%A3%E9%82%84%E9%81%A9%E5%90%88%E6%95%8F%E6%8D%B7%E5%97%8E%EF%BC%9F.md"
+    },
+    {
+      "name": "9.1b 敏捷式的軟體架構，是不是要更有“彈性”？.md",
+      "path": "9. 專案管理/9.1b 敏捷式的軟體架構，是不是要更有“彈性”？.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/9.%20%E5%B0%88%E6%A1%88%E7%AE%A1%E7%90%86/9.1b%20%E6%95%8F%E6%8D%B7%E5%BC%8F%E7%9A%84%E8%BB%9F%E9%AB%94%E6%9E%B6%E6%A7%8B%EF%BC%8C%E6%98%AF%E4%B8%8D%E6%98%AF%E8%A6%81%E6%9B%B4%E6%9C%89%E2%80%9C%E5%BD%88%E6%80%A7%E2%80%9D%EF%BC%9F.md"
+    },
+    {
+      "name": "9.2 溝通型簡報和表演型簡報.md",
+      "path": "9. 專案管理/9.2 溝通型簡報和表演型簡報.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/9.%20%E5%B0%88%E6%A1%88%E7%AE%A1%E7%90%86/9.2%20%E6%BA%9D%E9%80%9A%E5%9E%8B%E7%B0%A1%E5%A0%B1%E5%92%8C%E8%A1%A8%E6%BC%94%E5%9E%8B%E7%B0%A1%E5%A0%B1.md"
+    },
+    {
+      "name": "DEPLOY_GUIDE.md",
+      "path": "DEPLOY_GUIDE.md",
+      "url": "https://SamLiaoP.github.io/obsidian_card/DEPLOY_GUIDE.md"
+    }
+  ]
+}
